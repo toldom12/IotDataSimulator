@@ -4,7 +4,7 @@ from enum import StrEnum, IntEnum, Enum
 from typing import Optional
 
 from generators.data_generator import DataGenerator
-from simulator.devices.device import StatusDevice, MotionStatus
+from src.simulator.devices.device import StatusDevice, MotionStatus
 
 
 class MotionSensorGenerator(DataGenerator):

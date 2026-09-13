@@ -1,10 +1,14 @@
 from abc import ABC, abstractmethod
-from enum import StrEnum
+from enum import StrEnum, IntEnum
 
 
-class Status(StrEnum):
-    ON = 'ON'
-    OFF = 'OFF'
+class MotionStatus(IntEnum):
+    MovementOn = 1
+    MovementOff = 0
+
+class StatusDevice(StrEnum):
+    Disconnected = 'ON'
+    Connected = 'OFF'
 
 class Device(ABC):
     def __init__(self,
