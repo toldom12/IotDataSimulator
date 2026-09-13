@@ -1,5 +1,3 @@
-from abc import abstractmethod
-
 from src.simulator.devices.device import Device
 
 
@@ -27,3 +25,7 @@ class MotionSensor(Device):
     @property
     def gateway(self) ->list[str]:
         return self._gateway
+
+    @property
+    def generate_data(self) -> dict:
+        return self._generate_data

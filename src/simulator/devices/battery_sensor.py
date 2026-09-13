@@ -1,26 +1,31 @@
-from abc import abstractmethod
-
 from src.simulator.devices.device import Device
 
 
 class BatterySensor(Device):
-
-    @abstractmethod
+    @property
     def name(self) -> str:
-        return self.name
+        return self._name
 
-    @abstractmethod
+    @property
     def status(self)-> str:
-        return self.status
+        return self._status
 
-    @abstractmethod
-    def device_id(self)-> str:
-        return self.device_id
+    @property
+    def device_id(self)-> int:
+        return self._device_id
 
-    @abstractmethod
+    @property
     def created_by(self)-> str:
-        return self.created_by
+        return self._created_by
 
-    @abstractmethod
-    def battery_level(self)-> str:
-        return self.battery_level
+    @property
+    def battery_level(self)-> int:
+        return self._battery_level
+
+    @property
+    def gateway(self) -> list[str]:
+        return self._gateway
+
+    @property
+    def generate_data(self) -> dict:
+        return self._generate_data
