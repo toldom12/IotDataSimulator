@@ -1,0 +1,8001 @@
+[{
+  "device_id": 0,
+  "vcc": 460,
+  "temperature": 0.0,
+  "humidity": 0.0,
+  "status": "Disconnected",
+  "timestamp": 0
+},
+{
+  "device_id": 1,
+  "vcc": 460,
+  "temperature": 15.7,
+  "humidity": 45.5,
+  "status": "Disconnected",
+  "timestamp": 1788964245
+},
+{
+  "device_id": 2,
+  "vcc": 460,
+  "temperature": 31.4,
+  "humidity": 91.0,
+  "status": "Disconnected",
+  "timestamp": 3577928490
+},
+{
+  "device_id": 3,
+  "vcc": 460,
+  "temperature": 47.099999999999994,
+  "humidity": 136.5,
+  "status": "Disconnected",
+  "timestamp": 5366892735
+},
+{
+  "device_id": 4,
+  "vcc": 460,
+  "temperature": 62.8,
+  "humidity": 182.0,
+  "status": "Disconnected",
+  "timestamp": 7155856980
+},
+{
+  "device_id": 5,
+  "vcc": 460,
+  "temperature": 78.5,
+  "humidity": 227.5,
+  "status": "Disconnected",
+  "timestamp": 8944821225
+},
+{
+  "device_id": 6,
+  "vcc": 460,
+  "temperature": 94.19999999999999,
+  "humidity": 273.0,
+  "status": "Disconnected",
+  "timestamp": 10733785470
+},
+{
+  "device_id": 7,
+  "vcc": 460,
+  "temperature": 109.89999999999999,
+  "humidity": 318.5,
+  "status": "Disconnected",
+  "timestamp": 12522749715
+},
+{
+  "device_id": 8,
+  "vcc": 460,
+  "temperature": 125.6,
+  "humidity": 364.0,
+  "status": "Disconnected",
+  "timestamp": 14311713960
+},
+{
+  "device_id": 9,
+  "vcc": 460,
+  "temperature": 141.29999999999998,
+  "humidity": 409.5,
+  "status": "Disconnected",
+  "timestamp": 16100678205
+},
+{
+  "device_id": 10,
+  "vcc": 460,
+  "temperature": 157.0,
+  "humidity": 455.0,
+  "status": "Disconnected",
+  "timestamp": 17889642450
+},
+{
+  "device_id": 11,
+  "vcc": 460,
+  "temperature": 172.7,
+  "humidity": 500.5,
+  "status": "Disconnected",
+  "timestamp": 19678606695
+},
+{
+  "device_id": 12,
+  "vcc": 460,
+  "temperature": 188.39999999999998,
+  "humidity": 546.0,
+  "status": "Disconnected",
+  "timestamp": 21467570940
+},
+{
+  "device_id": 13,
+  "vcc": 460,
+  "temperature": 204.1,
+  "humidity": 591.5,
+  "status": "Disconnected",
+  "timestamp": 23256535185
+},
+{
+  "device_id": 14,
+  "vcc": 460,
+  "temperature": 219.79999999999998,
+  "humidity": 637.0,
+  "status": "Disconnected",
+  "timestamp": 25045499430
+},
+{
+  "device_id": 15,
+  "vcc": 460,
+  "temperature": 235.5,
+  "humidity": 682.5,
+  "status": "Disconnected",
+  "timestamp": 26834463675
+},
+{
+  "device_id": 16,
+  "vcc": 460,
+  "temperature": 251.2,
+  "humidity": 728.0,
+  "status": "Disconnected",
+  "timestamp": 28623427920
+},
+{
+  "device_id": 17,
+  "vcc": 460,
+  "temperature": 266.9,
+  "humidity": 773.5,
+  "status": "Disconnected",
+  "timestamp": 30412392165
+},
+{
+  "device_id": 18,
+  "vcc": 460,
+  "temperature": 282.59999999999997,
+  "humidity": 819.0,
+  "status": "Disconnected",
+  "timestamp": 32201356410
+},
+{
+  "device_id": 19,
+  "vcc": 460,
+  "temperature": 298.3,
+  "humidity": 864.5,
+  "status": "Disconnected",
+  "timestamp": 33990320655
+},
+{
+  "device_id": 20,
+  "vcc": 460,
+  "temperature": 314.0,
+  "humidity": 910.0,
+  "status": "Disconnected",
+  "timestamp": 35779284900
+},
+{
+  "device_id": 21,
+  "vcc": 460,
+  "temperature": 329.7,
+  "humidity": 955.5,
+  "status": "Disconnected",
+  "timestamp": 37568249145
+},
+{
+  "device_id": 22,
+  "vcc": 460,
+  "temperature": 345.4,
+  "humidity": 1001.0,
+  "status": "Disconnected",
+  "timestamp": 39357213390
+},
+{
+  "device_id": 23,
+  "vcc": 460,
+  "temperature": 361.09999999999997,
+  "humidity": 1046.5,
+  "status": "Disconnected",
+  "timestamp": 41146177635
+},
+{
+  "device_id": 24,
+  "vcc": 460,
+  "temperature": 376.79999999999995,
+  "humidity": 1092.0,
+  "status": "Disconnected",
+  "timestamp": 42935141880
+},
+{
+  "device_id": 25,
+  "vcc": 460,
+  "temperature": 392.5,
+  "humidity": 1137.5,
+  "status": "Disconnected",
+  "timestamp": 44724106125
+},
+{
+  "device_id": 26,
+  "vcc": 460,
+  "temperature": 408.2,
+  "humidity": 1183.0,
+  "status": "Disconnected",
+  "timestamp": 46513070370
+},
+{
+  "device_id": 27,
+  "vcc": 460,
+  "temperature": 423.9,
+  "humidity": 1228.5,
+  "status": "Disconnected",
+  "timestamp": 48302034615
+},
+{
+  "device_id": 28,
+  "vcc": 460,
+  "temperature": 439.59999999999997,
+  "humidity": 1274.0,
+  "status": "Disconnected",
+  "timestamp": 50090998860
+},
+{
+  "device_id": 29,
+  "vcc": 460,
+  "temperature": 455.29999999999995,
+  "humidity": 1319.5,
+  "status": "Disconnected",
+  "timestamp": 51879963105
+},
+{
+  "device_id": 30,
+  "vcc": 460,
+  "temperature": 471.0,
+  "humidity": 1365.0,
+  "status": "Disconnected",
+  "timestamp": 53668927350
+},
+{
+  "device_id": 31,
+  "vcc": 460,
+  "temperature": 486.7,
+  "humidity": 1410.5,
+  "status": "Disconnected",
+  "timestamp": 55457891595
+},
+{
+  "device_id": 32,
+  "vcc": 460,
+  "temperature": 502.4,
+  "humidity": 1456.0,
+  "status": "Disconnected",
+  "timestamp": 57246855840
+},
+{
+  "device_id": 33,
+  "vcc": 460,
+  "temperature": 518.1,
+  "humidity": 1501.5,
+  "status": "Disconnected",
+  "timestamp": 59035820085
+},
+{
+  "device_id": 34,
+  "vcc": 460,
+  "temperature": 533.8,
+  "humidity": 1547.0,
+  "status": "Disconnected",
+  "timestamp": 60824784330
+},
+{
+  "device_id": 35,
+  "vcc": 460,
+  "temperature": 549.5,
+  "humidity": 1592.5,
+  "status": "Disconnected",
+  "timestamp": 62613748575
+},
+{
+  "device_id": 36,
+  "vcc": 460,
+  "temperature": 565.1999999999999,
+  "humidity": 1638.0,
+  "status": "Disconnected",
+  "timestamp": 64402712820
+},
+{
+  "device_id": 37,
+  "vcc": 460,
+  "temperature": 580.9,
+  "humidity": 1683.5,
+  "status": "Disconnected",
+  "timestamp": 66191677065
+},
+{
+  "device_id": 38,
+  "vcc": 460,
+  "temperature": 596.6,
+  "humidity": 1729.0,
+  "status": "Disconnected",
+  "timestamp": 67980641310
+},
+{
+  "device_id": 39,
+  "vcc": 460,
+  "temperature": 612.3,
+  "humidity": 1774.5,
+  "status": "Disconnected",
+  "timestamp": 69769605555
+},
+{
+  "device_id": 40,
+  "vcc": 460,
+  "temperature": 628.0,
+  "humidity": 1820.0,
+  "status": "Disconnected",
+  "timestamp": 71558569800
+},
+{
+  "device_id": 41,
+  "vcc": 460,
+  "temperature": 643.6999999999999,
+  "humidity": 1865.5,
+  "status": "Disconnected",
+  "timestamp": 73347534045
+},
+{
+  "device_id": 42,
+  "vcc": 460,
+  "temperature": 659.4,
+  "humidity": 1911.0,
+  "status": "Disconnected",
+  "timestamp": 75136498290
+},
+{
+  "device_id": 43,
+  "vcc": 460,
+  "temperature": 675.1,
+  "humidity": 1956.5,
+  "status": "Disconnected",
+  "timestamp": 76925462535
+},
+{
+  "device_id": 44,
+  "vcc": 460,
+  "temperature": 690.8,
+  "humidity": 2002.0,
+  "status": "Disconnected",
+  "timestamp": 78714426780
+},
+{
+  "device_id": 45,
+  "vcc": 460,
+  "temperature": 706.5,
+  "humidity": 2047.5,
+  "status": "Disconnected",
+  "timestamp": 80503391025
+},
+{
+  "device_id": 46,
+  "vcc": 460,
+  "temperature": 722.1999999999999,
+  "humidity": 2093.0,
+  "status": "Disconnected",
+  "timestamp": 82292355270
+},
+{
+  "device_id": 47,
+  "vcc": 460,
+  "temperature": 737.9,
+  "humidity": 2138.5,
+  "status": "Disconnected",
+  "timestamp": 84081319515
+},
+{
+  "device_id": 48,
+  "vcc": 460,
+  "temperature": 753.5999999999999,
+  "humidity": 2184.0,
+  "status": "Disconnected",
+  "timestamp": 85870283760
+},
+{
+  "device_id": 49,
+  "vcc": 460,
+  "temperature": 769.3,
+  "humidity": 2229.5,
+  "status": "Disconnected",
+  "timestamp": 87659248005
+},
+{
+  "device_id": 50,
+  "vcc": 460,
+  "temperature": 785.0,
+  "humidity": 2275.0,
+  "status": "Disconnected",
+  "timestamp": 89448212250
+},
+{
+  "device_id": 51,
+  "vcc": 460,
+  "temperature": 800.6999999999999,
+  "humidity": 2320.5,
+  "status": "Disconnected",
+  "timestamp": 91237176495
+},
+{
+  "device_id": 52,
+  "vcc": 460,
+  "temperature": 816.4,
+  "humidity": 2366.0,
+  "status": "Disconnected",
+  "timestamp": 93026140740
+},
+{
+  "device_id": 53,
+  "vcc": 460,
+  "temperature": 832.0999999999999,
+  "humidity": 2411.5,
+  "status": "Disconnected",
+  "timestamp": 94815104985
+},
+{
+  "device_id": 54,
+  "vcc": 460,
+  "temperature": 847.8,
+  "humidity": 2457.0,
+  "status": "Disconnected",
+  "timestamp": 96604069230
+},
+{
+  "device_id": 55,
+  "vcc": 460,
+  "temperature": 863.5,
+  "humidity": 2502.5,
+  "status": "Disconnected",
+  "timestamp": 98393033475
+},
+{
+  "device_id": 56,
+  "vcc": 460,
+  "temperature": 879.1999999999999,
+  "humidity": 2548.0,
+  "status": "Disconnected",
+  "timestamp": 100181997720
+},
+{
+  "device_id": 57,
+  "vcc": 460,
+  "temperature": 894.9,
+  "humidity": 2593.5,
+  "status": "Disconnected",
+  "timestamp": 101970961965
+},
+{
+  "device_id": 58,
+  "vcc": 460,
+  "temperature": 910.5999999999999,
+  "humidity": 2639.0,
+  "status": "Disconnected",
+  "timestamp": 103759926210
+},
+{
+  "device_id": 59,
+  "vcc": 460,
+  "temperature": 926.3,
+  "humidity": 2684.5,
+  "status": "Disconnected",
+  "timestamp": 105548890455
+},
+{
+  "device_id": 60,
+  "vcc": 460,
+  "temperature": 942.0,
+  "humidity": 2730.0,
+  "status": "Disconnected",
+  "timestamp": 107337854700
+},
+{
+  "device_id": 61,
+  "vcc": 460,
+  "temperature": 957.6999999999999,
+  "humidity": 2775.5,
+  "status": "Disconnected",
+  "timestamp": 109126818945
+},
+{
+  "device_id": 62,
+  "vcc": 460,
+  "temperature": 973.4,
+  "humidity": 2821.0,
+  "status": "Disconnected",
+  "timestamp": 110915783190
+},
+{
+  "device_id": 63,
+  "vcc": 460,
+  "temperature": 989.0999999999999,
+  "humidity": 2866.5,
+  "status": "Disconnected",
+  "timestamp": 112704747435
+},
+{
+  "device_id": 64,
+  "vcc": 460,
+  "temperature": 1004.8,
+  "humidity": 2912.0,
+  "status": "Disconnected",
+  "timestamp": 114493711680
+},
+{
+  "device_id": 65,
+  "vcc": 460,
+  "temperature": 1020.5,
+  "humidity": 2957.5,
+  "status": "Disconnected",
+  "timestamp": 116282675925
+},
+{
+  "device_id": 66,
+  "vcc": 460,
+  "temperature": 1036.2,
+  "humidity": 3003.0,
+  "status": "Disconnected",
+  "timestamp": 118071640170
+},
+{
+  "device_id": 67,
+  "vcc": 460,
+  "temperature": 1051.8999999999999,
+  "humidity": 3048.5,
+  "status": "Disconnected",
+  "timestamp": 119860604415
+},
+{
+  "device_id": 68,
+  "vcc": 460,
+  "temperature": 1067.6,
+  "humidity": 3094.0,
+  "status": "Disconnected",
+  "timestamp": 121649568660
+},
+{
+  "device_id": 69,
+  "vcc": 460,
+  "temperature": 1083.3,
+  "humidity": 3139.5,
+  "status": "Disconnected",
+  "timestamp": 123438532905
+},
+{
+  "device_id": 70,
+  "vcc": 460,
+  "temperature": 1099.0,
+  "humidity": 3185.0,
+  "status": "Disconnected",
+  "timestamp": 125227497150
+},
+{
+  "device_id": 71,
+  "vcc": 460,
+  "temperature": 1114.7,
+  "humidity": 3230.5,
+  "status": "Disconnected",
+  "timestamp": 127016461395
+},
+{
+  "device_id": 72,
+  "vcc": 460,
+  "temperature": 1130.3999999999999,
+  "humidity": 3276.0,
+  "status": "Disconnected",
+  "timestamp": 128805425640
+},
+{
+  "device_id": 73,
+  "vcc": 460,
+  "temperature": 1146.1,
+  "humidity": 3321.5,
+  "status": "Disconnected",
+  "timestamp": 130594389885
+},
+{
+  "device_id": 74,
+  "vcc": 460,
+  "temperature": 1161.8,
+  "humidity": 3367.0,
+  "status": "Disconnected",
+  "timestamp": 132383354130
+},
+{
+  "device_id": 75,
+  "vcc": 460,
+  "temperature": 1177.5,
+  "humidity": 3412.5,
+  "status": "Disconnected",
+  "timestamp": 134172318375
+},
+{
+  "device_id": 76,
+  "vcc": 460,
+  "temperature": 1193.2,
+  "humidity": 3458.0,
+  "status": "Disconnected",
+  "timestamp": 135961282620
+},
+{
+  "device_id": 77,
+  "vcc": 460,
+  "temperature": 1208.8999999999999,
+  "humidity": 3503.5,
+  "status": "Disconnected",
+  "timestamp": 137750246865
+},
+{
+  "device_id": 78,
+  "vcc": 460,
+  "temperature": 1224.6,
+  "humidity": 3549.0,
+  "status": "Disconnected",
+  "timestamp": 139539211110
+},
+{
+  "device_id": 79,
+  "vcc": 460,
+  "temperature": 1240.3,
+  "humidity": 3594.5,
+  "status": "Disconnected",
+  "timestamp": 141328175355
+},
+{
+  "device_id": 80,
+  "vcc": 460,
+  "temperature": 1256.0,
+  "humidity": 3640.0,
+  "status": "Disconnected",
+  "timestamp": 143117139600
+},
+{
+  "device_id": 81,
+  "vcc": 460,
+  "temperature": 1271.7,
+  "humidity": 3685.5,
+  "status": "Disconnected",
+  "timestamp": 144906103845
+},
+{
+  "device_id": 82,
+  "vcc": 460,
+  "temperature": 1287.3999999999999,
+  "humidity": 3731.0,
+  "status": "Disconnected",
+  "timestamp": 146695068090
+},
+{
+  "device_id": 83,
+  "vcc": 460,
+  "temperature": 1303.1,
+  "humidity": 3776.5,
+  "status": "Disconnected",
+  "timestamp": 148484032335
+},
+{
+  "device_id": 84,
+  "vcc": 460,
+  "temperature": 1318.8,
+  "humidity": 3822.0,
+  "status": "Disconnected",
+  "timestamp": 150272996580
+},
+{
+  "device_id": 85,
+  "vcc": 460,
+  "temperature": 1334.5,
+  "humidity": 3867.5,
+  "status": "Disconnected",
+  "timestamp": 152061960825
+},
+{
+  "device_id": 86,
+  "vcc": 460,
+  "temperature": 1350.2,
+  "humidity": 3913.0,
+  "status": "Disconnected",
+  "timestamp": 153850925070
+},
+{
+  "device_id": 87,
+  "vcc": 460,
+  "temperature": 1365.8999999999999,
+  "humidity": 3958.5,
+  "status": "Disconnected",
+  "timestamp": 155639889315
+},
+{
+  "device_id": 88,
+  "vcc": 460,
+  "temperature": 1381.6,
+  "humidity": 4004.0,
+  "status": "Disconnected",
+  "timestamp": 157428853560
+},
+{
+  "device_id": 89,
+  "vcc": 460,
+  "temperature": 1397.3,
+  "humidity": 4049.5,
+  "status": "Disconnected",
+  "timestamp": 159217817805
+},
+{
+  "device_id": 90,
+  "vcc": 460,
+  "temperature": 1413.0,
+  "humidity": 4095.0,
+  "status": "Disconnected",
+  "timestamp": 161006782050
+},
+{
+  "device_id": 91,
+  "vcc": 460,
+  "temperature": 1428.7,
+  "humidity": 4140.5,
+  "status": "Disconnected",
+  "timestamp": 162795746295
+},
+{
+  "device_id": 92,
+  "vcc": 460,
+  "temperature": 1444.3999999999999,
+  "humidity": 4186.0,
+  "status": "Disconnected",
+  "timestamp": 164584710540
+},
+{
+  "device_id": 93,
+  "vcc": 460,
+  "temperature": 1460.1,
+  "humidity": 4231.5,
+  "status": "Disconnected",
+  "timestamp": 166373674785
+},
+{
+  "device_id": 94,
+  "vcc": 460,
+  "temperature": 1475.8,
+  "humidity": 4277.0,
+  "status": "Disconnected",
+  "timestamp": 168162639030
+},
+{
+  "device_id": 95,
+  "vcc": 460,
+  "temperature": 1491.5,
+  "humidity": 4322.5,
+  "status": "Disconnected",
+  "timestamp": 169951603275
+},
+{
+  "device_id": 96,
+  "vcc": 460,
+  "temperature": 1507.1999999999998,
+  "humidity": 4368.0,
+  "status": "Disconnected",
+  "timestamp": 171740567520
+},
+{
+  "device_id": 97,
+  "vcc": 460,
+  "temperature": 1522.8999999999999,
+  "humidity": 4413.5,
+  "status": "Disconnected",
+  "timestamp": 173529531765
+},
+{
+  "device_id": 98,
+  "vcc": 460,
+  "temperature": 1538.6,
+  "humidity": 4459.0,
+  "status": "Disconnected",
+  "timestamp": 175318496010
+},
+{
+  "device_id": 99,
+  "vcc": 460,
+  "temperature": 1554.3,
+  "humidity": 4504.5,
+  "status": "Disconnected",
+  "timestamp": 177107460255
+},
+{
+  "device_id": 100,
+  "vcc": 460,
+  "temperature": 1570.0,
+  "humidity": 4550.0,
+  "status": "Disconnected",
+  "timestamp": 178896424500
+},
+{
+  "device_id": 101,
+  "vcc": 460,
+  "temperature": 1585.6999999999998,
+  "humidity": 4595.5,
+  "status": "Disconnected",
+  "timestamp": 180685388745
+},
+{
+  "device_id": 102,
+  "vcc": 460,
+  "temperature": 1601.3999999999999,
+  "humidity": 4641.0,
+  "status": "Disconnected",
+  "timestamp": 182474352990
+},
+{
+  "device_id": 103,
+  "vcc": 460,
+  "temperature": 1617.1,
+  "humidity": 4686.5,
+  "status": "Disconnected",
+  "timestamp": 184263317235
+},
+{
+  "device_id": 104,
+  "vcc": 460,
+  "temperature": 1632.8,
+  "humidity": 4732.0,
+  "status": "Disconnected",
+  "timestamp": 186052281480
+},
+{
+  "device_id": 105,
+  "vcc": 460,
+  "temperature": 1648.5,
+  "humidity": 4777.5,
+  "status": "Disconnected",
+  "timestamp": 187841245725
+},
+{
+  "device_id": 106,
+  "vcc": 460,
+  "temperature": 1664.1999999999998,
+  "humidity": 4823.0,
+  "status": "Disconnected",
+  "timestamp": 189630209970
+},
+{
+  "device_id": 107,
+  "vcc": 460,
+  "temperature": 1679.8999999999999,
+  "humidity": 4868.5,
+  "status": "Disconnected",
+  "timestamp": 191419174215
+},
+{
+  "device_id": 108,
+  "vcc": 460,
+  "temperature": 1695.6,
+  "humidity": 4914.0,
+  "status": "Disconnected",
+  "timestamp": 193208138460
+},
+{
+  "device_id": 109,
+  "vcc": 460,
+  "temperature": 1711.3,
+  "humidity": 4959.5,
+  "status": "Disconnected",
+  "timestamp": 194997102705
+},
+{
+  "device_id": 110,
+  "vcc": 460,
+  "temperature": 1727.0,
+  "humidity": 5005.0,
+  "status": "Disconnected",
+  "timestamp": 196786066950
+},
+{
+  "device_id": 111,
+  "vcc": 460,
+  "temperature": 1742.6999999999998,
+  "humidity": 5050.5,
+  "status": "Disconnected",
+  "timestamp": 198575031195
+},
+{
+  "device_id": 112,
+  "vcc": 460,
+  "temperature": 1758.3999999999999,
+  "humidity": 5096.0,
+  "status": "Disconnected",
+  "timestamp": 200363995440
+},
+{
+  "device_id": 113,
+  "vcc": 460,
+  "temperature": 1774.1,
+  "humidity": 5141.5,
+  "status": "Disconnected",
+  "timestamp": 202152959685
+},
+{
+  "device_id": 114,
+  "vcc": 460,
+  "temperature": 1789.8,
+  "humidity": 5187.0,
+  "status": "Disconnected",
+  "timestamp": 203941923930
+},
+{
+  "device_id": 115,
+  "vcc": 460,
+  "temperature": 1805.5,
+  "humidity": 5232.5,
+  "status": "Disconnected",
+  "timestamp": 205730888175
+},
+{
+  "device_id": 116,
+  "vcc": 460,
+  "temperature": 1821.1999999999998,
+  "humidity": 5278.0,
+  "status": "Disconnected",
+  "timestamp": 207519852420
+},
+{
+  "device_id": 117,
+  "vcc": 460,
+  "temperature": 1836.8999999999999,
+  "humidity": 5323.5,
+  "status": "Disconnected",
+  "timestamp": 209308816665
+},
+{
+  "device_id": 118,
+  "vcc": 460,
+  "temperature": 1852.6,
+  "humidity": 5369.0,
+  "status": "Disconnected",
+  "timestamp": 211097780910
+},
+{
+  "device_id": 119,
+  "vcc": 460,
+  "temperature": 1868.3,
+  "humidity": 5414.5,
+  "status": "Disconnected",
+  "timestamp": 212886745155
+},
+{
+  "device_id": 120,
+  "vcc": 460,
+  "temperature": 1884.0,
+  "humidity": 5460.0,
+  "status": "Disconnected",
+  "timestamp": 214675709400
+},
+{
+  "device_id": 121,
+  "vcc": 460,
+  "temperature": 1899.6999999999998,
+  "humidity": 5505.5,
+  "status": "Disconnected",
+  "timestamp": 216464673645
+},
+{
+  "device_id": 122,
+  "vcc": 460,
+  "temperature": 1915.3999999999999,
+  "humidity": 5551.0,
+  "status": "Disconnected",
+  "timestamp": 218253637890
+},
+{
+  "device_id": 123,
+  "vcc": 460,
+  "temperature": 1931.1,
+  "humidity": 5596.5,
+  "status": "Disconnected",
+  "timestamp": 220042602135
+},
+{
+  "device_id": 124,
+  "vcc": 460,
+  "temperature": 1946.8,
+  "humidity": 5642.0,
+  "status": "Disconnected",
+  "timestamp": 221831566380
+},
+{
+  "device_id": 125,
+  "vcc": 460,
+  "temperature": 1962.5,
+  "humidity": 5687.5,
+  "status": "Disconnected",
+  "timestamp": 223620530625
+},
+{
+  "device_id": 126,
+  "vcc": 460,
+  "temperature": 1978.1999999999998,
+  "humidity": 5733.0,
+  "status": "Disconnected",
+  "timestamp": 225409494870
+},
+{
+  "device_id": 127,
+  "vcc": 460,
+  "temperature": 1993.8999999999999,
+  "humidity": 5778.5,
+  "status": "Disconnected",
+  "timestamp": 227198459115
+},
+{
+  "device_id": 128,
+  "vcc": 460,
+  "temperature": 2009.6,
+  "humidity": 5824.0,
+  "status": "Disconnected",
+  "timestamp": 228987423360
+},
+{
+  "device_id": 129,
+  "vcc": 460,
+  "temperature": 2025.3,
+  "humidity": 5869.5,
+  "status": "Disconnected",
+  "timestamp": 230776387605
+},
+{
+  "device_id": 130,
+  "vcc": 460,
+  "temperature": 2041.0,
+  "humidity": 5915.0,
+  "status": "Disconnected",
+  "timestamp": 232565351850
+},
+{
+  "device_id": 131,
+  "vcc": 460,
+  "temperature": 2056.7,
+  "humidity": 5960.5,
+  "status": "Disconnected",
+  "timestamp": 234354316095
+},
+{
+  "device_id": 132,
+  "vcc": 460,
+  "temperature": 2072.4,
+  "humidity": 6006.0,
+  "status": "Disconnected",
+  "timestamp": 236143280340
+},
+{
+  "device_id": 133,
+  "vcc": 460,
+  "temperature": 2088.1,
+  "humidity": 6051.5,
+  "status": "Disconnected",
+  "timestamp": 237932244585
+},
+{
+  "device_id": 134,
+  "vcc": 460,
+  "temperature": 2103.7999999999997,
+  "humidity": 6097.0,
+  "status": "Disconnected",
+  "timestamp": 239721208830
+},
+{
+  "device_id": 135,
+  "vcc": 460,
+  "temperature": 2119.5,
+  "humidity": 6142.5,
+  "status": "Disconnected",
+  "timestamp": 241510173075
+},
+{
+  "device_id": 136,
+  "vcc": 460,
+  "temperature": 2135.2,
+  "humidity": 6188.0,
+  "status": "Disconnected",
+  "timestamp": 243299137320
+},
+{
+  "device_id": 137,
+  "vcc": 460,
+  "temperature": 2150.9,
+  "humidity": 6233.5,
+  "status": "Disconnected",
+  "timestamp": 245088101565
+},
+{
+  "device_id": 138,
+  "vcc": 460,
+  "temperature": 2166.6,
+  "humidity": 6279.0,
+  "status": "Disconnected",
+  "timestamp": 246877065810
+},
+{
+  "device_id": 139,
+  "vcc": 460,
+  "temperature": 2182.2999999999997,
+  "humidity": 6324.5,
+  "status": "Disconnected",
+  "timestamp": 248666030055
+},
+{
+  "device_id": 140,
+  "vcc": 460,
+  "temperature": 2198.0,
+  "humidity": 6370.0,
+  "status": "Disconnected",
+  "timestamp": 250454994300
+},
+{
+  "device_id": 141,
+  "vcc": 460,
+  "temperature": 2213.7,
+  "humidity": 6415.5,
+  "status": "Disconnected",
+  "timestamp": 252243958545
+},
+{
+  "device_id": 142,
+  "vcc": 460,
+  "temperature": 2229.4,
+  "humidity": 6461.0,
+  "status": "Disconnected",
+  "timestamp": 254032922790
+},
+{
+  "device_id": 143,
+  "vcc": 460,
+  "temperature": 2245.1,
+  "humidity": 6506.5,
+  "status": "Disconnected",
+  "timestamp": 255821887035
+},
+{
+  "device_id": 144,
+  "vcc": 460,
+  "temperature": 2260.7999999999997,
+  "humidity": 6552.0,
+  "status": "Disconnected",
+  "timestamp": 257610851280
+},
+{
+  "device_id": 145,
+  "vcc": 460,
+  "temperature": 2276.5,
+  "humidity": 6597.5,
+  "status": "Disconnected",
+  "timestamp": 259399815525
+},
+{
+  "device_id": 146,
+  "vcc": 460,
+  "temperature": 2292.2,
+  "humidity": 6643.0,
+  "status": "Disconnected",
+  "timestamp": 261188779770
+},
+{
+  "device_id": 147,
+  "vcc": 460,
+  "temperature": 2307.9,
+  "humidity": 6688.5,
+  "status": "Disconnected",
+  "timestamp": 262977744015
+},
+{
+  "device_id": 148,
+  "vcc": 460,
+  "temperature": 2323.6,
+  "humidity": 6734.0,
+  "status": "Disconnected",
+  "timestamp": 264766708260
+},
+{
+  "device_id": 149,
+  "vcc": 460,
+  "temperature": 2339.2999999999997,
+  "humidity": 6779.5,
+  "status": "Disconnected",
+  "timestamp": 266555672505
+},
+{
+  "device_id": 150,
+  "vcc": 460,
+  "temperature": 2355.0,
+  "humidity": 6825.0,
+  "status": "Disconnected",
+  "timestamp": 268344636750
+},
+{
+  "device_id": 151,
+  "vcc": 460,
+  "temperature": 2370.7,
+  "humidity": 6870.5,
+  "status": "Disconnected",
+  "timestamp": 270133600995
+},
+{
+  "device_id": 152,
+  "vcc": 460,
+  "temperature": 2386.4,
+  "humidity": 6916.0,
+  "status": "Disconnected",
+  "timestamp": 271922565240
+},
+{
+  "device_id": 153,
+  "vcc": 460,
+  "temperature": 2402.1,
+  "humidity": 6961.5,
+  "status": "Disconnected",
+  "timestamp": 273711529485
+},
+{
+  "device_id": 154,
+  "vcc": 460,
+  "temperature": 2417.7999999999997,
+  "humidity": 7007.0,
+  "status": "Disconnected",
+  "timestamp": 275500493730
+},
+{
+  "device_id": 155,
+  "vcc": 460,
+  "temperature": 2433.5,
+  "humidity": 7052.5,
+  "status": "Disconnected",
+  "timestamp": 277289457975
+},
+{
+  "device_id": 156,
+  "vcc": 460,
+  "temperature": 2449.2,
+  "humidity": 7098.0,
+  "status": "Disconnected",
+  "timestamp": 279078422220
+},
+{
+  "device_id": 157,
+  "vcc": 460,
+  "temperature": 2464.9,
+  "humidity": 7143.5,
+  "status": "Disconnected",
+  "timestamp": 280867386465
+},
+{
+  "device_id": 158,
+  "vcc": 460,
+  "temperature": 2480.6,
+  "humidity": 7189.0,
+  "status": "Disconnected",
+  "timestamp": 282656350710
+},
+{
+  "device_id": 159,
+  "vcc": 460,
+  "temperature": 2496.2999999999997,
+  "humidity": 7234.5,
+  "status": "Disconnected",
+  "timestamp": 284445314955
+},
+{
+  "device_id": 160,
+  "vcc": 460,
+  "temperature": 2512.0,
+  "humidity": 7280.0,
+  "status": "Disconnected",
+  "timestamp": 286234279200
+},
+{
+  "device_id": 161,
+  "vcc": 460,
+  "temperature": 2527.7,
+  "humidity": 7325.5,
+  "status": "Disconnected",
+  "timestamp": 288023243445
+},
+{
+  "device_id": 162,
+  "vcc": 460,
+  "temperature": 2543.4,
+  "humidity": 7371.0,
+  "status": "Disconnected",
+  "timestamp": 289812207690
+},
+{
+  "device_id": 163,
+  "vcc": 460,
+  "temperature": 2559.1,
+  "humidity": 7416.5,
+  "status": "Disconnected",
+  "timestamp": 291601171935
+},
+{
+  "device_id": 164,
+  "vcc": 460,
+  "temperature": 2574.7999999999997,
+  "humidity": 7462.0,
+  "status": "Disconnected",
+  "timestamp": 293390136180
+},
+{
+  "device_id": 165,
+  "vcc": 460,
+  "temperature": 2590.5,
+  "humidity": 7507.5,
+  "status": "Disconnected",
+  "timestamp": 295179100425
+},
+{
+  "device_id": 166,
+  "vcc": 460,
+  "temperature": 2606.2,
+  "humidity": 7553.0,
+  "status": "Disconnected",
+  "timestamp": 296968064670
+},
+{
+  "device_id": 167,
+  "vcc": 460,
+  "temperature": 2621.9,
+  "humidity": 7598.5,
+  "status": "Disconnected",
+  "timestamp": 298757028915
+},
+{
+  "device_id": 168,
+  "vcc": 460,
+  "temperature": 2637.6,
+  "humidity": 7644.0,
+  "status": "Disconnected",
+  "timestamp": 300545993160
+},
+{
+  "device_id": 169,
+  "vcc": 460,
+  "temperature": 2653.2999999999997,
+  "humidity": 7689.5,
+  "status": "Disconnected",
+  "timestamp": 302334957405
+},
+{
+  "device_id": 170,
+  "vcc": 460,
+  "temperature": 2669.0,
+  "humidity": 7735.0,
+  "status": "Disconnected",
+  "timestamp": 304123921650
+},
+{
+  "device_id": 171,
+  "vcc": 460,
+  "temperature": 2684.7,
+  "humidity": 7780.5,
+  "status": "Disconnected",
+  "timestamp": 305912885895
+},
+{
+  "device_id": 172,
+  "vcc": 460,
+  "temperature": 2700.4,
+  "humidity": 7826.0,
+  "status": "Disconnected",
+  "timestamp": 307701850140
+},
+{
+  "device_id": 173,
+  "vcc": 460,
+  "temperature": 2716.1,
+  "humidity": 7871.5,
+  "status": "Disconnected",
+  "timestamp": 309490814385
+},
+{
+  "device_id": 174,
+  "vcc": 460,
+  "temperature": 2731.7999999999997,
+  "humidity": 7917.0,
+  "status": "Disconnected",
+  "timestamp": 311279778630
+},
+{
+  "device_id": 175,
+  "vcc": 460,
+  "temperature": 2747.5,
+  "humidity": 7962.5,
+  "status": "Disconnected",
+  "timestamp": 313068742875
+},
+{
+  "device_id": 176,
+  "vcc": 460,
+  "temperature": 2763.2,
+  "humidity": 8008.0,
+  "status": "Disconnected",
+  "timestamp": 314857707120
+},
+{
+  "device_id": 177,
+  "vcc": 460,
+  "temperature": 2778.9,
+  "humidity": 8053.5,
+  "status": "Disconnected",
+  "timestamp": 316646671365
+},
+{
+  "device_id": 178,
+  "vcc": 460,
+  "temperature": 2794.6,
+  "humidity": 8099.0,
+  "status": "Disconnected",
+  "timestamp": 318435635610
+},
+{
+  "device_id": 179,
+  "vcc": 460,
+  "temperature": 2810.2999999999997,
+  "humidity": 8144.5,
+  "status": "Disconnected",
+  "timestamp": 320224599855
+},
+{
+  "device_id": 180,
+  "vcc": 460,
+  "temperature": 2826.0,
+  "humidity": 8190.0,
+  "status": "Disconnected",
+  "timestamp": 322013564100
+},
+{
+  "device_id": 181,
+  "vcc": 460,
+  "temperature": 2841.7,
+  "humidity": 8235.5,
+  "status": "Disconnected",
+  "timestamp": 323802528345
+},
+{
+  "device_id": 182,
+  "vcc": 460,
+  "temperature": 2857.4,
+  "humidity": 8281.0,
+  "status": "Disconnected",
+  "timestamp": 325591492590
+},
+{
+  "device_id": 183,
+  "vcc": 460,
+  "temperature": 2873.1,
+  "humidity": 8326.5,
+  "status": "Disconnected",
+  "timestamp": 327380456835
+},
+{
+  "device_id": 184,
+  "vcc": 460,
+  "temperature": 2888.7999999999997,
+  "humidity": 8372.0,
+  "status": "Disconnected",
+  "timestamp": 329169421080
+},
+{
+  "device_id": 185,
+  "vcc": 460,
+  "temperature": 2904.5,
+  "humidity": 8417.5,
+  "status": "Disconnected",
+  "timestamp": 330958385325
+},
+{
+  "device_id": 186,
+  "vcc": 460,
+  "temperature": 2920.2,
+  "humidity": 8463.0,
+  "status": "Disconnected",
+  "timestamp": 332747349570
+},
+{
+  "device_id": 187,
+  "vcc": 460,
+  "temperature": 2935.9,
+  "humidity": 8508.5,
+  "status": "Disconnected",
+  "timestamp": 334536313815
+},
+{
+  "device_id": 188,
+  "vcc": 460,
+  "temperature": 2951.6,
+  "humidity": 8554.0,
+  "status": "Disconnected",
+  "timestamp": 336325278060
+},
+{
+  "device_id": 189,
+  "vcc": 460,
+  "temperature": 2967.2999999999997,
+  "humidity": 8599.5,
+  "status": "Disconnected",
+  "timestamp": 338114242305
+},
+{
+  "device_id": 190,
+  "vcc": 460,
+  "temperature": 2983.0,
+  "humidity": 8645.0,
+  "status": "Disconnected",
+  "timestamp": 339903206550
+},
+{
+  "device_id": 191,
+  "vcc": 460,
+  "temperature": 2998.7,
+  "humidity": 8690.5,
+  "status": "Disconnected",
+  "timestamp": 341692170795
+},
+{
+  "device_id": 192,
+  "vcc": 460,
+  "temperature": 3014.3999999999996,
+  "humidity": 8736.0,
+  "status": "Disconnected",
+  "timestamp": 343481135040
+},
+{
+  "device_id": 193,
+  "vcc": 460,
+  "temperature": 3030.1,
+  "humidity": 8781.5,
+  "status": "Disconnected",
+  "timestamp": 345270099285
+},
+{
+  "device_id": 194,
+  "vcc": 460,
+  "temperature": 3045.7999999999997,
+  "humidity": 8827.0,
+  "status": "Disconnected",
+  "timestamp": 347059063530
+},
+{
+  "device_id": 195,
+  "vcc": 460,
+  "temperature": 3061.5,
+  "humidity": 8872.5,
+  "status": "Disconnected",
+  "timestamp": 348848027775
+},
+{
+  "device_id": 196,
+  "vcc": 460,
+  "temperature": 3077.2,
+  "humidity": 8918.0,
+  "status": "Disconnected",
+  "timestamp": 350636992020
+},
+{
+  "device_id": 197,
+  "vcc": 460,
+  "temperature": 3092.8999999999996,
+  "humidity": 8963.5,
+  "status": "Disconnected",
+  "timestamp": 352425956265
+},
+{
+  "device_id": 198,
+  "vcc": 460,
+  "temperature": 3108.6,
+  "humidity": 9009.0,
+  "status": "Disconnected",
+  "timestamp": 354214920510
+},
+{
+  "device_id": 199,
+  "vcc": 460,
+  "temperature": 3124.2999999999997,
+  "humidity": 9054.5,
+  "status": "Disconnected",
+  "timestamp": 356003884755
+},
+{
+  "device_id": 200,
+  "vcc": 460,
+  "temperature": 3140.0,
+  "humidity": 9100.0,
+  "status": "Disconnected",
+  "timestamp": 357792849000
+},
+{
+  "device_id": 201,
+  "vcc": 460,
+  "temperature": 3155.7,
+  "humidity": 9145.5,
+  "status": "Disconnected",
+  "timestamp": 359581813245
+},
+{
+  "device_id": 202,
+  "vcc": 460,
+  "temperature": 3171.3999999999996,
+  "humidity": 9191.0,
+  "status": "Disconnected",
+  "timestamp": 361370777490
+},
+{
+  "device_id": 203,
+  "vcc": 460,
+  "temperature": 3187.1,
+  "humidity": 9236.5,
+  "status": "Disconnected",
+  "timestamp": 363159741735
+},
+{
+  "device_id": 204,
+  "vcc": 460,
+  "temperature": 3202.7999999999997,
+  "humidity": 9282.0,
+  "status": "Disconnected",
+  "timestamp": 364948705980
+},
+{
+  "device_id": 205,
+  "vcc": 460,
+  "temperature": 3218.5,
+  "humidity": 9327.5,
+  "status": "Disconnected",
+  "timestamp": 366737670225
+},
+{
+  "device_id": 206,
+  "vcc": 460,
+  "temperature": 3234.2,
+  "humidity": 9373.0,
+  "status": "Disconnected",
+  "timestamp": 368526634470
+},
+{
+  "device_id": 207,
+  "vcc": 460,
+  "temperature": 3249.8999999999996,
+  "humidity": 9418.5,
+  "status": "Disconnected",
+  "timestamp": 370315598715
+},
+{
+  "device_id": 208,
+  "vcc": 460,
+  "temperature": 3265.6,
+  "humidity": 9464.0,
+  "status": "Disconnected",
+  "timestamp": 372104562960
+},
+{
+  "device_id": 209,
+  "vcc": 460,
+  "temperature": 3281.2999999999997,
+  "humidity": 9509.5,
+  "status": "Disconnected",
+  "timestamp": 373893527205
+},
+{
+  "device_id": 210,
+  "vcc": 460,
+  "temperature": 3297.0,
+  "humidity": 9555.0,
+  "status": "Disconnected",
+  "timestamp": 375682491450
+},
+{
+  "device_id": 211,
+  "vcc": 460,
+  "temperature": 3312.7,
+  "humidity": 9600.5,
+  "status": "Disconnected",
+  "timestamp": 377471455695
+},
+{
+  "device_id": 212,
+  "vcc": 460,
+  "temperature": 3328.3999999999996,
+  "humidity": 9646.0,
+  "status": "Disconnected",
+  "timestamp": 379260419940
+},
+{
+  "device_id": 213,
+  "vcc": 460,
+  "temperature": 3344.1,
+  "humidity": 9691.5,
+  "status": "Disconnected",
+  "timestamp": 381049384185
+},
+{
+  "device_id": 214,
+  "vcc": 460,
+  "temperature": 3359.7999999999997,
+  "humidity": 9737.0,
+  "status": "Disconnected",
+  "timestamp": 382838348430
+},
+{
+  "device_id": 215,
+  "vcc": 460,
+  "temperature": 3375.5,
+  "humidity": 9782.5,
+  "status": "Disconnected",
+  "timestamp": 384627312675
+},
+{
+  "device_id": 216,
+  "vcc": 460,
+  "temperature": 3391.2,
+  "humidity": 9828.0,
+  "status": "Disconnected",
+  "timestamp": 386416276920
+},
+{
+  "device_id": 217,
+  "vcc": 460,
+  "temperature": 3406.8999999999996,
+  "humidity": 9873.5,
+  "status": "Disconnected",
+  "timestamp": 388205241165
+},
+{
+  "device_id": 218,
+  "vcc": 460,
+  "temperature": 3422.6,
+  "humidity": 9919.0,
+  "status": "Disconnected",
+  "timestamp": 389994205410
+},
+{
+  "device_id": 219,
+  "vcc": 460,
+  "temperature": 3438.2999999999997,
+  "humidity": 9964.5,
+  "status": "Disconnected",
+  "timestamp": 391783169655
+},
+{
+  "device_id": 220,
+  "vcc": 460,
+  "temperature": 3454.0,
+  "humidity": 10010.0,
+  "status": "Disconnected",
+  "timestamp": 393572133900
+},
+{
+  "device_id": 221,
+  "vcc": 460,
+  "temperature": 3469.7,
+  "humidity": 10055.5,
+  "status": "Disconnected",
+  "timestamp": 395361098145
+},
+{
+  "device_id": 222,
+  "vcc": 460,
+  "temperature": 3485.3999999999996,
+  "humidity": 10101.0,
+  "status": "Disconnected",
+  "timestamp": 397150062390
+},
+{
+  "device_id": 223,
+  "vcc": 460,
+  "temperature": 3501.1,
+  "humidity": 10146.5,
+  "status": "Disconnected",
+  "timestamp": 398939026635
+},
+{
+  "device_id": 224,
+  "vcc": 460,
+  "temperature": 3516.7999999999997,
+  "humidity": 10192.0,
+  "status": "Disconnected",
+  "timestamp": 400727990880
+},
+{
+  "device_id": 225,
+  "vcc": 460,
+  "temperature": 3532.5,
+  "humidity": 10237.5,
+  "status": "Disconnected",
+  "timestamp": 402516955125
+},
+{
+  "device_id": 226,
+  "vcc": 460,
+  "temperature": 3548.2,
+  "humidity": 10283.0,
+  "status": "Disconnected",
+  "timestamp": 404305919370
+},
+{
+  "device_id": 227,
+  "vcc": 460,
+  "temperature": 3563.8999999999996,
+  "humidity": 10328.5,
+  "status": "Disconnected",
+  "timestamp": 406094883615
+},
+{
+  "device_id": 228,
+  "vcc": 460,
+  "temperature": 3579.6,
+  "humidity": 10374.0,
+  "status": "Disconnected",
+  "timestamp": 407883847860
+},
+{
+  "device_id": 229,
+  "vcc": 460,
+  "temperature": 3595.2999999999997,
+  "humidity": 10419.5,
+  "status": "Disconnected",
+  "timestamp": 409672812105
+},
+{
+  "device_id": 230,
+  "vcc": 460,
+  "temperature": 3611.0,
+  "humidity": 10465.0,
+  "status": "Disconnected",
+  "timestamp": 411461776350
+},
+{
+  "device_id": 231,
+  "vcc": 460,
+  "temperature": 3626.7,
+  "humidity": 10510.5,
+  "status": "Disconnected",
+  "timestamp": 413250740595
+},
+{
+  "device_id": 232,
+  "vcc": 460,
+  "temperature": 3642.3999999999996,
+  "humidity": 10556.0,
+  "status": "Disconnected",
+  "timestamp": 415039704840
+},
+{
+  "device_id": 233,
+  "vcc": 460,
+  "temperature": 3658.1,
+  "humidity": 10601.5,
+  "status": "Disconnected",
+  "timestamp": 416828669085
+},
+{
+  "device_id": 234,
+  "vcc": 460,
+  "temperature": 3673.7999999999997,
+  "humidity": 10647.0,
+  "status": "Disconnected",
+  "timestamp": 418617633330
+},
+{
+  "device_id": 235,
+  "vcc": 460,
+  "temperature": 3689.5,
+  "humidity": 10692.5,
+  "status": "Disconnected",
+  "timestamp": 420406597575
+},
+{
+  "device_id": 236,
+  "vcc": 460,
+  "temperature": 3705.2,
+  "humidity": 10738.0,
+  "status": "Disconnected",
+  "timestamp": 422195561820
+},
+{
+  "device_id": 237,
+  "vcc": 460,
+  "temperature": 3720.8999999999996,
+  "humidity": 10783.5,
+  "status": "Disconnected",
+  "timestamp": 423984526065
+},
+{
+  "device_id": 238,
+  "vcc": 460,
+  "temperature": 3736.6,
+  "humidity": 10829.0,
+  "status": "Disconnected",
+  "timestamp": 425773490310
+},
+{
+  "device_id": 239,
+  "vcc": 460,
+  "temperature": 3752.2999999999997,
+  "humidity": 10874.5,
+  "status": "Disconnected",
+  "timestamp": 427562454555
+},
+{
+  "device_id": 240,
+  "vcc": 460,
+  "temperature": 3768.0,
+  "humidity": 10920.0,
+  "status": "Disconnected",
+  "timestamp": 429351418800
+},
+{
+  "device_id": 241,
+  "vcc": 460,
+  "temperature": 3783.7,
+  "humidity": 10965.5,
+  "status": "Disconnected",
+  "timestamp": 431140383045
+},
+{
+  "device_id": 242,
+  "vcc": 460,
+  "temperature": 3799.3999999999996,
+  "humidity": 11011.0,
+  "status": "Disconnected",
+  "timestamp": 432929347290
+},
+{
+  "device_id": 243,
+  "vcc": 460,
+  "temperature": 3815.1,
+  "humidity": 11056.5,
+  "status": "Disconnected",
+  "timestamp": 434718311535
+},
+{
+  "device_id": 244,
+  "vcc": 460,
+  "temperature": 3830.7999999999997,
+  "humidity": 11102.0,
+  "status": "Disconnected",
+  "timestamp": 436507275780
+},
+{
+  "device_id": 245,
+  "vcc": 460,
+  "temperature": 3846.5,
+  "humidity": 11147.5,
+  "status": "Disconnected",
+  "timestamp": 438296240025
+},
+{
+  "device_id": 246,
+  "vcc": 460,
+  "temperature": 3862.2,
+  "humidity": 11193.0,
+  "status": "Disconnected",
+  "timestamp": 440085204270
+},
+{
+  "device_id": 247,
+  "vcc": 460,
+  "temperature": 3877.8999999999996,
+  "humidity": 11238.5,
+  "status": "Disconnected",
+  "timestamp": 441874168515
+},
+{
+  "device_id": 248,
+  "vcc": 460,
+  "temperature": 3893.6,
+  "humidity": 11284.0,
+  "status": "Disconnected",
+  "timestamp": 443663132760
+},
+{
+  "device_id": 249,
+  "vcc": 460,
+  "temperature": 3909.2999999999997,
+  "humidity": 11329.5,
+  "status": "Disconnected",
+  "timestamp": 445452097005
+},
+{
+  "device_id": 250,
+  "vcc": 460,
+  "temperature": 3925.0,
+  "humidity": 11375.0,
+  "status": "Disconnected",
+  "timestamp": 447241061250
+},
+{
+  "device_id": 251,
+  "vcc": 460,
+  "temperature": 3940.7,
+  "humidity": 11420.5,
+  "status": "Disconnected",
+  "timestamp": 449030025495
+},
+{
+  "device_id": 252,
+  "vcc": 460,
+  "temperature": 3956.3999999999996,
+  "humidity": 11466.0,
+  "status": "Disconnected",
+  "timestamp": 450818989740
+},
+{
+  "device_id": 253,
+  "vcc": 460,
+  "temperature": 3972.1,
+  "humidity": 11511.5,
+  "status": "Disconnected",
+  "timestamp": 452607953985
+},
+{
+  "device_id": 254,
+  "vcc": 460,
+  "temperature": 3987.7999999999997,
+  "humidity": 11557.0,
+  "status": "Disconnected",
+  "timestamp": 454396918230
+},
+{
+  "device_id": 255,
+  "vcc": 460,
+  "temperature": 4003.5,
+  "humidity": 11602.5,
+  "status": "Disconnected",
+  "timestamp": 456185882475
+},
+{
+  "device_id": 256,
+  "vcc": 460,
+  "temperature": 4019.2,
+  "humidity": 11648.0,
+  "status": "Disconnected",
+  "timestamp": 457974846720
+},
+{
+  "device_id": 257,
+  "vcc": 460,
+  "temperature": 4034.8999999999996,
+  "humidity": 11693.5,
+  "status": "Disconnected",
+  "timestamp": 459763810965
+},
+{
+  "device_id": 258,
+  "vcc": 460,
+  "temperature": 4050.6,
+  "humidity": 11739.0,
+  "status": "Disconnected",
+  "timestamp": 461552775210
+},
+{
+  "device_id": 259,
+  "vcc": 460,
+  "temperature": 4066.2999999999997,
+  "humidity": 11784.5,
+  "status": "Disconnected",
+  "timestamp": 463341739455
+},
+{
+  "device_id": 260,
+  "vcc": 460,
+  "temperature": 4082.0,
+  "humidity": 11830.0,
+  "status": "Disconnected",
+  "timestamp": 465130703700
+},
+{
+  "device_id": 261,
+  "vcc": 460,
+  "temperature": 4097.7,
+  "humidity": 11875.5,
+  "status": "Disconnected",
+  "timestamp": 466919667945
+},
+{
+  "device_id": 262,
+  "vcc": 460,
+  "temperature": 4113.4,
+  "humidity": 11921.0,
+  "status": "Disconnected",
+  "timestamp": 468708632190
+},
+{
+  "device_id": 263,
+  "vcc": 460,
+  "temperature": 4129.099999999999,
+  "humidity": 11966.5,
+  "status": "Disconnected",
+  "timestamp": 470497596435
+},
+{
+  "device_id": 264,
+  "vcc": 460,
+  "temperature": 4144.8,
+  "humidity": 12012.0,
+  "status": "Disconnected",
+  "timestamp": 472286560680
+},
+{
+  "device_id": 265,
+  "vcc": 460,
+  "temperature": 4160.5,
+  "humidity": 12057.5,
+  "status": "Disconnected",
+  "timestamp": 474075524925
+},
+{
+  "device_id": 266,
+  "vcc": 460,
+  "temperature": 4176.2,
+  "humidity": 12103.0,
+  "status": "Disconnected",
+  "timestamp": 475864489170
+},
+{
+  "device_id": 267,
+  "vcc": 460,
+  "temperature": 4191.9,
+  "humidity": 12148.5,
+  "status": "Disconnected",
+  "timestamp": 477653453415
+},
+{
+  "device_id": 268,
+  "vcc": 460,
+  "temperature": 4207.599999999999,
+  "humidity": 12194.0,
+  "status": "Disconnected",
+  "timestamp": 479442417660
+},
+{
+  "device_id": 269,
+  "vcc": 460,
+  "temperature": 4223.3,
+  "humidity": 12239.5,
+  "status": "Disconnected",
+  "timestamp": 481231381905
+},
+{
+  "device_id": 270,
+  "vcc": 460,
+  "temperature": 4239.0,
+  "humidity": 12285.0,
+  "status": "Disconnected",
+  "timestamp": 483020346150
+},
+{
+  "device_id": 271,
+  "vcc": 460,
+  "temperature": 4254.7,
+  "humidity": 12330.5,
+  "status": "Disconnected",
+  "timestamp": 484809310395
+},
+{
+  "device_id": 272,
+  "vcc": 460,
+  "temperature": 4270.4,
+  "humidity": 12376.0,
+  "status": "Disconnected",
+  "timestamp": 486598274640
+},
+{
+  "device_id": 273,
+  "vcc": 460,
+  "temperature": 4286.099999999999,
+  "humidity": 12421.5,
+  "status": "Disconnected",
+  "timestamp": 488387238885
+},
+{
+  "device_id": 274,
+  "vcc": 460,
+  "temperature": 4301.8,
+  "humidity": 12467.0,
+  "status": "Disconnected",
+  "timestamp": 490176203130
+},
+{
+  "device_id": 275,
+  "vcc": 460,
+  "temperature": 4317.5,
+  "humidity": 12512.5,
+  "status": "Disconnected",
+  "timestamp": 491965167375
+},
+{
+  "device_id": 276,
+  "vcc": 460,
+  "temperature": 4333.2,
+  "humidity": 12558.0,
+  "status": "Disconnected",
+  "timestamp": 493754131620
+},
+{
+  "device_id": 277,
+  "vcc": 460,
+  "temperature": 4348.9,
+  "humidity": 12603.5,
+  "status": "Disconnected",
+  "timestamp": 495543095865
+},
+{
+  "device_id": 278,
+  "vcc": 460,
+  "temperature": 4364.599999999999,
+  "humidity": 12649.0,
+  "status": "Disconnected",
+  "timestamp": 497332060110
+},
+{
+  "device_id": 279,
+  "vcc": 460,
+  "temperature": 4380.3,
+  "humidity": 12694.5,
+  "status": "Disconnected",
+  "timestamp": 499121024355
+},
+{
+  "device_id": 280,
+  "vcc": 460,
+  "temperature": 4396.0,
+  "humidity": 12740.0,
+  "status": "Disconnected",
+  "timestamp": 500909988600
+},
+{
+  "device_id": 281,
+  "vcc": 460,
+  "temperature": 4411.7,
+  "humidity": 12785.5,
+  "status": "Disconnected",
+  "timestamp": 502698952845
+},
+{
+  "device_id": 282,
+  "vcc": 460,
+  "temperature": 4427.4,
+  "humidity": 12831.0,
+  "status": "Disconnected",
+  "timestamp": 504487917090
+},
+{
+  "device_id": 283,
+  "vcc": 460,
+  "temperature": 4443.099999999999,
+  "humidity": 12876.5,
+  "status": "Disconnected",
+  "timestamp": 506276881335
+},
+{
+  "device_id": 284,
+  "vcc": 460,
+  "temperature": 4458.8,
+  "humidity": 12922.0,
+  "status": "Disconnected",
+  "timestamp": 508065845580
+},
+{
+  "device_id": 285,
+  "vcc": 460,
+  "temperature": 4474.5,
+  "humidity": 12967.5,
+  "status": "Disconnected",
+  "timestamp": 509854809825
+},
+{
+  "device_id": 286,
+  "vcc": 460,
+  "temperature": 4490.2,
+  "humidity": 13013.0,
+  "status": "Disconnected",
+  "timestamp": 511643774070
+},
+{
+  "device_id": 287,
+  "vcc": 460,
+  "temperature": 4505.9,
+  "humidity": 13058.5,
+  "status": "Disconnected",
+  "timestamp": 513432738315
+},
+{
+  "device_id": 288,
+  "vcc": 460,
+  "temperature": 4521.599999999999,
+  "humidity": 13104.0,
+  "status": "Disconnected",
+  "timestamp": 515221702560
+},
+{
+  "device_id": 289,
+  "vcc": 460,
+  "temperature": 4537.3,
+  "humidity": 13149.5,
+  "status": "Disconnected",
+  "timestamp": 517010666805
+},
+{
+  "device_id": 290,
+  "vcc": 460,
+  "temperature": 4553.0,
+  "humidity": 13195.0,
+  "status": "Disconnected",
+  "timestamp": 518799631050
+},
+{
+  "device_id": 291,
+  "vcc": 460,
+  "temperature": 4568.7,
+  "humidity": 13240.5,
+  "status": "Disconnected",
+  "timestamp": 520588595295
+},
+{
+  "device_id": 292,
+  "vcc": 460,
+  "temperature": 4584.4,
+  "humidity": 13286.0,
+  "status": "Disconnected",
+  "timestamp": 522377559540
+},
+{
+  "device_id": 293,
+  "vcc": 460,
+  "temperature": 4600.099999999999,
+  "humidity": 13331.5,
+  "status": "Disconnected",
+  "timestamp": 524166523785
+},
+{
+  "device_id": 294,
+  "vcc": 460,
+  "temperature": 4615.8,
+  "humidity": 13377.0,
+  "status": "Disconnected",
+  "timestamp": 525955488030
+},
+{
+  "device_id": 295,
+  "vcc": 460,
+  "temperature": 4631.5,
+  "humidity": 13422.5,
+  "status": "Disconnected",
+  "timestamp": 527744452275
+},
+{
+  "device_id": 296,
+  "vcc": 460,
+  "temperature": 4647.2,
+  "humidity": 13468.0,
+  "status": "Disconnected",
+  "timestamp": 529533416520
+},
+{
+  "device_id": 297,
+  "vcc": 460,
+  "temperature": 4662.9,
+  "humidity": 13513.5,
+  "status": "Disconnected",
+  "timestamp": 531322380765
+},
+{
+  "device_id": 298,
+  "vcc": 460,
+  "temperature": 4678.599999999999,
+  "humidity": 13559.0,
+  "status": "Disconnected",
+  "timestamp": 533111345010
+},
+{
+  "device_id": 299,
+  "vcc": 460,
+  "temperature": 4694.3,
+  "humidity": 13604.5,
+  "status": "Disconnected",
+  "timestamp": 534900309255
+},
+{
+  "device_id": 300,
+  "vcc": 460,
+  "temperature": 4710.0,
+  "humidity": 13650.0,
+  "status": "Disconnected",
+  "timestamp": 536689273500
+},
+{
+  "device_id": 301,
+  "vcc": 460,
+  "temperature": 4725.7,
+  "humidity": 13695.5,
+  "status": "Disconnected",
+  "timestamp": 538478237745
+},
+{
+  "device_id": 302,
+  "vcc": 460,
+  "temperature": 4741.4,
+  "humidity": 13741.0,
+  "status": "Disconnected",
+  "timestamp": 540267201990
+},
+{
+  "device_id": 303,
+  "vcc": 460,
+  "temperature": 4757.099999999999,
+  "humidity": 13786.5,
+  "status": "Disconnected",
+  "timestamp": 542056166235
+},
+{
+  "device_id": 304,
+  "vcc": 460,
+  "temperature": 4772.8,
+  "humidity": 13832.0,
+  "status": "Disconnected",
+  "timestamp": 543845130480
+},
+{
+  "device_id": 305,
+  "vcc": 460,
+  "temperature": 4788.5,
+  "humidity": 13877.5,
+  "status": "Disconnected",
+  "timestamp": 545634094725
+},
+{
+  "device_id": 306,
+  "vcc": 460,
+  "temperature": 4804.2,
+  "humidity": 13923.0,
+  "status": "Disconnected",
+  "timestamp": 547423058970
+},
+{
+  "device_id": 307,
+  "vcc": 460,
+  "temperature": 4819.9,
+  "humidity": 13968.5,
+  "status": "Disconnected",
+  "timestamp": 549212023215
+},
+{
+  "device_id": 308,
+  "vcc": 460,
+  "temperature": 4835.599999999999,
+  "humidity": 14014.0,
+  "status": "Disconnected",
+  "timestamp": 551000987460
+},
+{
+  "device_id": 309,
+  "vcc": 460,
+  "temperature": 4851.3,
+  "humidity": 14059.5,
+  "status": "Disconnected",
+  "timestamp": 552789951705
+},
+{
+  "device_id": 310,
+  "vcc": 460,
+  "temperature": 4867.0,
+  "humidity": 14105.0,
+  "status": "Disconnected",
+  "timestamp": 554578915950
+},
+{
+  "device_id": 311,
+  "vcc": 460,
+  "temperature": 4882.7,
+  "humidity": 14150.5,
+  "status": "Disconnected",
+  "timestamp": 556367880195
+},
+{
+  "device_id": 312,
+  "vcc": 460,
+  "temperature": 4898.4,
+  "humidity": 14196.0,
+  "status": "Disconnected",
+  "timestamp": 558156844440
+},
+{
+  "device_id": 313,
+  "vcc": 460,
+  "temperature": 4914.099999999999,
+  "humidity": 14241.5,
+  "status": "Disconnected",
+  "timestamp": 559945808685
+},
+{
+  "device_id": 314,
+  "vcc": 460,
+  "temperature": 4929.8,
+  "humidity": 14287.0,
+  "status": "Disconnected",
+  "timestamp": 561734772930
+},
+{
+  "device_id": 315,
+  "vcc": 460,
+  "temperature": 4945.5,
+  "humidity": 14332.5,
+  "status": "Disconnected",
+  "timestamp": 563523737175
+},
+{
+  "device_id": 316,
+  "vcc": 460,
+  "temperature": 4961.2,
+  "humidity": 14378.0,
+  "status": "Disconnected",
+  "timestamp": 565312701420
+},
+{
+  "device_id": 317,
+  "vcc": 460,
+  "temperature": 4976.9,
+  "humidity": 14423.5,
+  "status": "Disconnected",
+  "timestamp": 567101665665
+},
+{
+  "device_id": 318,
+  "vcc": 460,
+  "temperature": 4992.599999999999,
+  "humidity": 14469.0,
+  "status": "Disconnected",
+  "timestamp": 568890629910
+},
+{
+  "device_id": 319,
+  "vcc": 460,
+  "temperature": 5008.3,
+  "humidity": 14514.5,
+  "status": "Disconnected",
+  "timestamp": 570679594155
+},
+{
+  "device_id": 320,
+  "vcc": 460,
+  "temperature": 5024.0,
+  "humidity": 14560.0,
+  "status": "Disconnected",
+  "timestamp": 572468558400
+},
+{
+  "device_id": 321,
+  "vcc": 460,
+  "temperature": 5039.7,
+  "humidity": 14605.5,
+  "status": "Disconnected",
+  "timestamp": 574257522645
+},
+{
+  "device_id": 322,
+  "vcc": 460,
+  "temperature": 5055.4,
+  "humidity": 14651.0,
+  "status": "Disconnected",
+  "timestamp": 576046486890
+},
+{
+  "device_id": 323,
+  "vcc": 460,
+  "temperature": 5071.099999999999,
+  "humidity": 14696.5,
+  "status": "Disconnected",
+  "timestamp": 577835451135
+},
+{
+  "device_id": 324,
+  "vcc": 460,
+  "temperature": 5086.8,
+  "humidity": 14742.0,
+  "status": "Disconnected",
+  "timestamp": 579624415380
+},
+{
+  "device_id": 325,
+  "vcc": 460,
+  "temperature": 5102.5,
+  "humidity": 14787.5,
+  "status": "Disconnected",
+  "timestamp": 581413379625
+},
+{
+  "device_id": 326,
+  "vcc": 460,
+  "temperature": 5118.2,
+  "humidity": 14833.0,
+  "status": "Disconnected",
+  "timestamp": 583202343870
+},
+{
+  "device_id": 327,
+  "vcc": 460,
+  "temperature": 5133.9,
+  "humidity": 14878.5,
+  "status": "Disconnected",
+  "timestamp": 584991308115
+},
+{
+  "device_id": 328,
+  "vcc": 460,
+  "temperature": 5149.599999999999,
+  "humidity": 14924.0,
+  "status": "Disconnected",
+  "timestamp": 586780272360
+},
+{
+  "device_id": 329,
+  "vcc": 460,
+  "temperature": 5165.3,
+  "humidity": 14969.5,
+  "status": "Disconnected",
+  "timestamp": 588569236605
+},
+{
+  "device_id": 330,
+  "vcc": 460,
+  "temperature": 5181.0,
+  "humidity": 15015.0,
+  "status": "Disconnected",
+  "timestamp": 590358200850
+},
+{
+  "device_id": 331,
+  "vcc": 460,
+  "temperature": 5196.7,
+  "humidity": 15060.5,
+  "status": "Disconnected",
+  "timestamp": 592147165095
+},
+{
+  "device_id": 332,
+  "vcc": 460,
+  "temperature": 5212.4,
+  "humidity": 15106.0,
+  "status": "Disconnected",
+  "timestamp": 593936129340
+},
+{
+  "device_id": 333,
+  "vcc": 460,
+  "temperature": 5228.099999999999,
+  "humidity": 15151.5,
+  "status": "Disconnected",
+  "timestamp": 595725093585
+},
+{
+  "device_id": 334,
+  "vcc": 460,
+  "temperature": 5243.8,
+  "humidity": 15197.0,
+  "status": "Disconnected",
+  "timestamp": 597514057830
+},
+{
+  "device_id": 335,
+  "vcc": 460,
+  "temperature": 5259.5,
+  "humidity": 15242.5,
+  "status": "Disconnected",
+  "timestamp": 599303022075
+},
+{
+  "device_id": 336,
+  "vcc": 460,
+  "temperature": 5275.2,
+  "humidity": 15288.0,
+  "status": "Disconnected",
+  "timestamp": 601091986320
+},
+{
+  "device_id": 337,
+  "vcc": 460,
+  "temperature": 5290.9,
+  "humidity": 15333.5,
+  "status": "Disconnected",
+  "timestamp": 602880950565
+},
+{
+  "device_id": 338,
+  "vcc": 460,
+  "temperature": 5306.599999999999,
+  "humidity": 15379.0,
+  "status": "Disconnected",
+  "timestamp": 604669914810
+},
+{
+  "device_id": 339,
+  "vcc": 460,
+  "temperature": 5322.3,
+  "humidity": 15424.5,
+  "status": "Disconnected",
+  "timestamp": 606458879055
+},
+{
+  "device_id": 340,
+  "vcc": 460,
+  "temperature": 5338.0,
+  "humidity": 15470.0,
+  "status": "Disconnected",
+  "timestamp": 608247843300
+},
+{
+  "device_id": 341,
+  "vcc": 460,
+  "temperature": 5353.7,
+  "humidity": 15515.5,
+  "status": "Disconnected",
+  "timestamp": 610036807545
+},
+{
+  "device_id": 342,
+  "vcc": 460,
+  "temperature": 5369.4,
+  "humidity": 15561.0,
+  "status": "Disconnected",
+  "timestamp": 611825771790
+},
+{
+  "device_id": 343,
+  "vcc": 460,
+  "temperature": 5385.099999999999,
+  "humidity": 15606.5,
+  "status": "Disconnected",
+  "timestamp": 613614736035
+},
+{
+  "device_id": 344,
+  "vcc": 460,
+  "temperature": 5400.8,
+  "humidity": 15652.0,
+  "status": "Disconnected",
+  "timestamp": 615403700280
+},
+{
+  "device_id": 345,
+  "vcc": 460,
+  "temperature": 5416.5,
+  "humidity": 15697.5,
+  "status": "Disconnected",
+  "timestamp": 617192664525
+},
+{
+  "device_id": 346,
+  "vcc": 460,
+  "temperature": 5432.2,
+  "humidity": 15743.0,
+  "status": "Disconnected",
+  "timestamp": 618981628770
+},
+{
+  "device_id": 347,
+  "vcc": 460,
+  "temperature": 5447.9,
+  "humidity": 15788.5,
+  "status": "Disconnected",
+  "timestamp": 620770593015
+},
+{
+  "device_id": 348,
+  "vcc": 460,
+  "temperature": 5463.599999999999,
+  "humidity": 15834.0,
+  "status": "Disconnected",
+  "timestamp": 622559557260
+},
+{
+  "device_id": 349,
+  "vcc": 460,
+  "temperature": 5479.3,
+  "humidity": 15879.5,
+  "status": "Disconnected",
+  "timestamp": 624348521505
+},
+{
+  "device_id": 350,
+  "vcc": 460,
+  "temperature": 5495.0,
+  "humidity": 15925.0,
+  "status": "Disconnected",
+  "timestamp": 626137485750
+},
+{
+  "device_id": 351,
+  "vcc": 460,
+  "temperature": 5510.7,
+  "humidity": 15970.5,
+  "status": "Disconnected",
+  "timestamp": 627926449995
+},
+{
+  "device_id": 352,
+  "vcc": 460,
+  "temperature": 5526.4,
+  "humidity": 16016.0,
+  "status": "Disconnected",
+  "timestamp": 629715414240
+},
+{
+  "device_id": 353,
+  "vcc": 460,
+  "temperature": 5542.099999999999,
+  "humidity": 16061.5,
+  "status": "Disconnected",
+  "timestamp": 631504378485
+},
+{
+  "device_id": 354,
+  "vcc": 460,
+  "temperature": 5557.8,
+  "humidity": 16107.0,
+  "status": "Disconnected",
+  "timestamp": 633293342730
+},
+{
+  "device_id": 355,
+  "vcc": 460,
+  "temperature": 5573.5,
+  "humidity": 16152.5,
+  "status": "Disconnected",
+  "timestamp": 635082306975
+},
+{
+  "device_id": 356,
+  "vcc": 460,
+  "temperature": 5589.2,
+  "humidity": 16198.0,
+  "status": "Disconnected",
+  "timestamp": 636871271220
+},
+{
+  "device_id": 357,
+  "vcc": 460,
+  "temperature": 5604.9,
+  "humidity": 16243.5,
+  "status": "Disconnected",
+  "timestamp": 638660235465
+},
+{
+  "device_id": 358,
+  "vcc": 460,
+  "temperature": 5620.599999999999,
+  "humidity": 16289.0,
+  "status": "Disconnected",
+  "timestamp": 640449199710
+},
+{
+  "device_id": 359,
+  "vcc": 460,
+  "temperature": 5636.3,
+  "humidity": 16334.5,
+  "status": "Disconnected",
+  "timestamp": 642238163955
+},
+{
+  "device_id": 360,
+  "vcc": 460,
+  "temperature": 5652.0,
+  "humidity": 16380.0,
+  "status": "Disconnected",
+  "timestamp": 644027128200
+},
+{
+  "device_id": 361,
+  "vcc": 460,
+  "temperature": 5667.7,
+  "humidity": 16425.5,
+  "status": "Disconnected",
+  "timestamp": 645816092445
+},
+{
+  "device_id": 362,
+  "vcc": 460,
+  "temperature": 5683.4,
+  "humidity": 16471.0,
+  "status": "Disconnected",
+  "timestamp": 647605056690
+},
+{
+  "device_id": 363,
+  "vcc": 460,
+  "temperature": 5699.099999999999,
+  "humidity": 16516.5,
+  "status": "Disconnected",
+  "timestamp": 649394020935
+},
+{
+  "device_id": 364,
+  "vcc": 460,
+  "temperature": 5714.8,
+  "humidity": 16562.0,
+  "status": "Disconnected",
+  "timestamp": 651182985180
+},
+{
+  "device_id": 365,
+  "vcc": 460,
+  "temperature": 5730.5,
+  "humidity": 16607.5,
+  "status": "Disconnected",
+  "timestamp": 652971949425
+},
+{
+  "device_id": 366,
+  "vcc": 460,
+  "temperature": 5746.2,
+  "humidity": 16653.0,
+  "status": "Disconnected",
+  "timestamp": 654760913670
+},
+{
+  "device_id": 367,
+  "vcc": 460,
+  "temperature": 5761.9,
+  "humidity": 16698.5,
+  "status": "Disconnected",
+  "timestamp": 656549877915
+},
+{
+  "device_id": 368,
+  "vcc": 460,
+  "temperature": 5777.599999999999,
+  "humidity": 16744.0,
+  "status": "Disconnected",
+  "timestamp": 658338842160
+},
+{
+  "device_id": 369,
+  "vcc": 460,
+  "temperature": 5793.3,
+  "humidity": 16789.5,
+  "status": "Disconnected",
+  "timestamp": 660127806405
+},
+{
+  "device_id": 370,
+  "vcc": 460,
+  "temperature": 5809.0,
+  "humidity": 16835.0,
+  "status": "Disconnected",
+  "timestamp": 661916770650
+},
+{
+  "device_id": 371,
+  "vcc": 460,
+  "temperature": 5824.7,
+  "humidity": 16880.5,
+  "status": "Disconnected",
+  "timestamp": 663705734895
+},
+{
+  "device_id": 372,
+  "vcc": 460,
+  "temperature": 5840.4,
+  "humidity": 16926.0,
+  "status": "Disconnected",
+  "timestamp": 665494699140
+},
+{
+  "device_id": 373,
+  "vcc": 460,
+  "temperature": 5856.099999999999,
+  "humidity": 16971.5,
+  "status": "Disconnected",
+  "timestamp": 667283663385
+},
+{
+  "device_id": 374,
+  "vcc": 460,
+  "temperature": 5871.8,
+  "humidity": 17017.0,
+  "status": "Disconnected",
+  "timestamp": 669072627630
+},
+{
+  "device_id": 375,
+  "vcc": 460,
+  "temperature": 5887.5,
+  "humidity": 17062.5,
+  "status": "Disconnected",
+  "timestamp": 670861591875
+},
+{
+  "device_id": 376,
+  "vcc": 460,
+  "temperature": 5903.2,
+  "humidity": 17108.0,
+  "status": "Disconnected",
+  "timestamp": 672650556120
+},
+{
+  "device_id": 377,
+  "vcc": 460,
+  "temperature": 5918.9,
+  "humidity": 17153.5,
+  "status": "Disconnected",
+  "timestamp": 674439520365
+},
+{
+  "device_id": 378,
+  "vcc": 460,
+  "temperature": 5934.599999999999,
+  "humidity": 17199.0,
+  "status": "Disconnected",
+  "timestamp": 676228484610
+},
+{
+  "device_id": 379,
+  "vcc": 460,
+  "temperature": 5950.3,
+  "humidity": 17244.5,
+  "status": "Disconnected",
+  "timestamp": 678017448855
+},
+{
+  "device_id": 380,
+  "vcc": 460,
+  "temperature": 5966.0,
+  "humidity": 17290.0,
+  "status": "Disconnected",
+  "timestamp": 679806413100
+},
+{
+  "device_id": 381,
+  "vcc": 460,
+  "temperature": 5981.7,
+  "humidity": 17335.5,
+  "status": "Disconnected",
+  "timestamp": 681595377345
+},
+{
+  "device_id": 382,
+  "vcc": 460,
+  "temperature": 5997.4,
+  "humidity": 17381.0,
+  "status": "Disconnected",
+  "timestamp": 683384341590
+},
+{
+  "device_id": 383,
+  "vcc": 460,
+  "temperature": 6013.099999999999,
+  "humidity": 17426.5,
+  "status": "Disconnected",
+  "timestamp": 685173305835
+},
+{
+  "device_id": 384,
+  "vcc": 460,
+  "temperature": 6028.799999999999,
+  "humidity": 17472.0,
+  "status": "Disconnected",
+  "timestamp": 686962270080
+},
+{
+  "device_id": 385,
+  "vcc": 460,
+  "temperature": 6044.5,
+  "humidity": 17517.5,
+  "status": "Disconnected",
+  "timestamp": 688751234325
+},
+{
+  "device_id": 386,
+  "vcc": 460,
+  "temperature": 6060.2,
+  "humidity": 17563.0,
+  "status": "Disconnected",
+  "timestamp": 690540198570
+},
+{
+  "device_id": 387,
+  "vcc": 460,
+  "temperature": 6075.9,
+  "humidity": 17608.5,
+  "status": "Disconnected",
+  "timestamp": 692329162815
+},
+{
+  "device_id": 388,
+  "vcc": 460,
+  "temperature": 6091.599999999999,
+  "humidity": 17654.0,
+  "status": "Disconnected",
+  "timestamp": 694118127060
+},
+{
+  "device_id": 389,
+  "vcc": 460,
+  "temperature": 6107.299999999999,
+  "humidity": 17699.5,
+  "status": "Disconnected",
+  "timestamp": 695907091305
+},
+{
+  "device_id": 390,
+  "vcc": 460,
+  "temperature": 6123.0,
+  "humidity": 17745.0,
+  "status": "Disconnected",
+  "timestamp": 697696055550
+},
+{
+  "device_id": 391,
+  "vcc": 460,
+  "temperature": 6138.7,
+  "humidity": 17790.5,
+  "status": "Disconnected",
+  "timestamp": 699485019795
+},
+{
+  "device_id": 392,
+  "vcc": 460,
+  "temperature": 6154.4,
+  "humidity": 17836.0,
+  "status": "Disconnected",
+  "timestamp": 701273984040
+},
+{
+  "device_id": 393,
+  "vcc": 460,
+  "temperature": 6170.099999999999,
+  "humidity": 17881.5,
+  "status": "Disconnected",
+  "timestamp": 703062948285
+},
+{
+  "device_id": 394,
+  "vcc": 460,
+  "temperature": 6185.799999999999,
+  "humidity": 17927.0,
+  "status": "Disconnected",
+  "timestamp": 704851912530
+},
+{
+  "device_id": 395,
+  "vcc": 460,
+  "temperature": 6201.5,
+  "humidity": 17972.5,
+  "status": "Disconnected",
+  "timestamp": 706640876775
+},
+{
+  "device_id": 396,
+  "vcc": 460,
+  "temperature": 6217.2,
+  "humidity": 18018.0,
+  "status": "Disconnected",
+  "timestamp": 708429841020
+},
+{
+  "device_id": 397,
+  "vcc": 460,
+  "temperature": 6232.9,
+  "humidity": 18063.5,
+  "status": "Disconnected",
+  "timestamp": 710218805265
+},
+{
+  "device_id": 398,
+  "vcc": 460,
+  "temperature": 6248.599999999999,
+  "humidity": 18109.0,
+  "status": "Disconnected",
+  "timestamp": 712007769510
+},
+{
+  "device_id": 399,
+  "vcc": 460,
+  "temperature": 6264.299999999999,
+  "humidity": 18154.5,
+  "status": "Disconnected",
+  "timestamp": 713796733755
+},
+{
+  "device_id": 400,
+  "vcc": 460,
+  "temperature": 6280.0,
+  "humidity": 18200.0,
+  "status": "Disconnected",
+  "timestamp": 715585698000
+},
+{
+  "device_id": 401,
+  "vcc": 460,
+  "temperature": 6295.7,
+  "humidity": 18245.5,
+  "status": "Disconnected",
+  "timestamp": 717374662245
+},
+{
+  "device_id": 402,
+  "vcc": 460,
+  "temperature": 6311.4,
+  "humidity": 18291.0,
+  "status": "Disconnected",
+  "timestamp": 719163626490
+},
+{
+  "device_id": 403,
+  "vcc": 460,
+  "temperature": 6327.099999999999,
+  "humidity": 18336.5,
+  "status": "Disconnected",
+  "timestamp": 720952590735
+},
+{
+  "device_id": 404,
+  "vcc": 460,
+  "temperature": 6342.799999999999,
+  "humidity": 18382.0,
+  "status": "Disconnected",
+  "timestamp": 722741554980
+},
+{
+  "device_id": 405,
+  "vcc": 460,
+  "temperature": 6358.5,
+  "humidity": 18427.5,
+  "status": "Disconnected",
+  "timestamp": 724530519225
+},
+{
+  "device_id": 406,
+  "vcc": 460,
+  "temperature": 6374.2,
+  "humidity": 18473.0,
+  "status": "Disconnected",
+  "timestamp": 726319483470
+},
+{
+  "device_id": 407,
+  "vcc": 460,
+  "temperature": 6389.9,
+  "humidity": 18518.5,
+  "status": "Disconnected",
+  "timestamp": 728108447715
+},
+{
+  "device_id": 408,
+  "vcc": 460,
+  "temperature": 6405.599999999999,
+  "humidity": 18564.0,
+  "status": "Disconnected",
+  "timestamp": 729897411960
+},
+{
+  "device_id": 409,
+  "vcc": 460,
+  "temperature": 6421.299999999999,
+  "humidity": 18609.5,
+  "status": "Disconnected",
+  "timestamp": 731686376205
+},
+{
+  "device_id": 410,
+  "vcc": 460,
+  "temperature": 6437.0,
+  "humidity": 18655.0,
+  "status": "Disconnected",
+  "timestamp": 733475340450
+},
+{
+  "device_id": 411,
+  "vcc": 460,
+  "temperature": 6452.7,
+  "humidity": 18700.5,
+  "status": "Disconnected",
+  "timestamp": 735264304695
+},
+{
+  "device_id": 412,
+  "vcc": 460,
+  "temperature": 6468.4,
+  "humidity": 18746.0,
+  "status": "Disconnected",
+  "timestamp": 737053268940
+},
+{
+  "device_id": 413,
+  "vcc": 460,
+  "temperature": 6484.099999999999,
+  "humidity": 18791.5,
+  "status": "Disconnected",
+  "timestamp": 738842233185
+},
+{
+  "device_id": 414,
+  "vcc": 460,
+  "temperature": 6499.799999999999,
+  "humidity": 18837.0,
+  "status": "Disconnected",
+  "timestamp": 740631197430
+},
+{
+  "device_id": 415,
+  "vcc": 460,
+  "temperature": 6515.5,
+  "humidity": 18882.5,
+  "status": "Disconnected",
+  "timestamp": 742420161675
+},
+{
+  "device_id": 416,
+  "vcc": 460,
+  "temperature": 6531.2,
+  "humidity": 18928.0,
+  "status": "Disconnected",
+  "timestamp": 744209125920
+},
+{
+  "device_id": 417,
+  "vcc": 460,
+  "temperature": 6546.9,
+  "humidity": 18973.5,
+  "status": "Disconnected",
+  "timestamp": 745998090165
+},
+{
+  "device_id": 418,
+  "vcc": 460,
+  "temperature": 6562.599999999999,
+  "humidity": 19019.0,
+  "status": "Disconnected",
+  "timestamp": 747787054410
+},
+{
+  "device_id": 419,
+  "vcc": 460,
+  "temperature": 6578.299999999999,
+  "humidity": 19064.5,
+  "status": "Disconnected",
+  "timestamp": 749576018655
+},
+{
+  "device_id": 420,
+  "vcc": 460,
+  "temperature": 6594.0,
+  "humidity": 19110.0,
+  "status": "Disconnected",
+  "timestamp": 751364982900
+},
+{
+  "device_id": 421,
+  "vcc": 460,
+  "temperature": 6609.7,
+  "humidity": 19155.5,
+  "status": "Disconnected",
+  "timestamp": 753153947145
+},
+{
+  "device_id": 422,
+  "vcc": 460,
+  "temperature": 6625.4,
+  "humidity": 19201.0,
+  "status": "Disconnected",
+  "timestamp": 754942911390
+},
+{
+  "device_id": 423,
+  "vcc": 460,
+  "temperature": 6641.099999999999,
+  "humidity": 19246.5,
+  "status": "Disconnected",
+  "timestamp": 756731875635
+},
+{
+  "device_id": 424,
+  "vcc": 460,
+  "temperature": 6656.799999999999,
+  "humidity": 19292.0,
+  "status": "Disconnected",
+  "timestamp": 758520839880
+},
+{
+  "device_id": 425,
+  "vcc": 460,
+  "temperature": 6672.5,
+  "humidity": 19337.5,
+  "status": "Disconnected",
+  "timestamp": 760309804125
+},
+{
+  "device_id": 426,
+  "vcc": 460,
+  "temperature": 6688.2,
+  "humidity": 19383.0,
+  "status": "Disconnected",
+  "timestamp": 762098768370
+},
+{
+  "device_id": 427,
+  "vcc": 460,
+  "temperature": 6703.9,
+  "humidity": 19428.5,
+  "status": "Disconnected",
+  "timestamp": 763887732615
+},
+{
+  "device_id": 428,
+  "vcc": 460,
+  "temperature": 6719.599999999999,
+  "humidity": 19474.0,
+  "status": "Disconnected",
+  "timestamp": 765676696860
+},
+{
+  "device_id": 429,
+  "vcc": 460,
+  "temperature": 6735.299999999999,
+  "humidity": 19519.5,
+  "status": "Disconnected",
+  "timestamp": 767465661105
+},
+{
+  "device_id": 430,
+  "vcc": 460,
+  "temperature": 6751.0,
+  "humidity": 19565.0,
+  "status": "Disconnected",
+  "timestamp": 769254625350
+},
+{
+  "device_id": 431,
+  "vcc": 460,
+  "temperature": 6766.7,
+  "humidity": 19610.5,
+  "status": "Disconnected",
+  "timestamp": 771043589595
+},
+{
+  "device_id": 432,
+  "vcc": 460,
+  "temperature": 6782.4,
+  "humidity": 19656.0,
+  "status": "Disconnected",
+  "timestamp": 772832553840
+},
+{
+  "device_id": 433,
+  "vcc": 460,
+  "temperature": 6798.099999999999,
+  "humidity": 19701.5,
+  "status": "Disconnected",
+  "timestamp": 774621518085
+},
+{
+  "device_id": 434,
+  "vcc": 460,
+  "temperature": 6813.799999999999,
+  "humidity": 19747.0,
+  "status": "Disconnected",
+  "timestamp": 776410482330
+},
+{
+  "device_id": 435,
+  "vcc": 460,
+  "temperature": 6829.5,
+  "humidity": 19792.5,
+  "status": "Disconnected",
+  "timestamp": 778199446575
+},
+{
+  "device_id": 436,
+  "vcc": 460,
+  "temperature": 6845.2,
+  "humidity": 19838.0,
+  "status": "Disconnected",
+  "timestamp": 779988410820
+},
+{
+  "device_id": 437,
+  "vcc": 460,
+  "temperature": 6860.9,
+  "humidity": 19883.5,
+  "status": "Disconnected",
+  "timestamp": 781777375065
+},
+{
+  "device_id": 438,
+  "vcc": 460,
+  "temperature": 6876.599999999999,
+  "humidity": 19929.0,
+  "status": "Disconnected",
+  "timestamp": 783566339310
+},
+{
+  "device_id": 439,
+  "vcc": 460,
+  "temperature": 6892.299999999999,
+  "humidity": 19974.5,
+  "status": "Disconnected",
+  "timestamp": 785355303555
+},
+{
+  "device_id": 440,
+  "vcc": 460,
+  "temperature": 6908.0,
+  "humidity": 20020.0,
+  "status": "Disconnected",
+  "timestamp": 787144267800
+},
+{
+  "device_id": 441,
+  "vcc": 460,
+  "temperature": 6923.7,
+  "humidity": 20065.5,
+  "status": "Disconnected",
+  "timestamp": 788933232045
+},
+{
+  "device_id": 442,
+  "vcc": 460,
+  "temperature": 6939.4,
+  "humidity": 20111.0,
+  "status": "Disconnected",
+  "timestamp": 790722196290
+},
+{
+  "device_id": 443,
+  "vcc": 460,
+  "temperature": 6955.099999999999,
+  "humidity": 20156.5,
+  "status": "Disconnected",
+  "timestamp": 792511160535
+},
+{
+  "device_id": 444,
+  "vcc": 460,
+  "temperature": 6970.799999999999,
+  "humidity": 20202.0,
+  "status": "Disconnected",
+  "timestamp": 794300124780
+},
+{
+  "device_id": 445,
+  "vcc": 460,
+  "temperature": 6986.5,
+  "humidity": 20247.5,
+  "status": "Disconnected",
+  "timestamp": 796089089025
+},
+{
+  "device_id": 446,
+  "vcc": 460,
+  "temperature": 7002.2,
+  "humidity": 20293.0,
+  "status": "Disconnected",
+  "timestamp": 797878053270
+},
+{
+  "device_id": 447,
+  "vcc": 460,
+  "temperature": 7017.9,
+  "humidity": 20338.5,
+  "status": "Disconnected",
+  "timestamp": 799667017515
+},
+{
+  "device_id": 448,
+  "vcc": 460,
+  "temperature": 7033.599999999999,
+  "humidity": 20384.0,
+  "status": "Disconnected",
+  "timestamp": 801455981760
+},
+{
+  "device_id": 449,
+  "vcc": 460,
+  "temperature": 7049.299999999999,
+  "humidity": 20429.5,
+  "status": "Disconnected",
+  "timestamp": 803244946005
+},
+{
+  "device_id": 450,
+  "vcc": 460,
+  "temperature": 7065.0,
+  "humidity": 20475.0,
+  "status": "Disconnected",
+  "timestamp": 805033910250
+},
+{
+  "device_id": 451,
+  "vcc": 460,
+  "temperature": 7080.7,
+  "humidity": 20520.5,
+  "status": "Disconnected",
+  "timestamp": 806822874495
+},
+{
+  "device_id": 452,
+  "vcc": 460,
+  "temperature": 7096.4,
+  "humidity": 20566.0,
+  "status": "Disconnected",
+  "timestamp": 808611838740
+},
+{
+  "device_id": 453,
+  "vcc": 460,
+  "temperature": 7112.099999999999,
+  "humidity": 20611.5,
+  "status": "Disconnected",
+  "timestamp": 810400802985
+},
+{
+  "device_id": 454,
+  "vcc": 460,
+  "temperature": 7127.799999999999,
+  "humidity": 20657.0,
+  "status": "Disconnected",
+  "timestamp": 812189767230
+},
+{
+  "device_id": 455,
+  "vcc": 460,
+  "temperature": 7143.5,
+  "humidity": 20702.5,
+  "status": "Disconnected",
+  "timestamp": 813978731475
+},
+{
+  "device_id": 456,
+  "vcc": 460,
+  "temperature": 7159.2,
+  "humidity": 20748.0,
+  "status": "Disconnected",
+  "timestamp": 815767695720
+},
+{
+  "device_id": 457,
+  "vcc": 460,
+  "temperature": 7174.9,
+  "humidity": 20793.5,
+  "status": "Disconnected",
+  "timestamp": 817556659965
+},
+{
+  "device_id": 458,
+  "vcc": 460,
+  "temperature": 7190.599999999999,
+  "humidity": 20839.0,
+  "status": "Disconnected",
+  "timestamp": 819345624210
+},
+{
+  "device_id": 459,
+  "vcc": 460,
+  "temperature": 7206.299999999999,
+  "humidity": 20884.5,
+  "status": "Disconnected",
+  "timestamp": 821134588455
+},
+{
+  "device_id": 460,
+  "vcc": 460,
+  "temperature": 7222.0,
+  "humidity": 20930.0,
+  "status": "Disconnected",
+  "timestamp": 822923552700
+},
+{
+  "device_id": 461,
+  "vcc": 460,
+  "temperature": 7237.7,
+  "humidity": 20975.5,
+  "status": "Disconnected",
+  "timestamp": 824712516945
+},
+{
+  "device_id": 462,
+  "vcc": 460,
+  "temperature": 7253.4,
+  "humidity": 21021.0,
+  "status": "Disconnected",
+  "timestamp": 826501481190
+},
+{
+  "device_id": 463,
+  "vcc": 460,
+  "temperature": 7269.099999999999,
+  "humidity": 21066.5,
+  "status": "Disconnected",
+  "timestamp": 828290445435
+},
+{
+  "device_id": 464,
+  "vcc": 460,
+  "temperature": 7284.799999999999,
+  "humidity": 21112.0,
+  "status": "Disconnected",
+  "timestamp": 830079409680
+},
+{
+  "device_id": 465,
+  "vcc": 460,
+  "temperature": 7300.5,
+  "humidity": 21157.5,
+  "status": "Disconnected",
+  "timestamp": 831868373925
+},
+{
+  "device_id": 466,
+  "vcc": 460,
+  "temperature": 7316.2,
+  "humidity": 21203.0,
+  "status": "Disconnected",
+  "timestamp": 833657338170
+},
+{
+  "device_id": 467,
+  "vcc": 460,
+  "temperature": 7331.9,
+  "humidity": 21248.5,
+  "status": "Disconnected",
+  "timestamp": 835446302415
+},
+{
+  "device_id": 468,
+  "vcc": 460,
+  "temperature": 7347.599999999999,
+  "humidity": 21294.0,
+  "status": "Disconnected",
+  "timestamp": 837235266660
+},
+{
+  "device_id": 469,
+  "vcc": 460,
+  "temperature": 7363.299999999999,
+  "humidity": 21339.5,
+  "status": "Disconnected",
+  "timestamp": 839024230905
+},
+{
+  "device_id": 470,
+  "vcc": 460,
+  "temperature": 7379.0,
+  "humidity": 21385.0,
+  "status": "Disconnected",
+  "timestamp": 840813195150
+},
+{
+  "device_id": 471,
+  "vcc": 460,
+  "temperature": 7394.7,
+  "humidity": 21430.5,
+  "status": "Disconnected",
+  "timestamp": 842602159395
+},
+{
+  "device_id": 472,
+  "vcc": 460,
+  "temperature": 7410.4,
+  "humidity": 21476.0,
+  "status": "Disconnected",
+  "timestamp": 844391123640
+},
+{
+  "device_id": 473,
+  "vcc": 460,
+  "temperature": 7426.099999999999,
+  "humidity": 21521.5,
+  "status": "Disconnected",
+  "timestamp": 846180087885
+},
+{
+  "device_id": 474,
+  "vcc": 460,
+  "temperature": 7441.799999999999,
+  "humidity": 21567.0,
+  "status": "Disconnected",
+  "timestamp": 847969052130
+},
+{
+  "device_id": 475,
+  "vcc": 460,
+  "temperature": 7457.5,
+  "humidity": 21612.5,
+  "status": "Disconnected",
+  "timestamp": 849758016375
+},
+{
+  "device_id": 476,
+  "vcc": 460,
+  "temperature": 7473.2,
+  "humidity": 21658.0,
+  "status": "Disconnected",
+  "timestamp": 851546980620
+},
+{
+  "device_id": 477,
+  "vcc": 460,
+  "temperature": 7488.9,
+  "humidity": 21703.5,
+  "status": "Disconnected",
+  "timestamp": 853335944865
+},
+{
+  "device_id": 478,
+  "vcc": 460,
+  "temperature": 7504.599999999999,
+  "humidity": 21749.0,
+  "status": "Disconnected",
+  "timestamp": 855124909110
+},
+{
+  "device_id": 479,
+  "vcc": 460,
+  "temperature": 7520.299999999999,
+  "humidity": 21794.5,
+  "status": "Disconnected",
+  "timestamp": 856913873355
+},
+{
+  "device_id": 480,
+  "vcc": 460,
+  "temperature": 7536.0,
+  "humidity": 21840.0,
+  "status": "Disconnected",
+  "timestamp": 858702837600
+},
+{
+  "device_id": 481,
+  "vcc": 460,
+  "temperature": 7551.7,
+  "humidity": 21885.5,
+  "status": "Disconnected",
+  "timestamp": 860491801845
+},
+{
+  "device_id": 482,
+  "vcc": 460,
+  "temperature": 7567.4,
+  "humidity": 21931.0,
+  "status": "Disconnected",
+  "timestamp": 862280766090
+},
+{
+  "device_id": 483,
+  "vcc": 460,
+  "temperature": 7583.099999999999,
+  "humidity": 21976.5,
+  "status": "Disconnected",
+  "timestamp": 864069730335
+},
+{
+  "device_id": 484,
+  "vcc": 460,
+  "temperature": 7598.799999999999,
+  "humidity": 22022.0,
+  "status": "Disconnected",
+  "timestamp": 865858694580
+},
+{
+  "device_id": 485,
+  "vcc": 460,
+  "temperature": 7614.5,
+  "humidity": 22067.5,
+  "status": "Disconnected",
+  "timestamp": 867647658825
+},
+{
+  "device_id": 486,
+  "vcc": 460,
+  "temperature": 7630.2,
+  "humidity": 22113.0,
+  "status": "Disconnected",
+  "timestamp": 869436623070
+},
+{
+  "device_id": 487,
+  "vcc": 460,
+  "temperature": 7645.9,
+  "humidity": 22158.5,
+  "status": "Disconnected",
+  "timestamp": 871225587315
+},
+{
+  "device_id": 488,
+  "vcc": 460,
+  "temperature": 7661.599999999999,
+  "humidity": 22204.0,
+  "status": "Disconnected",
+  "timestamp": 873014551560
+},
+{
+  "device_id": 489,
+  "vcc": 460,
+  "temperature": 7677.299999999999,
+  "humidity": 22249.5,
+  "status": "Disconnected",
+  "timestamp": 874803515805
+},
+{
+  "device_id": 490,
+  "vcc": 460,
+  "temperature": 7693.0,
+  "humidity": 22295.0,
+  "status": "Disconnected",
+  "timestamp": 876592480050
+},
+{
+  "device_id": 491,
+  "vcc": 460,
+  "temperature": 7708.7,
+  "humidity": 22340.5,
+  "status": "Disconnected",
+  "timestamp": 878381444295
+},
+{
+  "device_id": 492,
+  "vcc": 460,
+  "temperature": 7724.4,
+  "humidity": 22386.0,
+  "status": "Disconnected",
+  "timestamp": 880170408540
+},
+{
+  "device_id": 493,
+  "vcc": 460,
+  "temperature": 7740.099999999999,
+  "humidity": 22431.5,
+  "status": "Disconnected",
+  "timestamp": 881959372785
+},
+{
+  "device_id": 494,
+  "vcc": 460,
+  "temperature": 7755.799999999999,
+  "humidity": 22477.0,
+  "status": "Disconnected",
+  "timestamp": 883748337030
+},
+{
+  "device_id": 495,
+  "vcc": 460,
+  "temperature": 7771.5,
+  "humidity": 22522.5,
+  "status": "Disconnected",
+  "timestamp": 885537301275
+},
+{
+  "device_id": 496,
+  "vcc": 460,
+  "temperature": 7787.2,
+  "humidity": 22568.0,
+  "status": "Disconnected",
+  "timestamp": 887326265520
+},
+{
+  "device_id": 497,
+  "vcc": 460,
+  "temperature": 7802.9,
+  "humidity": 22613.5,
+  "status": "Disconnected",
+  "timestamp": 889115229765
+},
+{
+  "device_id": 498,
+  "vcc": 460,
+  "temperature": 7818.599999999999,
+  "humidity": 22659.0,
+  "status": "Disconnected",
+  "timestamp": 890904194010
+},
+{
+  "device_id": 499,
+  "vcc": 460,
+  "temperature": 7834.299999999999,
+  "humidity": 22704.5,
+  "status": "Disconnected",
+  "timestamp": 892693158255
+},
+{
+  "device_id": 500,
+  "vcc": 460,
+  "temperature": 7850.0,
+  "humidity": 22750.0,
+  "status": "Disconnected",
+  "timestamp": 894482122500
+},
+{
+  "device_id": 501,
+  "vcc": 460,
+  "temperature": 7865.7,
+  "humidity": 22795.5,
+  "status": "Disconnected",
+  "timestamp": 896271086745
+},
+{
+  "device_id": 502,
+  "vcc": 460,
+  "temperature": 7881.4,
+  "humidity": 22841.0,
+  "status": "Disconnected",
+  "timestamp": 898060050990
+},
+{
+  "device_id": 503,
+  "vcc": 460,
+  "temperature": 7897.099999999999,
+  "humidity": 22886.5,
+  "status": "Disconnected",
+  "timestamp": 899849015235
+},
+{
+  "device_id": 504,
+  "vcc": 460,
+  "temperature": 7912.799999999999,
+  "humidity": 22932.0,
+  "status": "Disconnected",
+  "timestamp": 901637979480
+},
+{
+  "device_id": 505,
+  "vcc": 460,
+  "temperature": 7928.5,
+  "humidity": 22977.5,
+  "status": "Disconnected",
+  "timestamp": 903426943725
+},
+{
+  "device_id": 506,
+  "vcc": 460,
+  "temperature": 7944.2,
+  "humidity": 23023.0,
+  "status": "Disconnected",
+  "timestamp": 905215907970
+},
+{
+  "device_id": 507,
+  "vcc": 460,
+  "temperature": 7959.9,
+  "humidity": 23068.5,
+  "status": "Disconnected",
+  "timestamp": 907004872215
+},
+{
+  "device_id": 508,
+  "vcc": 460,
+  "temperature": 7975.599999999999,
+  "humidity": 23114.0,
+  "status": "Disconnected",
+  "timestamp": 908793836460
+},
+{
+  "device_id": 509,
+  "vcc": 460,
+  "temperature": 7991.299999999999,
+  "humidity": 23159.5,
+  "status": "Disconnected",
+  "timestamp": 910582800705
+},
+{
+  "device_id": 510,
+  "vcc": 460,
+  "temperature": 8007.0,
+  "humidity": 23205.0,
+  "status": "Disconnected",
+  "timestamp": 912371764950
+},
+{
+  "device_id": 511,
+  "vcc": 460,
+  "temperature": 8022.7,
+  "humidity": 23250.5,
+  "status": "Disconnected",
+  "timestamp": 914160729195
+},
+{
+  "device_id": 512,
+  "vcc": 460,
+  "temperature": 8038.4,
+  "humidity": 23296.0,
+  "status": "Disconnected",
+  "timestamp": 915949693440
+},
+{
+  "device_id": 513,
+  "vcc": 460,
+  "temperature": 8054.099999999999,
+  "humidity": 23341.5,
+  "status": "Disconnected",
+  "timestamp": 917738657685
+},
+{
+  "device_id": 514,
+  "vcc": 460,
+  "temperature": 8069.799999999999,
+  "humidity": 23387.0,
+  "status": "Disconnected",
+  "timestamp": 919527621930
+},
+{
+  "device_id": 515,
+  "vcc": 460,
+  "temperature": 8085.5,
+  "humidity": 23432.5,
+  "status": "Disconnected",
+  "timestamp": 921316586175
+},
+{
+  "device_id": 516,
+  "vcc": 460,
+  "temperature": 8101.2,
+  "humidity": 23478.0,
+  "status": "Disconnected",
+  "timestamp": 923105550420
+},
+{
+  "device_id": 517,
+  "vcc": 460,
+  "temperature": 8116.9,
+  "humidity": 23523.5,
+  "status": "Disconnected",
+  "timestamp": 924894514665
+},
+{
+  "device_id": 518,
+  "vcc": 460,
+  "temperature": 8132.599999999999,
+  "humidity": 23569.0,
+  "status": "Disconnected",
+  "timestamp": 926683478910
+},
+{
+  "device_id": 519,
+  "vcc": 460,
+  "temperature": 8148.299999999999,
+  "humidity": 23614.5,
+  "status": "Disconnected",
+  "timestamp": 928472443155
+},
+{
+  "device_id": 520,
+  "vcc": 460,
+  "temperature": 8164.0,
+  "humidity": 23660.0,
+  "status": "Disconnected",
+  "timestamp": 930261407400
+},
+{
+  "device_id": 521,
+  "vcc": 460,
+  "temperature": 8179.7,
+  "humidity": 23705.5,
+  "status": "Disconnected",
+  "timestamp": 932050371645
+},
+{
+  "device_id": 522,
+  "vcc": 460,
+  "temperature": 8195.4,
+  "humidity": 23751.0,
+  "status": "Disconnected",
+  "timestamp": 933839335890
+},
+{
+  "device_id": 523,
+  "vcc": 460,
+  "temperature": 8211.1,
+  "humidity": 23796.5,
+  "status": "Disconnected",
+  "timestamp": 935628300135
+},
+{
+  "device_id": 524,
+  "vcc": 460,
+  "temperature": 8226.8,
+  "humidity": 23842.0,
+  "status": "Disconnected",
+  "timestamp": 937417264380
+},
+{
+  "device_id": 525,
+  "vcc": 460,
+  "temperature": 8242.5,
+  "humidity": 23887.5,
+  "status": "Disconnected",
+  "timestamp": 939206228625
+},
+{
+  "device_id": 526,
+  "vcc": 460,
+  "temperature": 8258.199999999999,
+  "humidity": 23933.0,
+  "status": "Disconnected",
+  "timestamp": 940995192870
+},
+{
+  "device_id": 527,
+  "vcc": 460,
+  "temperature": 8273.9,
+  "humidity": 23978.5,
+  "status": "Disconnected",
+  "timestamp": 942784157115
+},
+{
+  "device_id": 528,
+  "vcc": 460,
+  "temperature": 8289.6,
+  "humidity": 24024.0,
+  "status": "Disconnected",
+  "timestamp": 944573121360
+},
+{
+  "device_id": 529,
+  "vcc": 460,
+  "temperature": 8305.3,
+  "humidity": 24069.5,
+  "status": "Disconnected",
+  "timestamp": 946362085605
+},
+{
+  "device_id": 530,
+  "vcc": 460,
+  "temperature": 8321.0,
+  "humidity": 24115.0,
+  "status": "Disconnected",
+  "timestamp": 948151049850
+},
+{
+  "device_id": 531,
+  "vcc": 460,
+  "temperature": 8336.699999999999,
+  "humidity": 24160.5,
+  "status": "Disconnected",
+  "timestamp": 949940014095
+},
+{
+  "device_id": 532,
+  "vcc": 460,
+  "temperature": 8352.4,
+  "humidity": 24206.0,
+  "status": "Disconnected",
+  "timestamp": 951728978340
+},
+{
+  "device_id": 533,
+  "vcc": 460,
+  "temperature": 8368.1,
+  "humidity": 24251.5,
+  "status": "Disconnected",
+  "timestamp": 953517942585
+},
+{
+  "device_id": 534,
+  "vcc": 460,
+  "temperature": 8383.8,
+  "humidity": 24297.0,
+  "status": "Disconnected",
+  "timestamp": 955306906830
+},
+{
+  "device_id": 535,
+  "vcc": 460,
+  "temperature": 8399.5,
+  "humidity": 24342.5,
+  "status": "Disconnected",
+  "timestamp": 957095871075
+},
+{
+  "device_id": 536,
+  "vcc": 460,
+  "temperature": 8415.199999999999,
+  "humidity": 24388.0,
+  "status": "Disconnected",
+  "timestamp": 958884835320
+},
+{
+  "device_id": 537,
+  "vcc": 460,
+  "temperature": 8430.9,
+  "humidity": 24433.5,
+  "status": "Disconnected",
+  "timestamp": 960673799565
+},
+{
+  "device_id": 538,
+  "vcc": 460,
+  "temperature": 8446.6,
+  "humidity": 24479.0,
+  "status": "Disconnected",
+  "timestamp": 962462763810
+},
+{
+  "device_id": 539,
+  "vcc": 460,
+  "temperature": 8462.3,
+  "humidity": 24524.5,
+  "status": "Disconnected",
+  "timestamp": 964251728055
+},
+{
+  "device_id": 540,
+  "vcc": 460,
+  "temperature": 8478.0,
+  "humidity": 24570.0,
+  "status": "Disconnected",
+  "timestamp": 966040692300
+},
+{
+  "device_id": 541,
+  "vcc": 460,
+  "temperature": 8493.699999999999,
+  "humidity": 24615.5,
+  "status": "Disconnected",
+  "timestamp": 967829656545
+},
+{
+  "device_id": 542,
+  "vcc": 460,
+  "temperature": 8509.4,
+  "humidity": 24661.0,
+  "status": "Disconnected",
+  "timestamp": 969618620790
+},
+{
+  "device_id": 543,
+  "vcc": 460,
+  "temperature": 8525.1,
+  "humidity": 24706.5,
+  "status": "Disconnected",
+  "timestamp": 971407585035
+},
+{
+  "device_id": 544,
+  "vcc": 460,
+  "temperature": 8540.8,
+  "humidity": 24752.0,
+  "status": "Disconnected",
+  "timestamp": 973196549280
+},
+{
+  "device_id": 545,
+  "vcc": 460,
+  "temperature": 8556.5,
+  "humidity": 24797.5,
+  "status": "Disconnected",
+  "timestamp": 974985513525
+},
+{
+  "device_id": 546,
+  "vcc": 460,
+  "temperature": 8572.199999999999,
+  "humidity": 24843.0,
+  "status": "Disconnected",
+  "timestamp": 976774477770
+},
+{
+  "device_id": 547,
+  "vcc": 460,
+  "temperature": 8587.9,
+  "humidity": 24888.5,
+  "status": "Disconnected",
+  "timestamp": 978563442015
+},
+{
+  "device_id": 548,
+  "vcc": 460,
+  "temperature": 8603.6,
+  "humidity": 24934.0,
+  "status": "Disconnected",
+  "timestamp": 980352406260
+},
+{
+  "device_id": 549,
+  "vcc": 460,
+  "temperature": 8619.3,
+  "humidity": 24979.5,
+  "status": "Disconnected",
+  "timestamp": 982141370505
+},
+{
+  "device_id": 550,
+  "vcc": 460,
+  "temperature": 8635.0,
+  "humidity": 25025.0,
+  "status": "Disconnected",
+  "timestamp": 983930334750
+},
+{
+  "device_id": 551,
+  "vcc": 460,
+  "temperature": 8650.699999999999,
+  "humidity": 25070.5,
+  "status": "Disconnected",
+  "timestamp": 985719298995
+},
+{
+  "device_id": 552,
+  "vcc": 460,
+  "temperature": 8666.4,
+  "humidity": 25116.0,
+  "status": "Disconnected",
+  "timestamp": 987508263240
+},
+{
+  "device_id": 553,
+  "vcc": 460,
+  "temperature": 8682.1,
+  "humidity": 25161.5,
+  "status": "Disconnected",
+  "timestamp": 989297227485
+},
+{
+  "device_id": 554,
+  "vcc": 460,
+  "temperature": 8697.8,
+  "humidity": 25207.0,
+  "status": "Disconnected",
+  "timestamp": 991086191730
+},
+{
+  "device_id": 555,
+  "vcc": 460,
+  "temperature": 8713.5,
+  "humidity": 25252.5,
+  "status": "Disconnected",
+  "timestamp": 992875155975
+},
+{
+  "device_id": 556,
+  "vcc": 460,
+  "temperature": 8729.199999999999,
+  "humidity": 25298.0,
+  "status": "Disconnected",
+  "timestamp": 994664120220
+},
+{
+  "device_id": 557,
+  "vcc": 460,
+  "temperature": 8744.9,
+  "humidity": 25343.5,
+  "status": "Disconnected",
+  "timestamp": 996453084465
+},
+{
+  "device_id": 558,
+  "vcc": 460,
+  "temperature": 8760.6,
+  "humidity": 25389.0,
+  "status": "Disconnected",
+  "timestamp": 998242048710
+},
+{
+  "device_id": 559,
+  "vcc": 460,
+  "temperature": 8776.3,
+  "humidity": 25434.5,
+  "status": "Disconnected",
+  "timestamp": 1000031012955
+},
+{
+  "device_id": 560,
+  "vcc": 460,
+  "temperature": 8792.0,
+  "humidity": 25480.0,
+  "status": "Disconnected",
+  "timestamp": 1001819977200
+},
+{
+  "device_id": 561,
+  "vcc": 460,
+  "temperature": 8807.699999999999,
+  "humidity": 25525.5,
+  "status": "Disconnected",
+  "timestamp": 1003608941445
+},
+{
+  "device_id": 562,
+  "vcc": 460,
+  "temperature": 8823.4,
+  "humidity": 25571.0,
+  "status": "Disconnected",
+  "timestamp": 1005397905690
+},
+{
+  "device_id": 563,
+  "vcc": 460,
+  "temperature": 8839.1,
+  "humidity": 25616.5,
+  "status": "Disconnected",
+  "timestamp": 1007186869935
+},
+{
+  "device_id": 564,
+  "vcc": 460,
+  "temperature": 8854.8,
+  "humidity": 25662.0,
+  "status": "Disconnected",
+  "timestamp": 1008975834180
+},
+{
+  "device_id": 565,
+  "vcc": 460,
+  "temperature": 8870.5,
+  "humidity": 25707.5,
+  "status": "Disconnected",
+  "timestamp": 1010764798425
+},
+{
+  "device_id": 566,
+  "vcc": 460,
+  "temperature": 8886.199999999999,
+  "humidity": 25753.0,
+  "status": "Disconnected",
+  "timestamp": 1012553762670
+},
+{
+  "device_id": 567,
+  "vcc": 460,
+  "temperature": 8901.9,
+  "humidity": 25798.5,
+  "status": "Disconnected",
+  "timestamp": 1014342726915
+},
+{
+  "device_id": 568,
+  "vcc": 460,
+  "temperature": 8917.6,
+  "humidity": 25844.0,
+  "status": "Disconnected",
+  "timestamp": 1016131691160
+},
+{
+  "device_id": 569,
+  "vcc": 460,
+  "temperature": 8933.3,
+  "humidity": 25889.5,
+  "status": "Disconnected",
+  "timestamp": 1017920655405
+},
+{
+  "device_id": 570,
+  "vcc": 460,
+  "temperature": 8949.0,
+  "humidity": 25935.0,
+  "status": "Disconnected",
+  "timestamp": 1019709619650
+},
+{
+  "device_id": 571,
+  "vcc": 460,
+  "temperature": 8964.699999999999,
+  "humidity": 25980.5,
+  "status": "Disconnected",
+  "timestamp": 1021498583895
+},
+{
+  "device_id": 572,
+  "vcc": 460,
+  "temperature": 8980.4,
+  "humidity": 26026.0,
+  "status": "Disconnected",
+  "timestamp": 1023287548140
+},
+{
+  "device_id": 573,
+  "vcc": 460,
+  "temperature": 8996.1,
+  "humidity": 26071.5,
+  "status": "Disconnected",
+  "timestamp": 1025076512385
+},
+{
+  "device_id": 574,
+  "vcc": 460,
+  "temperature": 9011.8,
+  "humidity": 26117.0,
+  "status": "Disconnected",
+  "timestamp": 1026865476630
+},
+{
+  "device_id": 575,
+  "vcc": 460,
+  "temperature": 9027.5,
+  "humidity": 26162.5,
+  "status": "Disconnected",
+  "timestamp": 1028654440875
+},
+{
+  "device_id": 576,
+  "vcc": 460,
+  "temperature": 9043.199999999999,
+  "humidity": 26208.0,
+  "status": "Disconnected",
+  "timestamp": 1030443405120
+},
+{
+  "device_id": 577,
+  "vcc": 460,
+  "temperature": 9058.9,
+  "humidity": 26253.5,
+  "status": "Disconnected",
+  "timestamp": 1032232369365
+},
+{
+  "device_id": 578,
+  "vcc": 460,
+  "temperature": 9074.6,
+  "humidity": 26299.0,
+  "status": "Disconnected",
+  "timestamp": 1034021333610
+},
+{
+  "device_id": 579,
+  "vcc": 460,
+  "temperature": 9090.3,
+  "humidity": 26344.5,
+  "status": "Disconnected",
+  "timestamp": 1035810297855
+},
+{
+  "device_id": 580,
+  "vcc": 460,
+  "temperature": 9106.0,
+  "humidity": 26390.0,
+  "status": "Disconnected",
+  "timestamp": 1037599262100
+},
+{
+  "device_id": 581,
+  "vcc": 460,
+  "temperature": 9121.699999999999,
+  "humidity": 26435.5,
+  "status": "Disconnected",
+  "timestamp": 1039388226345
+},
+{
+  "device_id": 582,
+  "vcc": 460,
+  "temperature": 9137.4,
+  "humidity": 26481.0,
+  "status": "Disconnected",
+  "timestamp": 1041177190590
+},
+{
+  "device_id": 583,
+  "vcc": 460,
+  "temperature": 9153.1,
+  "humidity": 26526.5,
+  "status": "Disconnected",
+  "timestamp": 1042966154835
+},
+{
+  "device_id": 584,
+  "vcc": 460,
+  "temperature": 9168.8,
+  "humidity": 26572.0,
+  "status": "Disconnected",
+  "timestamp": 1044755119080
+},
+{
+  "device_id": 585,
+  "vcc": 460,
+  "temperature": 9184.5,
+  "humidity": 26617.5,
+  "status": "Disconnected",
+  "timestamp": 1046544083325
+},
+{
+  "device_id": 586,
+  "vcc": 460,
+  "temperature": 9200.199999999999,
+  "humidity": 26663.0,
+  "status": "Disconnected",
+  "timestamp": 1048333047570
+},
+{
+  "device_id": 587,
+  "vcc": 460,
+  "temperature": 9215.9,
+  "humidity": 26708.5,
+  "status": "Disconnected",
+  "timestamp": 1050122011815
+},
+{
+  "device_id": 588,
+  "vcc": 460,
+  "temperature": 9231.6,
+  "humidity": 26754.0,
+  "status": "Disconnected",
+  "timestamp": 1051910976060
+},
+{
+  "device_id": 589,
+  "vcc": 460,
+  "temperature": 9247.3,
+  "humidity": 26799.5,
+  "status": "Disconnected",
+  "timestamp": 1053699940305
+},
+{
+  "device_id": 590,
+  "vcc": 460,
+  "temperature": 9263.0,
+  "humidity": 26845.0,
+  "status": "Disconnected",
+  "timestamp": 1055488904550
+},
+{
+  "device_id": 591,
+  "vcc": 460,
+  "temperature": 9278.699999999999,
+  "humidity": 26890.5,
+  "status": "Disconnected",
+  "timestamp": 1057277868795
+},
+{
+  "device_id": 592,
+  "vcc": 460,
+  "temperature": 9294.4,
+  "humidity": 26936.0,
+  "status": "Disconnected",
+  "timestamp": 1059066833040
+},
+{
+  "device_id": 593,
+  "vcc": 460,
+  "temperature": 9310.1,
+  "humidity": 26981.5,
+  "status": "Disconnected",
+  "timestamp": 1060855797285
+},
+{
+  "device_id": 594,
+  "vcc": 460,
+  "temperature": 9325.8,
+  "humidity": 27027.0,
+  "status": "Disconnected",
+  "timestamp": 1062644761530
+},
+{
+  "device_id": 595,
+  "vcc": 460,
+  "temperature": 9341.5,
+  "humidity": 27072.5,
+  "status": "Disconnected",
+  "timestamp": 1064433725775
+},
+{
+  "device_id": 596,
+  "vcc": 460,
+  "temperature": 9357.199999999999,
+  "humidity": 27118.0,
+  "status": "Disconnected",
+  "timestamp": 1066222690020
+},
+{
+  "device_id": 597,
+  "vcc": 460,
+  "temperature": 9372.9,
+  "humidity": 27163.5,
+  "status": "Disconnected",
+  "timestamp": 1068011654265
+},
+{
+  "device_id": 598,
+  "vcc": 460,
+  "temperature": 9388.6,
+  "humidity": 27209.0,
+  "status": "Disconnected",
+  "timestamp": 1069800618510
+},
+{
+  "device_id": 599,
+  "vcc": 460,
+  "temperature": 9404.3,
+  "humidity": 27254.5,
+  "status": "Disconnected",
+  "timestamp": 1071589582755
+},
+{
+  "device_id": 600,
+  "vcc": 460,
+  "temperature": 9420.0,
+  "humidity": 27300.0,
+  "status": "Disconnected",
+  "timestamp": 1073378547000
+},
+{
+  "device_id": 601,
+  "vcc": 460,
+  "temperature": 9435.699999999999,
+  "humidity": 27345.5,
+  "status": "Disconnected",
+  "timestamp": 1075167511245
+},
+{
+  "device_id": 602,
+  "vcc": 460,
+  "temperature": 9451.4,
+  "humidity": 27391.0,
+  "status": "Disconnected",
+  "timestamp": 1076956475490
+},
+{
+  "device_id": 603,
+  "vcc": 460,
+  "temperature": 9467.1,
+  "humidity": 27436.5,
+  "status": "Disconnected",
+  "timestamp": 1078745439735
+},
+{
+  "device_id": 604,
+  "vcc": 460,
+  "temperature": 9482.8,
+  "humidity": 27482.0,
+  "status": "Disconnected",
+  "timestamp": 1080534403980
+},
+{
+  "device_id": 605,
+  "vcc": 460,
+  "temperature": 9498.5,
+  "humidity": 27527.5,
+  "status": "Disconnected",
+  "timestamp": 1082323368225
+},
+{
+  "device_id": 606,
+  "vcc": 460,
+  "temperature": 9514.199999999999,
+  "humidity": 27573.0,
+  "status": "Disconnected",
+  "timestamp": 1084112332470
+},
+{
+  "device_id": 607,
+  "vcc": 460,
+  "temperature": 9529.9,
+  "humidity": 27618.5,
+  "status": "Disconnected",
+  "timestamp": 1085901296715
+},
+{
+  "device_id": 608,
+  "vcc": 460,
+  "temperature": 9545.6,
+  "humidity": 27664.0,
+  "status": "Disconnected",
+  "timestamp": 1087690260960
+},
+{
+  "device_id": 609,
+  "vcc": 460,
+  "temperature": 9561.3,
+  "humidity": 27709.5,
+  "status": "Disconnected",
+  "timestamp": 1089479225205
+},
+{
+  "device_id": 610,
+  "vcc": 460,
+  "temperature": 9577.0,
+  "humidity": 27755.0,
+  "status": "Disconnected",
+  "timestamp": 1091268189450
+},
+{
+  "device_id": 611,
+  "vcc": 460,
+  "temperature": 9592.699999999999,
+  "humidity": 27800.5,
+  "status": "Disconnected",
+  "timestamp": 1093057153695
+},
+{
+  "device_id": 612,
+  "vcc": 460,
+  "temperature": 9608.4,
+  "humidity": 27846.0,
+  "status": "Disconnected",
+  "timestamp": 1094846117940
+},
+{
+  "device_id": 613,
+  "vcc": 460,
+  "temperature": 9624.1,
+  "humidity": 27891.5,
+  "status": "Disconnected",
+  "timestamp": 1096635082185
+},
+{
+  "device_id": 614,
+  "vcc": 460,
+  "temperature": 9639.8,
+  "humidity": 27937.0,
+  "status": "Disconnected",
+  "timestamp": 1098424046430
+},
+{
+  "device_id": 615,
+  "vcc": 460,
+  "temperature": 9655.5,
+  "humidity": 27982.5,
+  "status": "Disconnected",
+  "timestamp": 1100213010675
+},
+{
+  "device_id": 616,
+  "vcc": 460,
+  "temperature": 9671.199999999999,
+  "humidity": 28028.0,
+  "status": "Disconnected",
+  "timestamp": 1102001974920
+},
+{
+  "device_id": 617,
+  "vcc": 460,
+  "temperature": 9686.9,
+  "humidity": 28073.5,
+  "status": "Disconnected",
+  "timestamp": 1103790939165
+},
+{
+  "device_id": 618,
+  "vcc": 460,
+  "temperature": 9702.6,
+  "humidity": 28119.0,
+  "status": "Disconnected",
+  "timestamp": 1105579903410
+},
+{
+  "device_id": 619,
+  "vcc": 460,
+  "temperature": 9718.3,
+  "humidity": 28164.5,
+  "status": "Disconnected",
+  "timestamp": 1107368867655
+},
+{
+  "device_id": 620,
+  "vcc": 460,
+  "temperature": 9734.0,
+  "humidity": 28210.0,
+  "status": "Disconnected",
+  "timestamp": 1109157831900
+},
+{
+  "device_id": 621,
+  "vcc": 460,
+  "temperature": 9749.699999999999,
+  "humidity": 28255.5,
+  "status": "Disconnected",
+  "timestamp": 1110946796145
+},
+{
+  "device_id": 622,
+  "vcc": 460,
+  "temperature": 9765.4,
+  "humidity": 28301.0,
+  "status": "Disconnected",
+  "timestamp": 1112735760390
+},
+{
+  "device_id": 623,
+  "vcc": 460,
+  "temperature": 9781.1,
+  "humidity": 28346.5,
+  "status": "Disconnected",
+  "timestamp": 1114524724635
+},
+{
+  "device_id": 624,
+  "vcc": 460,
+  "temperature": 9796.8,
+  "humidity": 28392.0,
+  "status": "Disconnected",
+  "timestamp": 1116313688880
+},
+{
+  "device_id": 625,
+  "vcc": 460,
+  "temperature": 9812.5,
+  "humidity": 28437.5,
+  "status": "Disconnected",
+  "timestamp": 1118102653125
+},
+{
+  "device_id": 626,
+  "vcc": 460,
+  "temperature": 9828.199999999999,
+  "humidity": 28483.0,
+  "status": "Disconnected",
+  "timestamp": 1119891617370
+},
+{
+  "device_id": 627,
+  "vcc": 460,
+  "temperature": 9843.9,
+  "humidity": 28528.5,
+  "status": "Disconnected",
+  "timestamp": 1121680581615
+},
+{
+  "device_id": 628,
+  "vcc": 460,
+  "temperature": 9859.6,
+  "humidity": 28574.0,
+  "status": "Disconnected",
+  "timestamp": 1123469545860
+},
+{
+  "device_id": 629,
+  "vcc": 460,
+  "temperature": 9875.3,
+  "humidity": 28619.5,
+  "status": "Disconnected",
+  "timestamp": 1125258510105
+},
+{
+  "device_id": 630,
+  "vcc": 460,
+  "temperature": 9891.0,
+  "humidity": 28665.0,
+  "status": "Disconnected",
+  "timestamp": 1127047474350
+},
+{
+  "device_id": 631,
+  "vcc": 460,
+  "temperature": 9906.699999999999,
+  "humidity": 28710.5,
+  "status": "Disconnected",
+  "timestamp": 1128836438595
+},
+{
+  "device_id": 632,
+  "vcc": 460,
+  "temperature": 9922.4,
+  "humidity": 28756.0,
+  "status": "Disconnected",
+  "timestamp": 1130625402840
+},
+{
+  "device_id": 633,
+  "vcc": 460,
+  "temperature": 9938.1,
+  "humidity": 28801.5,
+  "status": "Disconnected",
+  "timestamp": 1132414367085
+},
+{
+  "device_id": 634,
+  "vcc": 460,
+  "temperature": 9953.8,
+  "humidity": 28847.0,
+  "status": "Disconnected",
+  "timestamp": 1134203331330
+},
+{
+  "device_id": 635,
+  "vcc": 460,
+  "temperature": 9969.5,
+  "humidity": 28892.5,
+  "status": "Disconnected",
+  "timestamp": 1135992295575
+},
+{
+  "device_id": 636,
+  "vcc": 460,
+  "temperature": 9985.199999999999,
+  "humidity": 28938.0,
+  "status": "Disconnected",
+  "timestamp": 1137781259820
+},
+{
+  "device_id": 637,
+  "vcc": 460,
+  "temperature": 10000.9,
+  "humidity": 28983.5,
+  "status": "Disconnected",
+  "timestamp": 1139570224065
+},
+{
+  "device_id": 638,
+  "vcc": 460,
+  "temperature": 10016.6,
+  "humidity": 29029.0,
+  "status": "Disconnected",
+  "timestamp": 1141359188310
+},
+{
+  "device_id": 639,
+  "vcc": 460,
+  "temperature": 10032.3,
+  "humidity": 29074.5,
+  "status": "Disconnected",
+  "timestamp": 1143148152555
+},
+{
+  "device_id": 640,
+  "vcc": 460,
+  "temperature": 10048.0,
+  "humidity": 29120.0,
+  "status": "Disconnected",
+  "timestamp": 1144937116800
+},
+{
+  "device_id": 641,
+  "vcc": 460,
+  "temperature": 10063.699999999999,
+  "humidity": 29165.5,
+  "status": "Disconnected",
+  "timestamp": 1146726081045
+},
+{
+  "device_id": 642,
+  "vcc": 460,
+  "temperature": 10079.4,
+  "humidity": 29211.0,
+  "status": "Disconnected",
+  "timestamp": 1148515045290
+},
+{
+  "device_id": 643,
+  "vcc": 460,
+  "temperature": 10095.1,
+  "humidity": 29256.5,
+  "status": "Disconnected",
+  "timestamp": 1150304009535
+},
+{
+  "device_id": 644,
+  "vcc": 460,
+  "temperature": 10110.8,
+  "humidity": 29302.0,
+  "status": "Disconnected",
+  "timestamp": 1152092973780
+},
+{
+  "device_id": 645,
+  "vcc": 460,
+  "temperature": 10126.5,
+  "humidity": 29347.5,
+  "status": "Disconnected",
+  "timestamp": 1153881938025
+},
+{
+  "device_id": 646,
+  "vcc": 460,
+  "temperature": 10142.199999999999,
+  "humidity": 29393.0,
+  "status": "Disconnected",
+  "timestamp": 1155670902270
+},
+{
+  "device_id": 647,
+  "vcc": 460,
+  "temperature": 10157.9,
+  "humidity": 29438.5,
+  "status": "Disconnected",
+  "timestamp": 1157459866515
+},
+{
+  "device_id": 648,
+  "vcc": 460,
+  "temperature": 10173.6,
+  "humidity": 29484.0,
+  "status": "Disconnected",
+  "timestamp": 1159248830760
+},
+{
+  "device_id": 649,
+  "vcc": 460,
+  "temperature": 10189.3,
+  "humidity": 29529.5,
+  "status": "Disconnected",
+  "timestamp": 1161037795005
+},
+{
+  "device_id": 650,
+  "vcc": 460,
+  "temperature": 10205.0,
+  "humidity": 29575.0,
+  "status": "Disconnected",
+  "timestamp": 1162826759250
+},
+{
+  "device_id": 651,
+  "vcc": 460,
+  "temperature": 10220.699999999999,
+  "humidity": 29620.5,
+  "status": "Disconnected",
+  "timestamp": 1164615723495
+},
+{
+  "device_id": 652,
+  "vcc": 460,
+  "temperature": 10236.4,
+  "humidity": 29666.0,
+  "status": "Disconnected",
+  "timestamp": 1166404687740
+},
+{
+  "device_id": 653,
+  "vcc": 460,
+  "temperature": 10252.1,
+  "humidity": 29711.5,
+  "status": "Disconnected",
+  "timestamp": 1168193651985
+},
+{
+  "device_id": 654,
+  "vcc": 460,
+  "temperature": 10267.8,
+  "humidity": 29757.0,
+  "status": "Disconnected",
+  "timestamp": 1169982616230
+},
+{
+  "device_id": 655,
+  "vcc": 460,
+  "temperature": 10283.5,
+  "humidity": 29802.5,
+  "status": "Disconnected",
+  "timestamp": 1171771580475
+},
+{
+  "device_id": 656,
+  "vcc": 460,
+  "temperature": 10299.199999999999,
+  "humidity": 29848.0,
+  "status": "Disconnected",
+  "timestamp": 1173560544720
+},
+{
+  "device_id": 657,
+  "vcc": 460,
+  "temperature": 10314.9,
+  "humidity": 29893.5,
+  "status": "Disconnected",
+  "timestamp": 1175349508965
+},
+{
+  "device_id": 658,
+  "vcc": 460,
+  "temperature": 10330.6,
+  "humidity": 29939.0,
+  "status": "Disconnected",
+  "timestamp": 1177138473210
+},
+{
+  "device_id": 659,
+  "vcc": 460,
+  "temperature": 10346.3,
+  "humidity": 29984.5,
+  "status": "Disconnected",
+  "timestamp": 1178927437455
+},
+{
+  "device_id": 660,
+  "vcc": 460,
+  "temperature": 10362.0,
+  "humidity": 30030.0,
+  "status": "Disconnected",
+  "timestamp": 1180716401700
+},
+{
+  "device_id": 661,
+  "vcc": 460,
+  "temperature": 10377.699999999999,
+  "humidity": 30075.5,
+  "status": "Disconnected",
+  "timestamp": 1182505365945
+},
+{
+  "device_id": 662,
+  "vcc": 460,
+  "temperature": 10393.4,
+  "humidity": 30121.0,
+  "status": "Disconnected",
+  "timestamp": 1184294330190
+},
+{
+  "device_id": 663,
+  "vcc": 460,
+  "temperature": 10409.1,
+  "humidity": 30166.5,
+  "status": "Disconnected",
+  "timestamp": 1186083294435
+},
+{
+  "device_id": 664,
+  "vcc": 460,
+  "temperature": 10424.8,
+  "humidity": 30212.0,
+  "status": "Disconnected",
+  "timestamp": 1187872258680
+},
+{
+  "device_id": 665,
+  "vcc": 460,
+  "temperature": 10440.5,
+  "humidity": 30257.5,
+  "status": "Disconnected",
+  "timestamp": 1189661222925
+},
+{
+  "device_id": 666,
+  "vcc": 460,
+  "temperature": 10456.199999999999,
+  "humidity": 30303.0,
+  "status": "Disconnected",
+  "timestamp": 1191450187170
+},
+{
+  "device_id": 667,
+  "vcc": 460,
+  "temperature": 10471.9,
+  "humidity": 30348.5,
+  "status": "Disconnected",
+  "timestamp": 1193239151415
+},
+{
+  "device_id": 668,
+  "vcc": 460,
+  "temperature": 10487.6,
+  "humidity": 30394.0,
+  "status": "Disconnected",
+  "timestamp": 1195028115660
+},
+{
+  "device_id": 669,
+  "vcc": 460,
+  "temperature": 10503.3,
+  "humidity": 30439.5,
+  "status": "Disconnected",
+  "timestamp": 1196817079905
+},
+{
+  "device_id": 670,
+  "vcc": 460,
+  "temperature": 10519.0,
+  "humidity": 30485.0,
+  "status": "Disconnected",
+  "timestamp": 1198606044150
+},
+{
+  "device_id": 671,
+  "vcc": 460,
+  "temperature": 10534.699999999999,
+  "humidity": 30530.5,
+  "status": "Disconnected",
+  "timestamp": 1200395008395
+},
+{
+  "device_id": 672,
+  "vcc": 460,
+  "temperature": 10550.4,
+  "humidity": 30576.0,
+  "status": "Disconnected",
+  "timestamp": 1202183972640
+},
+{
+  "device_id": 673,
+  "vcc": 460,
+  "temperature": 10566.1,
+  "humidity": 30621.5,
+  "status": "Disconnected",
+  "timestamp": 1203972936885
+},
+{
+  "device_id": 674,
+  "vcc": 460,
+  "temperature": 10581.8,
+  "humidity": 30667.0,
+  "status": "Disconnected",
+  "timestamp": 1205761901130
+},
+{
+  "device_id": 675,
+  "vcc": 460,
+  "temperature": 10597.5,
+  "humidity": 30712.5,
+  "status": "Disconnected",
+  "timestamp": 1207550865375
+},
+{
+  "device_id": 676,
+  "vcc": 460,
+  "temperature": 10613.199999999999,
+  "humidity": 30758.0,
+  "status": "Disconnected",
+  "timestamp": 1209339829620
+},
+{
+  "device_id": 677,
+  "vcc": 460,
+  "temperature": 10628.9,
+  "humidity": 30803.5,
+  "status": "Disconnected",
+  "timestamp": 1211128793865
+},
+{
+  "device_id": 678,
+  "vcc": 460,
+  "temperature": 10644.6,
+  "humidity": 30849.0,
+  "status": "Disconnected",
+  "timestamp": 1212917758110
+},
+{
+  "device_id": 679,
+  "vcc": 460,
+  "temperature": 10660.3,
+  "humidity": 30894.5,
+  "status": "Disconnected",
+  "timestamp": 1214706722355
+},
+{
+  "device_id": 680,
+  "vcc": 460,
+  "temperature": 10676.0,
+  "humidity": 30940.0,
+  "status": "Disconnected",
+  "timestamp": 1216495686600
+},
+{
+  "device_id": 681,
+  "vcc": 460,
+  "temperature": 10691.699999999999,
+  "humidity": 30985.5,
+  "status": "Disconnected",
+  "timestamp": 1218284650845
+},
+{
+  "device_id": 682,
+  "vcc": 460,
+  "temperature": 10707.4,
+  "humidity": 31031.0,
+  "status": "Disconnected",
+  "timestamp": 1220073615090
+},
+{
+  "device_id": 683,
+  "vcc": 460,
+  "temperature": 10723.1,
+  "humidity": 31076.5,
+  "status": "Disconnected",
+  "timestamp": 1221862579335
+},
+{
+  "device_id": 684,
+  "vcc": 460,
+  "temperature": 10738.8,
+  "humidity": 31122.0,
+  "status": "Disconnected",
+  "timestamp": 1223651543580
+},
+{
+  "device_id": 685,
+  "vcc": 460,
+  "temperature": 10754.5,
+  "humidity": 31167.5,
+  "status": "Disconnected",
+  "timestamp": 1225440507825
+},
+{
+  "device_id": 686,
+  "vcc": 460,
+  "temperature": 10770.199999999999,
+  "humidity": 31213.0,
+  "status": "Disconnected",
+  "timestamp": 1227229472070
+},
+{
+  "device_id": 687,
+  "vcc": 460,
+  "temperature": 10785.9,
+  "humidity": 31258.5,
+  "status": "Disconnected",
+  "timestamp": 1229018436315
+},
+{
+  "device_id": 688,
+  "vcc": 460,
+  "temperature": 10801.6,
+  "humidity": 31304.0,
+  "status": "Disconnected",
+  "timestamp": 1230807400560
+},
+{
+  "device_id": 689,
+  "vcc": 460,
+  "temperature": 10817.3,
+  "humidity": 31349.5,
+  "status": "Disconnected",
+  "timestamp": 1232596364805
+},
+{
+  "device_id": 690,
+  "vcc": 460,
+  "temperature": 10833.0,
+  "humidity": 31395.0,
+  "status": "Disconnected",
+  "timestamp": 1234385329050
+},
+{
+  "device_id": 691,
+  "vcc": 460,
+  "temperature": 10848.699999999999,
+  "humidity": 31440.5,
+  "status": "Disconnected",
+  "timestamp": 1236174293295
+},
+{
+  "device_id": 692,
+  "vcc": 460,
+  "temperature": 10864.4,
+  "humidity": 31486.0,
+  "status": "Disconnected",
+  "timestamp": 1237963257540
+},
+{
+  "device_id": 693,
+  "vcc": 460,
+  "temperature": 10880.1,
+  "humidity": 31531.5,
+  "status": "Disconnected",
+  "timestamp": 1239752221785
+},
+{
+  "device_id": 694,
+  "vcc": 460,
+  "temperature": 10895.8,
+  "humidity": 31577.0,
+  "status": "Disconnected",
+  "timestamp": 1241541186030
+},
+{
+  "device_id": 695,
+  "vcc": 460,
+  "temperature": 10911.5,
+  "humidity": 31622.5,
+  "status": "Disconnected",
+  "timestamp": 1243330150275
+},
+{
+  "device_id": 696,
+  "vcc": 460,
+  "temperature": 10927.199999999999,
+  "humidity": 31668.0,
+  "status": "Disconnected",
+  "timestamp": 1245119114520
+},
+{
+  "device_id": 697,
+  "vcc": 460,
+  "temperature": 10942.9,
+  "humidity": 31713.5,
+  "status": "Disconnected",
+  "timestamp": 1246908078765
+},
+{
+  "device_id": 698,
+  "vcc": 460,
+  "temperature": 10958.6,
+  "humidity": 31759.0,
+  "status": "Disconnected",
+  "timestamp": 1248697043010
+},
+{
+  "device_id": 699,
+  "vcc": 460,
+  "temperature": 10974.3,
+  "humidity": 31804.5,
+  "status": "Disconnected",
+  "timestamp": 1250486007255
+},
+{
+  "device_id": 700,
+  "vcc": 460,
+  "temperature": 10990.0,
+  "humidity": 31850.0,
+  "status": "Disconnected",
+  "timestamp": 1252274971500
+},
+{
+  "device_id": 701,
+  "vcc": 460,
+  "temperature": 11005.699999999999,
+  "humidity": 31895.5,
+  "status": "Disconnected",
+  "timestamp": 1254063935745
+},
+{
+  "device_id": 702,
+  "vcc": 460,
+  "temperature": 11021.4,
+  "humidity": 31941.0,
+  "status": "Disconnected",
+  "timestamp": 1255852899990
+},
+{
+  "device_id": 703,
+  "vcc": 460,
+  "temperature": 11037.1,
+  "humidity": 31986.5,
+  "status": "Disconnected",
+  "timestamp": 1257641864235
+},
+{
+  "device_id": 704,
+  "vcc": 460,
+  "temperature": 11052.8,
+  "humidity": 32032.0,
+  "status": "Disconnected",
+  "timestamp": 1259430828480
+},
+{
+  "device_id": 705,
+  "vcc": 460,
+  "temperature": 11068.5,
+  "humidity": 32077.5,
+  "status": "Disconnected",
+  "timestamp": 1261219792725
+},
+{
+  "device_id": 706,
+  "vcc": 460,
+  "temperature": 11084.199999999999,
+  "humidity": 32123.0,
+  "status": "Disconnected",
+  "timestamp": 1263008756970
+},
+{
+  "device_id": 707,
+  "vcc": 460,
+  "temperature": 11099.9,
+  "humidity": 32168.5,
+  "status": "Disconnected",
+  "timestamp": 1264797721215
+},
+{
+  "device_id": 708,
+  "vcc": 460,
+  "temperature": 11115.6,
+  "humidity": 32214.0,
+  "status": "Disconnected",
+  "timestamp": 1266586685460
+},
+{
+  "device_id": 709,
+  "vcc": 460,
+  "temperature": 11131.3,
+  "humidity": 32259.5,
+  "status": "Disconnected",
+  "timestamp": 1268375649705
+},
+{
+  "device_id": 710,
+  "vcc": 460,
+  "temperature": 11147.0,
+  "humidity": 32305.0,
+  "status": "Disconnected",
+  "timestamp": 1270164613950
+},
+{
+  "device_id": 711,
+  "vcc": 460,
+  "temperature": 11162.699999999999,
+  "humidity": 32350.5,
+  "status": "Disconnected",
+  "timestamp": 1271953578195
+},
+{
+  "device_id": 712,
+  "vcc": 460,
+  "temperature": 11178.4,
+  "humidity": 32396.0,
+  "status": "Disconnected",
+  "timestamp": 1273742542440
+},
+{
+  "device_id": 713,
+  "vcc": 460,
+  "temperature": 11194.1,
+  "humidity": 32441.5,
+  "status": "Disconnected",
+  "timestamp": 1275531506685
+},
+{
+  "device_id": 714,
+  "vcc": 460,
+  "temperature": 11209.8,
+  "humidity": 32487.0,
+  "status": "Disconnected",
+  "timestamp": 1277320470930
+},
+{
+  "device_id": 715,
+  "vcc": 460,
+  "temperature": 11225.5,
+  "humidity": 32532.5,
+  "status": "Disconnected",
+  "timestamp": 1279109435175
+},
+{
+  "device_id": 716,
+  "vcc": 460,
+  "temperature": 11241.199999999999,
+  "humidity": 32578.0,
+  "status": "Disconnected",
+  "timestamp": 1280898399420
+},
+{
+  "device_id": 717,
+  "vcc": 460,
+  "temperature": 11256.9,
+  "humidity": 32623.5,
+  "status": "Disconnected",
+  "timestamp": 1282687363665
+},
+{
+  "device_id": 718,
+  "vcc": 460,
+  "temperature": 11272.6,
+  "humidity": 32669.0,
+  "status": "Disconnected",
+  "timestamp": 1284476327910
+},
+{
+  "device_id": 719,
+  "vcc": 460,
+  "temperature": 11288.3,
+  "humidity": 32714.5,
+  "status": "Disconnected",
+  "timestamp": 1286265292155
+},
+{
+  "device_id": 720,
+  "vcc": 460,
+  "temperature": 11304.0,
+  "humidity": 32760.0,
+  "status": "Disconnected",
+  "timestamp": 1288054256400
+},
+{
+  "device_id": 721,
+  "vcc": 460,
+  "temperature": 11319.699999999999,
+  "humidity": 32805.5,
+  "status": "Disconnected",
+  "timestamp": 1289843220645
+},
+{
+  "device_id": 722,
+  "vcc": 460,
+  "temperature": 11335.4,
+  "humidity": 32851.0,
+  "status": "Disconnected",
+  "timestamp": 1291632184890
+},
+{
+  "device_id": 723,
+  "vcc": 460,
+  "temperature": 11351.1,
+  "humidity": 32896.5,
+  "status": "Disconnected",
+  "timestamp": 1293421149135
+},
+{
+  "device_id": 724,
+  "vcc": 460,
+  "temperature": 11366.8,
+  "humidity": 32942.0,
+  "status": "Disconnected",
+  "timestamp": 1295210113380
+},
+{
+  "device_id": 725,
+  "vcc": 460,
+  "temperature": 11382.5,
+  "humidity": 32987.5,
+  "status": "Disconnected",
+  "timestamp": 1296999077625
+},
+{
+  "device_id": 726,
+  "vcc": 460,
+  "temperature": 11398.199999999999,
+  "humidity": 33033.0,
+  "status": "Disconnected",
+  "timestamp": 1298788041870
+},
+{
+  "device_id": 727,
+  "vcc": 460,
+  "temperature": 11413.9,
+  "humidity": 33078.5,
+  "status": "Disconnected",
+  "timestamp": 1300577006115
+},
+{
+  "device_id": 728,
+  "vcc": 460,
+  "temperature": 11429.6,
+  "humidity": 33124.0,
+  "status": "Disconnected",
+  "timestamp": 1302365970360
+},
+{
+  "device_id": 729,
+  "vcc": 460,
+  "temperature": 11445.3,
+  "humidity": 33169.5,
+  "status": "Disconnected",
+  "timestamp": 1304154934605
+},
+{
+  "device_id": 730,
+  "vcc": 460,
+  "temperature": 11461.0,
+  "humidity": 33215.0,
+  "status": "Disconnected",
+  "timestamp": 1305943898850
+},
+{
+  "device_id": 731,
+  "vcc": 460,
+  "temperature": 11476.699999999999,
+  "humidity": 33260.5,
+  "status": "Disconnected",
+  "timestamp": 1307732863095
+},
+{
+  "device_id": 732,
+  "vcc": 460,
+  "temperature": 11492.4,
+  "humidity": 33306.0,
+  "status": "Disconnected",
+  "timestamp": 1309521827340
+},
+{
+  "device_id": 733,
+  "vcc": 460,
+  "temperature": 11508.1,
+  "humidity": 33351.5,
+  "status": "Disconnected",
+  "timestamp": 1311310791585
+},
+{
+  "device_id": 734,
+  "vcc": 460,
+  "temperature": 11523.8,
+  "humidity": 33397.0,
+  "status": "Disconnected",
+  "timestamp": 1313099755830
+},
+{
+  "device_id": 735,
+  "vcc": 460,
+  "temperature": 11539.5,
+  "humidity": 33442.5,
+  "status": "Disconnected",
+  "timestamp": 1314888720075
+},
+{
+  "device_id": 736,
+  "vcc": 460,
+  "temperature": 11555.199999999999,
+  "humidity": 33488.0,
+  "status": "Disconnected",
+  "timestamp": 1316677684320
+},
+{
+  "device_id": 737,
+  "vcc": 460,
+  "temperature": 11570.9,
+  "humidity": 33533.5,
+  "status": "Disconnected",
+  "timestamp": 1318466648565
+},
+{
+  "device_id": 738,
+  "vcc": 460,
+  "temperature": 11586.6,
+  "humidity": 33579.0,
+  "status": "Disconnected",
+  "timestamp": 1320255612810
+},
+{
+  "device_id": 739,
+  "vcc": 460,
+  "temperature": 11602.3,
+  "humidity": 33624.5,
+  "status": "Disconnected",
+  "timestamp": 1322044577055
+},
+{
+  "device_id": 740,
+  "vcc": 460,
+  "temperature": 11618.0,
+  "humidity": 33670.0,
+  "status": "Disconnected",
+  "timestamp": 1323833541300
+},
+{
+  "device_id": 741,
+  "vcc": 460,
+  "temperature": 11633.699999999999,
+  "humidity": 33715.5,
+  "status": "Disconnected",
+  "timestamp": 1325622505545
+},
+{
+  "device_id": 742,
+  "vcc": 460,
+  "temperature": 11649.4,
+  "humidity": 33761.0,
+  "status": "Disconnected",
+  "timestamp": 1327411469790
+},
+{
+  "device_id": 743,
+  "vcc": 460,
+  "temperature": 11665.1,
+  "humidity": 33806.5,
+  "status": "Disconnected",
+  "timestamp": 1329200434035
+},
+{
+  "device_id": 744,
+  "vcc": 460,
+  "temperature": 11680.8,
+  "humidity": 33852.0,
+  "status": "Disconnected",
+  "timestamp": 1330989398280
+},
+{
+  "device_id": 745,
+  "vcc": 460,
+  "temperature": 11696.5,
+  "humidity": 33897.5,
+  "status": "Disconnected",
+  "timestamp": 1332778362525
+},
+{
+  "device_id": 746,
+  "vcc": 460,
+  "temperature": 11712.199999999999,
+  "humidity": 33943.0,
+  "status": "Disconnected",
+  "timestamp": 1334567326770
+},
+{
+  "device_id": 747,
+  "vcc": 460,
+  "temperature": 11727.9,
+  "humidity": 33988.5,
+  "status": "Disconnected",
+  "timestamp": 1336356291015
+},
+{
+  "device_id": 748,
+  "vcc": 460,
+  "temperature": 11743.6,
+  "humidity": 34034.0,
+  "status": "Disconnected",
+  "timestamp": 1338145255260
+},
+{
+  "device_id": 749,
+  "vcc": 460,
+  "temperature": 11759.3,
+  "humidity": 34079.5,
+  "status": "Disconnected",
+  "timestamp": 1339934219505
+},
+{
+  "device_id": 750,
+  "vcc": 460,
+  "temperature": 11775.0,
+  "humidity": 34125.0,
+  "status": "Disconnected",
+  "timestamp": 1341723183750
+},
+{
+  "device_id": 751,
+  "vcc": 460,
+  "temperature": 11790.699999999999,
+  "humidity": 34170.5,
+  "status": "Disconnected",
+  "timestamp": 1343512147995
+},
+{
+  "device_id": 752,
+  "vcc": 460,
+  "temperature": 11806.4,
+  "humidity": 34216.0,
+  "status": "Disconnected",
+  "timestamp": 1345301112240
+},
+{
+  "device_id": 753,
+  "vcc": 460,
+  "temperature": 11822.1,
+  "humidity": 34261.5,
+  "status": "Disconnected",
+  "timestamp": 1347090076485
+},
+{
+  "device_id": 754,
+  "vcc": 460,
+  "temperature": 11837.8,
+  "humidity": 34307.0,
+  "status": "Disconnected",
+  "timestamp": 1348879040730
+},
+{
+  "device_id": 755,
+  "vcc": 460,
+  "temperature": 11853.5,
+  "humidity": 34352.5,
+  "status": "Disconnected",
+  "timestamp": 1350668004975
+},
+{
+  "device_id": 756,
+  "vcc": 460,
+  "temperature": 11869.199999999999,
+  "humidity": 34398.0,
+  "status": "Disconnected",
+  "timestamp": 1352456969220
+},
+{
+  "device_id": 757,
+  "vcc": 460,
+  "temperature": 11884.9,
+  "humidity": 34443.5,
+  "status": "Disconnected",
+  "timestamp": 1354245933465
+},
+{
+  "device_id": 758,
+  "vcc": 460,
+  "temperature": 11900.6,
+  "humidity": 34489.0,
+  "status": "Disconnected",
+  "timestamp": 1356034897710
+},
+{
+  "device_id": 759,
+  "vcc": 460,
+  "temperature": 11916.3,
+  "humidity": 34534.5,
+  "status": "Disconnected",
+  "timestamp": 1357823861955
+},
+{
+  "device_id": 760,
+  "vcc": 460,
+  "temperature": 11932.0,
+  "humidity": 34580.0,
+  "status": "Disconnected",
+  "timestamp": 1359612826200
+},
+{
+  "device_id": 761,
+  "vcc": 460,
+  "temperature": 11947.699999999999,
+  "humidity": 34625.5,
+  "status": "Disconnected",
+  "timestamp": 1361401790445
+},
+{
+  "device_id": 762,
+  "vcc": 460,
+  "temperature": 11963.4,
+  "humidity": 34671.0,
+  "status": "Disconnected",
+  "timestamp": 1363190754690
+},
+{
+  "device_id": 763,
+  "vcc": 460,
+  "temperature": 11979.1,
+  "humidity": 34716.5,
+  "status": "Disconnected",
+  "timestamp": 1364979718935
+},
+{
+  "device_id": 764,
+  "vcc": 460,
+  "temperature": 11994.8,
+  "humidity": 34762.0,
+  "status": "Disconnected",
+  "timestamp": 1366768683180
+},
+{
+  "device_id": 765,
+  "vcc": 460,
+  "temperature": 12010.5,
+  "humidity": 34807.5,
+  "status": "Disconnected",
+  "timestamp": 1368557647425
+},
+{
+  "device_id": 766,
+  "vcc": 460,
+  "temperature": 12026.199999999999,
+  "humidity": 34853.0,
+  "status": "Disconnected",
+  "timestamp": 1370346611670
+},
+{
+  "device_id": 767,
+  "vcc": 460,
+  "temperature": 12041.9,
+  "humidity": 34898.5,
+  "status": "Disconnected",
+  "timestamp": 1372135575915
+},
+{
+  "device_id": 768,
+  "vcc": 460,
+  "temperature": 12057.599999999999,
+  "humidity": 34944.0,
+  "status": "Disconnected",
+  "timestamp": 1373924540160
+},
+{
+  "device_id": 769,
+  "vcc": 460,
+  "temperature": 12073.3,
+  "humidity": 34989.5,
+  "status": "Disconnected",
+  "timestamp": 1375713504405
+},
+{
+  "device_id": 770,
+  "vcc": 460,
+  "temperature": 12089.0,
+  "humidity": 35035.0,
+  "status": "Disconnected",
+  "timestamp": 1377502468650
+},
+{
+  "device_id": 771,
+  "vcc": 460,
+  "temperature": 12104.699999999999,
+  "humidity": 35080.5,
+  "status": "Disconnected",
+  "timestamp": 1379291432895
+},
+{
+  "device_id": 772,
+  "vcc": 460,
+  "temperature": 12120.4,
+  "humidity": 35126.0,
+  "status": "Disconnected",
+  "timestamp": 1381080397140
+},
+{
+  "device_id": 773,
+  "vcc": 460,
+  "temperature": 12136.099999999999,
+  "humidity": 35171.5,
+  "status": "Disconnected",
+  "timestamp": 1382869361385
+},
+{
+  "device_id": 774,
+  "vcc": 460,
+  "temperature": 12151.8,
+  "humidity": 35217.0,
+  "status": "Disconnected",
+  "timestamp": 1384658325630
+},
+{
+  "device_id": 775,
+  "vcc": 460,
+  "temperature": 12167.5,
+  "humidity": 35262.5,
+  "status": "Disconnected",
+  "timestamp": 1386447289875
+},
+{
+  "device_id": 776,
+  "vcc": 460,
+  "temperature": 12183.199999999999,
+  "humidity": 35308.0,
+  "status": "Disconnected",
+  "timestamp": 1388236254120
+},
+{
+  "device_id": 777,
+  "vcc": 460,
+  "temperature": 12198.9,
+  "humidity": 35353.5,
+  "status": "Disconnected",
+  "timestamp": 1390025218365
+},
+{
+  "device_id": 778,
+  "vcc": 460,
+  "temperature": 12214.599999999999,
+  "humidity": 35399.0,
+  "status": "Disconnected",
+  "timestamp": 1391814182610
+},
+{
+  "device_id": 779,
+  "vcc": 460,
+  "temperature": 12230.3,
+  "humidity": 35444.5,
+  "status": "Disconnected",
+  "timestamp": 1393603146855
+},
+{
+  "device_id": 780,
+  "vcc": 460,
+  "temperature": 12246.0,
+  "humidity": 35490.0,
+  "status": "Disconnected",
+  "timestamp": 1395392111100
+},
+{
+  "device_id": 781,
+  "vcc": 460,
+  "temperature": 12261.699999999999,
+  "humidity": 35535.5,
+  "status": "Disconnected",
+  "timestamp": 1397181075345
+},
+{
+  "device_id": 782,
+  "vcc": 460,
+  "temperature": 12277.4,
+  "humidity": 35581.0,
+  "status": "Disconnected",
+  "timestamp": 1398970039590
+},
+{
+  "device_id": 783,
+  "vcc": 460,
+  "temperature": 12293.099999999999,
+  "humidity": 35626.5,
+  "status": "Disconnected",
+  "timestamp": 1400759003835
+},
+{
+  "device_id": 784,
+  "vcc": 460,
+  "temperature": 12308.8,
+  "humidity": 35672.0,
+  "status": "Disconnected",
+  "timestamp": 1402547968080
+},
+{
+  "device_id": 785,
+  "vcc": 460,
+  "temperature": 12324.5,
+  "humidity": 35717.5,
+  "status": "Disconnected",
+  "timestamp": 1404336932325
+},
+{
+  "device_id": 786,
+  "vcc": 460,
+  "temperature": 12340.199999999999,
+  "humidity": 35763.0,
+  "status": "Disconnected",
+  "timestamp": 1406125896570
+},
+{
+  "device_id": 787,
+  "vcc": 460,
+  "temperature": 12355.9,
+  "humidity": 35808.5,
+  "status": "Disconnected",
+  "timestamp": 1407914860815
+},
+{
+  "device_id": 788,
+  "vcc": 460,
+  "temperature": 12371.599999999999,
+  "humidity": 35854.0,
+  "status": "Disconnected",
+  "timestamp": 1409703825060
+},
+{
+  "device_id": 789,
+  "vcc": 460,
+  "temperature": 12387.3,
+  "humidity": 35899.5,
+  "status": "Disconnected",
+  "timestamp": 1411492789305
+},
+{
+  "device_id": 790,
+  "vcc": 460,
+  "temperature": 12403.0,
+  "humidity": 35945.0,
+  "status": "Disconnected",
+  "timestamp": 1413281753550
+},
+{
+  "device_id": 791,
+  "vcc": 460,
+  "temperature": 12418.699999999999,
+  "humidity": 35990.5,
+  "status": "Disconnected",
+  "timestamp": 1415070717795
+},
+{
+  "device_id": 792,
+  "vcc": 460,
+  "temperature": 12434.4,
+  "humidity": 36036.0,
+  "status": "Disconnected",
+  "timestamp": 1416859682040
+},
+{
+  "device_id": 793,
+  "vcc": 460,
+  "temperature": 12450.099999999999,
+  "humidity": 36081.5,
+  "status": "Disconnected",
+  "timestamp": 1418648646285
+},
+{
+  "device_id": 794,
+  "vcc": 460,
+  "temperature": 12465.8,
+  "humidity": 36127.0,
+  "status": "Disconnected",
+  "timestamp": 1420437610530
+},
+{
+  "device_id": 795,
+  "vcc": 460,
+  "temperature": 12481.5,
+  "humidity": 36172.5,
+  "status": "Disconnected",
+  "timestamp": 1422226574775
+},
+{
+  "device_id": 796,
+  "vcc": 460,
+  "temperature": 12497.199999999999,
+  "humidity": 36218.0,
+  "status": "Disconnected",
+  "timestamp": 1424015539020
+},
+{
+  "device_id": 797,
+  "vcc": 460,
+  "temperature": 12512.9,
+  "humidity": 36263.5,
+  "status": "Disconnected",
+  "timestamp": 1425804503265
+},
+{
+  "device_id": 798,
+  "vcc": 460,
+  "temperature": 12528.599999999999,
+  "humidity": 36309.0,
+  "status": "Disconnected",
+  "timestamp": 1427593467510
+},
+{
+  "device_id": 799,
+  "vcc": 460,
+  "temperature": 12544.3,
+  "humidity": 36354.5,
+  "status": "Disconnected",
+  "timestamp": 1429382431755
+},
+{
+  "device_id": 800,
+  "vcc": 460,
+  "temperature": 12560.0,
+  "humidity": 36400.0,
+  "status": "Disconnected",
+  "timestamp": 1431171396000
+},
+{
+  "device_id": 801,
+  "vcc": 460,
+  "temperature": 12575.699999999999,
+  "humidity": 36445.5,
+  "status": "Disconnected",
+  "timestamp": 1432960360245
+},
+{
+  "device_id": 802,
+  "vcc": 460,
+  "temperature": 12591.4,
+  "humidity": 36491.0,
+  "status": "Disconnected",
+  "timestamp": 1434749324490
+},
+{
+  "device_id": 803,
+  "vcc": 460,
+  "temperature": 12607.099999999999,
+  "humidity": 36536.5,
+  "status": "Disconnected",
+  "timestamp": 1436538288735
+},
+{
+  "device_id": 804,
+  "vcc": 460,
+  "temperature": 12622.8,
+  "humidity": 36582.0,
+  "status": "Disconnected",
+  "timestamp": 1438327252980
+},
+{
+  "device_id": 805,
+  "vcc": 460,
+  "temperature": 12638.5,
+  "humidity": 36627.5,
+  "status": "Disconnected",
+  "timestamp": 1440116217225
+},
+{
+  "device_id": 806,
+  "vcc": 460,
+  "temperature": 12654.199999999999,
+  "humidity": 36673.0,
+  "status": "Disconnected",
+  "timestamp": 1441905181470
+},
+{
+  "device_id": 807,
+  "vcc": 460,
+  "temperature": 12669.9,
+  "humidity": 36718.5,
+  "status": "Disconnected",
+  "timestamp": 1443694145715
+},
+{
+  "device_id": 808,
+  "vcc": 460,
+  "temperature": 12685.599999999999,
+  "humidity": 36764.0,
+  "status": "Disconnected",
+  "timestamp": 1445483109960
+},
+{
+  "device_id": 809,
+  "vcc": 460,
+  "temperature": 12701.3,
+  "humidity": 36809.5,
+  "status": "Disconnected",
+  "timestamp": 1447272074205
+},
+{
+  "device_id": 810,
+  "vcc": 460,
+  "temperature": 12717.0,
+  "humidity": 36855.0,
+  "status": "Disconnected",
+  "timestamp": 1449061038450
+},
+{
+  "device_id": 811,
+  "vcc": 460,
+  "temperature": 12732.699999999999,
+  "humidity": 36900.5,
+  "status": "Disconnected",
+  "timestamp": 1450850002695
+},
+{
+  "device_id": 812,
+  "vcc": 460,
+  "temperature": 12748.4,
+  "humidity": 36946.0,
+  "status": "Disconnected",
+  "timestamp": 1452638966940
+},
+{
+  "device_id": 813,
+  "vcc": 460,
+  "temperature": 12764.099999999999,
+  "humidity": 36991.5,
+  "status": "Disconnected",
+  "timestamp": 1454427931185
+},
+{
+  "device_id": 814,
+  "vcc": 460,
+  "temperature": 12779.8,
+  "humidity": 37037.0,
+  "status": "Disconnected",
+  "timestamp": 1456216895430
+},
+{
+  "device_id": 815,
+  "vcc": 460,
+  "temperature": 12795.5,
+  "humidity": 37082.5,
+  "status": "Disconnected",
+  "timestamp": 1458005859675
+},
+{
+  "device_id": 816,
+  "vcc": 460,
+  "temperature": 12811.199999999999,
+  "humidity": 37128.0,
+  "status": "Disconnected",
+  "timestamp": 1459794823920
+},
+{
+  "device_id": 817,
+  "vcc": 460,
+  "temperature": 12826.9,
+  "humidity": 37173.5,
+  "status": "Disconnected",
+  "timestamp": 1461583788165
+},
+{
+  "device_id": 818,
+  "vcc": 460,
+  "temperature": 12842.599999999999,
+  "humidity": 37219.0,
+  "status": "Disconnected",
+  "timestamp": 1463372752410
+},
+{
+  "device_id": 819,
+  "vcc": 460,
+  "temperature": 12858.3,
+  "humidity": 37264.5,
+  "status": "Disconnected",
+  "timestamp": 1465161716655
+},
+{
+  "device_id": 820,
+  "vcc": 460,
+  "temperature": 12874.0,
+  "humidity": 37310.0,
+  "status": "Disconnected",
+  "timestamp": 1466950680900
+},
+{
+  "device_id": 821,
+  "vcc": 460,
+  "temperature": 12889.699999999999,
+  "humidity": 37355.5,
+  "status": "Disconnected",
+  "timestamp": 1468739645145
+},
+{
+  "device_id": 822,
+  "vcc": 460,
+  "temperature": 12905.4,
+  "humidity": 37401.0,
+  "status": "Disconnected",
+  "timestamp": 1470528609390
+},
+{
+  "device_id": 823,
+  "vcc": 460,
+  "temperature": 12921.099999999999,
+  "humidity": 37446.5,
+  "status": "Disconnected",
+  "timestamp": 1472317573635
+},
+{
+  "device_id": 824,
+  "vcc": 460,
+  "temperature": 12936.8,
+  "humidity": 37492.0,
+  "status": "Disconnected",
+  "timestamp": 1474106537880
+},
+{
+  "device_id": 825,
+  "vcc": 460,
+  "temperature": 12952.5,
+  "humidity": 37537.5,
+  "status": "Disconnected",
+  "timestamp": 1475895502125
+},
+{
+  "device_id": 826,
+  "vcc": 460,
+  "temperature": 12968.199999999999,
+  "humidity": 37583.0,
+  "status": "Disconnected",
+  "timestamp": 1477684466370
+},
+{
+  "device_id": 827,
+  "vcc": 460,
+  "temperature": 12983.9,
+  "humidity": 37628.5,
+  "status": "Disconnected",
+  "timestamp": 1479473430615
+},
+{
+  "device_id": 828,
+  "vcc": 460,
+  "temperature": 12999.599999999999,
+  "humidity": 37674.0,
+  "status": "Disconnected",
+  "timestamp": 1481262394860
+},
+{
+  "device_id": 829,
+  "vcc": 460,
+  "temperature": 13015.3,
+  "humidity": 37719.5,
+  "status": "Disconnected",
+  "timestamp": 1483051359105
+},
+{
+  "device_id": 830,
+  "vcc": 460,
+  "temperature": 13031.0,
+  "humidity": 37765.0,
+  "status": "Disconnected",
+  "timestamp": 1484840323350
+},
+{
+  "device_id": 831,
+  "vcc": 460,
+  "temperature": 13046.699999999999,
+  "humidity": 37810.5,
+  "status": "Disconnected",
+  "timestamp": 1486629287595
+},
+{
+  "device_id": 832,
+  "vcc": 460,
+  "temperature": 13062.4,
+  "humidity": 37856.0,
+  "status": "Disconnected",
+  "timestamp": 1488418251840
+},
+{
+  "device_id": 833,
+  "vcc": 460,
+  "temperature": 13078.099999999999,
+  "humidity": 37901.5,
+  "status": "Disconnected",
+  "timestamp": 1490207216085
+},
+{
+  "device_id": 834,
+  "vcc": 460,
+  "temperature": 13093.8,
+  "humidity": 37947.0,
+  "status": "Disconnected",
+  "timestamp": 1491996180330
+},
+{
+  "device_id": 835,
+  "vcc": 460,
+  "temperature": 13109.5,
+  "humidity": 37992.5,
+  "status": "Disconnected",
+  "timestamp": 1493785144575
+},
+{
+  "device_id": 836,
+  "vcc": 460,
+  "temperature": 13125.199999999999,
+  "humidity": 38038.0,
+  "status": "Disconnected",
+  "timestamp": 1495574108820
+},
+{
+  "device_id": 837,
+  "vcc": 460,
+  "temperature": 13140.9,
+  "humidity": 38083.5,
+  "status": "Disconnected",
+  "timestamp": 1497363073065
+},
+{
+  "device_id": 838,
+  "vcc": 460,
+  "temperature": 13156.599999999999,
+  "humidity": 38129.0,
+  "status": "Disconnected",
+  "timestamp": 1499152037310
+},
+{
+  "device_id": 839,
+  "vcc": 460,
+  "temperature": 13172.3,
+  "humidity": 38174.5,
+  "status": "Disconnected",
+  "timestamp": 1500941001555
+},
+{
+  "device_id": 840,
+  "vcc": 460,
+  "temperature": 13188.0,
+  "humidity": 38220.0,
+  "status": "Disconnected",
+  "timestamp": 1502729965800
+},
+{
+  "device_id": 841,
+  "vcc": 460,
+  "temperature": 13203.699999999999,
+  "humidity": 38265.5,
+  "status": "Disconnected",
+  "timestamp": 1504518930045
+},
+{
+  "device_id": 842,
+  "vcc": 460,
+  "temperature": 13219.4,
+  "humidity": 38311.0,
+  "status": "Disconnected",
+  "timestamp": 1506307894290
+},
+{
+  "device_id": 843,
+  "vcc": 460,
+  "temperature": 13235.099999999999,
+  "humidity": 38356.5,
+  "status": "Disconnected",
+  "timestamp": 1508096858535
+},
+{
+  "device_id": 844,
+  "vcc": 460,
+  "temperature": 13250.8,
+  "humidity": 38402.0,
+  "status": "Disconnected",
+  "timestamp": 1509885822780
+},
+{
+  "device_id": 845,
+  "vcc": 460,
+  "temperature": 13266.5,
+  "humidity": 38447.5,
+  "status": "Disconnected",
+  "timestamp": 1511674787025
+},
+{
+  "device_id": 846,
+  "vcc": 460,
+  "temperature": 13282.199999999999,
+  "humidity": 38493.0,
+  "status": "Disconnected",
+  "timestamp": 1513463751270
+},
+{
+  "device_id": 847,
+  "vcc": 460,
+  "temperature": 13297.9,
+  "humidity": 38538.5,
+  "status": "Disconnected",
+  "timestamp": 1515252715515
+},
+{
+  "device_id": 848,
+  "vcc": 460,
+  "temperature": 13313.599999999999,
+  "humidity": 38584.0,
+  "status": "Disconnected",
+  "timestamp": 1517041679760
+},
+{
+  "device_id": 849,
+  "vcc": 460,
+  "temperature": 13329.3,
+  "humidity": 38629.5,
+  "status": "Disconnected",
+  "timestamp": 1518830644005
+},
+{
+  "device_id": 850,
+  "vcc": 460,
+  "temperature": 13345.0,
+  "humidity": 38675.0,
+  "status": "Disconnected",
+  "timestamp": 1520619608250
+},
+{
+  "device_id": 851,
+  "vcc": 460,
+  "temperature": 13360.699999999999,
+  "humidity": 38720.5,
+  "status": "Disconnected",
+  "timestamp": 1522408572495
+},
+{
+  "device_id": 852,
+  "vcc": 460,
+  "temperature": 13376.4,
+  "humidity": 38766.0,
+  "status": "Disconnected",
+  "timestamp": 1524197536740
+},
+{
+  "device_id": 853,
+  "vcc": 460,
+  "temperature": 13392.099999999999,
+  "humidity": 38811.5,
+  "status": "Disconnected",
+  "timestamp": 1525986500985
+},
+{
+  "device_id": 854,
+  "vcc": 460,
+  "temperature": 13407.8,
+  "humidity": 38857.0,
+  "status": "Disconnected",
+  "timestamp": 1527775465230
+},
+{
+  "device_id": 855,
+  "vcc": 460,
+  "temperature": 13423.5,
+  "humidity": 38902.5,
+  "status": "Disconnected",
+  "timestamp": 1529564429475
+},
+{
+  "device_id": 856,
+  "vcc": 460,
+  "temperature": 13439.199999999999,
+  "humidity": 38948.0,
+  "status": "Disconnected",
+  "timestamp": 1531353393720
+},
+{
+  "device_id": 857,
+  "vcc": 460,
+  "temperature": 13454.9,
+  "humidity": 38993.5,
+  "status": "Disconnected",
+  "timestamp": 1533142357965
+},
+{
+  "device_id": 858,
+  "vcc": 460,
+  "temperature": 13470.599999999999,
+  "humidity": 39039.0,
+  "status": "Disconnected",
+  "timestamp": 1534931322210
+},
+{
+  "device_id": 859,
+  "vcc": 460,
+  "temperature": 13486.3,
+  "humidity": 39084.5,
+  "status": "Disconnected",
+  "timestamp": 1536720286455
+},
+{
+  "device_id": 860,
+  "vcc": 460,
+  "temperature": 13502.0,
+  "humidity": 39130.0,
+  "status": "Disconnected",
+  "timestamp": 1538509250700
+},
+{
+  "device_id": 861,
+  "vcc": 460,
+  "temperature": 13517.699999999999,
+  "humidity": 39175.5,
+  "status": "Disconnected",
+  "timestamp": 1540298214945
+},
+{
+  "device_id": 862,
+  "vcc": 460,
+  "temperature": 13533.4,
+  "humidity": 39221.0,
+  "status": "Disconnected",
+  "timestamp": 1542087179190
+},
+{
+  "device_id": 863,
+  "vcc": 460,
+  "temperature": 13549.099999999999,
+  "humidity": 39266.5,
+  "status": "Disconnected",
+  "timestamp": 1543876143435
+},
+{
+  "device_id": 864,
+  "vcc": 460,
+  "temperature": 13564.8,
+  "humidity": 39312.0,
+  "status": "Disconnected",
+  "timestamp": 1545665107680
+},
+{
+  "device_id": 865,
+  "vcc": 460,
+  "temperature": 13580.5,
+  "humidity": 39357.5,
+  "status": "Disconnected",
+  "timestamp": 1547454071925
+},
+{
+  "device_id": 866,
+  "vcc": 460,
+  "temperature": 13596.199999999999,
+  "humidity": 39403.0,
+  "status": "Disconnected",
+  "timestamp": 1549243036170
+},
+{
+  "device_id": 867,
+  "vcc": 460,
+  "temperature": 13611.9,
+  "humidity": 39448.5,
+  "status": "Disconnected",
+  "timestamp": 1551032000415
+},
+{
+  "device_id": 868,
+  "vcc": 460,
+  "temperature": 13627.599999999999,
+  "humidity": 39494.0,
+  "status": "Disconnected",
+  "timestamp": 1552820964660
+},
+{
+  "device_id": 869,
+  "vcc": 460,
+  "temperature": 13643.3,
+  "humidity": 39539.5,
+  "status": "Disconnected",
+  "timestamp": 1554609928905
+},
+{
+  "device_id": 870,
+  "vcc": 460,
+  "temperature": 13659.0,
+  "humidity": 39585.0,
+  "status": "Disconnected",
+  "timestamp": 1556398893150
+},
+{
+  "device_id": 871,
+  "vcc": 460,
+  "temperature": 13674.699999999999,
+  "humidity": 39630.5,
+  "status": "Disconnected",
+  "timestamp": 1558187857395
+},
+{
+  "device_id": 872,
+  "vcc": 460,
+  "temperature": 13690.4,
+  "humidity": 39676.0,
+  "status": "Disconnected",
+  "timestamp": 1559976821640
+},
+{
+  "device_id": 873,
+  "vcc": 460,
+  "temperature": 13706.099999999999,
+  "humidity": 39721.5,
+  "status": "Disconnected",
+  "timestamp": 1561765785885
+},
+{
+  "device_id": 874,
+  "vcc": 460,
+  "temperature": 13721.8,
+  "humidity": 39767.0,
+  "status": "Disconnected",
+  "timestamp": 1563554750130
+},
+{
+  "device_id": 875,
+  "vcc": 460,
+  "temperature": 13737.5,
+  "humidity": 39812.5,
+  "status": "Disconnected",
+  "timestamp": 1565343714375
+},
+{
+  "device_id": 876,
+  "vcc": 460,
+  "temperature": 13753.199999999999,
+  "humidity": 39858.0,
+  "status": "Disconnected",
+  "timestamp": 1567132678620
+},
+{
+  "device_id": 877,
+  "vcc": 460,
+  "temperature": 13768.9,
+  "humidity": 39903.5,
+  "status": "Disconnected",
+  "timestamp": 1568921642865
+},
+{
+  "device_id": 878,
+  "vcc": 460,
+  "temperature": 13784.599999999999,
+  "humidity": 39949.0,
+  "status": "Disconnected",
+  "timestamp": 1570710607110
+},
+{
+  "device_id": 879,
+  "vcc": 460,
+  "temperature": 13800.3,
+  "humidity": 39994.5,
+  "status": "Disconnected",
+  "timestamp": 1572499571355
+},
+{
+  "device_id": 880,
+  "vcc": 460,
+  "temperature": 13816.0,
+  "humidity": 40040.0,
+  "status": "Disconnected",
+  "timestamp": 1574288535600
+},
+{
+  "device_id": 881,
+  "vcc": 460,
+  "temperature": 13831.699999999999,
+  "humidity": 40085.5,
+  "status": "Disconnected",
+  "timestamp": 1576077499845
+},
+{
+  "device_id": 882,
+  "vcc": 460,
+  "temperature": 13847.4,
+  "humidity": 40131.0,
+  "status": "Disconnected",
+  "timestamp": 1577866464090
+},
+{
+  "device_id": 883,
+  "vcc": 460,
+  "temperature": 13863.099999999999,
+  "humidity": 40176.5,
+  "status": "Disconnected",
+  "timestamp": 1579655428335
+},
+{
+  "device_id": 884,
+  "vcc": 460,
+  "temperature": 13878.8,
+  "humidity": 40222.0,
+  "status": "Disconnected",
+  "timestamp": 1581444392580
+},
+{
+  "device_id": 885,
+  "vcc": 460,
+  "temperature": 13894.5,
+  "humidity": 40267.5,
+  "status": "Disconnected",
+  "timestamp": 1583233356825
+},
+{
+  "device_id": 886,
+  "vcc": 460,
+  "temperature": 13910.199999999999,
+  "humidity": 40313.0,
+  "status": "Disconnected",
+  "timestamp": 1585022321070
+},
+{
+  "device_id": 887,
+  "vcc": 460,
+  "temperature": 13925.9,
+  "humidity": 40358.5,
+  "status": "Disconnected",
+  "timestamp": 1586811285315
+},
+{
+  "device_id": 888,
+  "vcc": 460,
+  "temperature": 13941.599999999999,
+  "humidity": 40404.0,
+  "status": "Disconnected",
+  "timestamp": 1588600249560
+},
+{
+  "device_id": 889,
+  "vcc": 460,
+  "temperature": 13957.3,
+  "humidity": 40449.5,
+  "status": "Disconnected",
+  "timestamp": 1590389213805
+},
+{
+  "device_id": 890,
+  "vcc": 460,
+  "temperature": 13973.0,
+  "humidity": 40495.0,
+  "status": "Disconnected",
+  "timestamp": 1592178178050
+},
+{
+  "device_id": 891,
+  "vcc": 460,
+  "temperature": 13988.699999999999,
+  "humidity": 40540.5,
+  "status": "Disconnected",
+  "timestamp": 1593967142295
+},
+{
+  "device_id": 892,
+  "vcc": 460,
+  "temperature": 14004.4,
+  "humidity": 40586.0,
+  "status": "Disconnected",
+  "timestamp": 1595756106540
+},
+{
+  "device_id": 893,
+  "vcc": 460,
+  "temperature": 14020.099999999999,
+  "humidity": 40631.5,
+  "status": "Disconnected",
+  "timestamp": 1597545070785
+},
+{
+  "device_id": 894,
+  "vcc": 460,
+  "temperature": 14035.8,
+  "humidity": 40677.0,
+  "status": "Disconnected",
+  "timestamp": 1599334035030
+},
+{
+  "device_id": 895,
+  "vcc": 460,
+  "temperature": 14051.5,
+  "humidity": 40722.5,
+  "status": "Disconnected",
+  "timestamp": 1601122999275
+},
+{
+  "device_id": 896,
+  "vcc": 460,
+  "temperature": 14067.199999999999,
+  "humidity": 40768.0,
+  "status": "Disconnected",
+  "timestamp": 1602911963520
+},
+{
+  "device_id": 897,
+  "vcc": 460,
+  "temperature": 14082.9,
+  "humidity": 40813.5,
+  "status": "Disconnected",
+  "timestamp": 1604700927765
+},
+{
+  "device_id": 898,
+  "vcc": 460,
+  "temperature": 14098.599999999999,
+  "humidity": 40859.0,
+  "status": "Disconnected",
+  "timestamp": 1606489892010
+},
+{
+  "device_id": 899,
+  "vcc": 460,
+  "temperature": 14114.3,
+  "humidity": 40904.5,
+  "status": "Disconnected",
+  "timestamp": 1608278856255
+},
+{
+  "device_id": 900,
+  "vcc": 460,
+  "temperature": 14130.0,
+  "humidity": 40950.0,
+  "status": "Disconnected",
+  "timestamp": 1610067820500
+},
+{
+  "device_id": 901,
+  "vcc": 460,
+  "temperature": 14145.699999999999,
+  "humidity": 40995.5,
+  "status": "Disconnected",
+  "timestamp": 1611856784745
+},
+{
+  "device_id": 902,
+  "vcc": 460,
+  "temperature": 14161.4,
+  "humidity": 41041.0,
+  "status": "Disconnected",
+  "timestamp": 1613645748990
+},
+{
+  "device_id": 903,
+  "vcc": 460,
+  "temperature": 14177.099999999999,
+  "humidity": 41086.5,
+  "status": "Disconnected",
+  "timestamp": 1615434713235
+},
+{
+  "device_id": 904,
+  "vcc": 460,
+  "temperature": 14192.8,
+  "humidity": 41132.0,
+  "status": "Disconnected",
+  "timestamp": 1617223677480
+},
+{
+  "device_id": 905,
+  "vcc": 460,
+  "temperature": 14208.5,
+  "humidity": 41177.5,
+  "status": "Disconnected",
+  "timestamp": 1619012641725
+},
+{
+  "device_id": 906,
+  "vcc": 460,
+  "temperature": 14224.199999999999,
+  "humidity": 41223.0,
+  "status": "Disconnected",
+  "timestamp": 1620801605970
+},
+{
+  "device_id": 907,
+  "vcc": 460,
+  "temperature": 14239.9,
+  "humidity": 41268.5,
+  "status": "Disconnected",
+  "timestamp": 1622590570215
+},
+{
+  "device_id": 908,
+  "vcc": 460,
+  "temperature": 14255.599999999999,
+  "humidity": 41314.0,
+  "status": "Disconnected",
+  "timestamp": 1624379534460
+},
+{
+  "device_id": 909,
+  "vcc": 460,
+  "temperature": 14271.3,
+  "humidity": 41359.5,
+  "status": "Disconnected",
+  "timestamp": 1626168498705
+},
+{
+  "device_id": 910,
+  "vcc": 460,
+  "temperature": 14287.0,
+  "humidity": 41405.0,
+  "status": "Disconnected",
+  "timestamp": 1627957462950
+},
+{
+  "device_id": 911,
+  "vcc": 460,
+  "temperature": 14302.699999999999,
+  "humidity": 41450.5,
+  "status": "Disconnected",
+  "timestamp": 1629746427195
+},
+{
+  "device_id": 912,
+  "vcc": 460,
+  "temperature": 14318.4,
+  "humidity": 41496.0,
+  "status": "Disconnected",
+  "timestamp": 1631535391440
+},
+{
+  "device_id": 913,
+  "vcc": 460,
+  "temperature": 14334.099999999999,
+  "humidity": 41541.5,
+  "status": "Disconnected",
+  "timestamp": 1633324355685
+},
+{
+  "device_id": 914,
+  "vcc": 460,
+  "temperature": 14349.8,
+  "humidity": 41587.0,
+  "status": "Disconnected",
+  "timestamp": 1635113319930
+},
+{
+  "device_id": 915,
+  "vcc": 460,
+  "temperature": 14365.5,
+  "humidity": 41632.5,
+  "status": "Disconnected",
+  "timestamp": 1636902284175
+},
+{
+  "device_id": 916,
+  "vcc": 460,
+  "temperature": 14381.199999999999,
+  "humidity": 41678.0,
+  "status": "Disconnected",
+  "timestamp": 1638691248420
+},
+{
+  "device_id": 917,
+  "vcc": 460,
+  "temperature": 14396.9,
+  "humidity": 41723.5,
+  "status": "Disconnected",
+  "timestamp": 1640480212665
+},
+{
+  "device_id": 918,
+  "vcc": 460,
+  "temperature": 14412.599999999999,
+  "humidity": 41769.0,
+  "status": "Disconnected",
+  "timestamp": 1642269176910
+},
+{
+  "device_id": 919,
+  "vcc": 460,
+  "temperature": 14428.3,
+  "humidity": 41814.5,
+  "status": "Disconnected",
+  "timestamp": 1644058141155
+},
+{
+  "device_id": 920,
+  "vcc": 460,
+  "temperature": 14444.0,
+  "humidity": 41860.0,
+  "status": "Disconnected",
+  "timestamp": 1645847105400
+},
+{
+  "device_id": 921,
+  "vcc": 460,
+  "temperature": 14459.699999999999,
+  "humidity": 41905.5,
+  "status": "Disconnected",
+  "timestamp": 1647636069645
+},
+{
+  "device_id": 922,
+  "vcc": 460,
+  "temperature": 14475.4,
+  "humidity": 41951.0,
+  "status": "Disconnected",
+  "timestamp": 1649425033890
+},
+{
+  "device_id": 923,
+  "vcc": 460,
+  "temperature": 14491.099999999999,
+  "humidity": 41996.5,
+  "status": "Disconnected",
+  "timestamp": 1651213998135
+},
+{
+  "device_id": 924,
+  "vcc": 460,
+  "temperature": 14506.8,
+  "humidity": 42042.0,
+  "status": "Disconnected",
+  "timestamp": 1653002962380
+},
+{
+  "device_id": 925,
+  "vcc": 460,
+  "temperature": 14522.5,
+  "humidity": 42087.5,
+  "status": "Disconnected",
+  "timestamp": 1654791926625
+},
+{
+  "device_id": 926,
+  "vcc": 460,
+  "temperature": 14538.199999999999,
+  "humidity": 42133.0,
+  "status": "Disconnected",
+  "timestamp": 1656580890870
+},
+{
+  "device_id": 927,
+  "vcc": 460,
+  "temperature": 14553.9,
+  "humidity": 42178.5,
+  "status": "Disconnected",
+  "timestamp": 1658369855115
+},
+{
+  "device_id": 928,
+  "vcc": 460,
+  "temperature": 14569.599999999999,
+  "humidity": 42224.0,
+  "status": "Disconnected",
+  "timestamp": 1660158819360
+},
+{
+  "device_id": 929,
+  "vcc": 460,
+  "temperature": 14585.3,
+  "humidity": 42269.5,
+  "status": "Disconnected",
+  "timestamp": 1661947783605
+},
+{
+  "device_id": 930,
+  "vcc": 460,
+  "temperature": 14601.0,
+  "humidity": 42315.0,
+  "status": "Disconnected",
+  "timestamp": 1663736747850
+},
+{
+  "device_id": 931,
+  "vcc": 460,
+  "temperature": 14616.699999999999,
+  "humidity": 42360.5,
+  "status": "Disconnected",
+  "timestamp": 1665525712095
+},
+{
+  "device_id": 932,
+  "vcc": 460,
+  "temperature": 14632.4,
+  "humidity": 42406.0,
+  "status": "Disconnected",
+  "timestamp": 1667314676340
+},
+{
+  "device_id": 933,
+  "vcc": 460,
+  "temperature": 14648.099999999999,
+  "humidity": 42451.5,
+  "status": "Disconnected",
+  "timestamp": 1669103640585
+},
+{
+  "device_id": 934,
+  "vcc": 460,
+  "temperature": 14663.8,
+  "humidity": 42497.0,
+  "status": "Disconnected",
+  "timestamp": 1670892604830
+},
+{
+  "device_id": 935,
+  "vcc": 460,
+  "temperature": 14679.5,
+  "humidity": 42542.5,
+  "status": "Disconnected",
+  "timestamp": 1672681569075
+},
+{
+  "device_id": 936,
+  "vcc": 460,
+  "temperature": 14695.199999999999,
+  "humidity": 42588.0,
+  "status": "Disconnected",
+  "timestamp": 1674470533320
+},
+{
+  "device_id": 937,
+  "vcc": 460,
+  "temperature": 14710.9,
+  "humidity": 42633.5,
+  "status": "Disconnected",
+  "timestamp": 1676259497565
+},
+{
+  "device_id": 938,
+  "vcc": 460,
+  "temperature": 14726.599999999999,
+  "humidity": 42679.0,
+  "status": "Disconnected",
+  "timestamp": 1678048461810
+},
+{
+  "device_id": 939,
+  "vcc": 460,
+  "temperature": 14742.3,
+  "humidity": 42724.5,
+  "status": "Disconnected",
+  "timestamp": 1679837426055
+},
+{
+  "device_id": 940,
+  "vcc": 460,
+  "temperature": 14758.0,
+  "humidity": 42770.0,
+  "status": "Disconnected",
+  "timestamp": 1681626390300
+},
+{
+  "device_id": 941,
+  "vcc": 460,
+  "temperature": 14773.699999999999,
+  "humidity": 42815.5,
+  "status": "Disconnected",
+  "timestamp": 1683415354545
+},
+{
+  "device_id": 942,
+  "vcc": 460,
+  "temperature": 14789.4,
+  "humidity": 42861.0,
+  "status": "Disconnected",
+  "timestamp": 1685204318790
+},
+{
+  "device_id": 943,
+  "vcc": 460,
+  "temperature": 14805.099999999999,
+  "humidity": 42906.5,
+  "status": "Disconnected",
+  "timestamp": 1686993283035
+},
+{
+  "device_id": 944,
+  "vcc": 460,
+  "temperature": 14820.8,
+  "humidity": 42952.0,
+  "status": "Disconnected",
+  "timestamp": 1688782247280
+},
+{
+  "device_id": 945,
+  "vcc": 460,
+  "temperature": 14836.5,
+  "humidity": 42997.5,
+  "status": "Disconnected",
+  "timestamp": 1690571211525
+},
+{
+  "device_id": 946,
+  "vcc": 460,
+  "temperature": 14852.199999999999,
+  "humidity": 43043.0,
+  "status": "Disconnected",
+  "timestamp": 1692360175770
+},
+{
+  "device_id": 947,
+  "vcc": 460,
+  "temperature": 14867.9,
+  "humidity": 43088.5,
+  "status": "Disconnected",
+  "timestamp": 1694149140015
+},
+{
+  "device_id": 948,
+  "vcc": 460,
+  "temperature": 14883.599999999999,
+  "humidity": 43134.0,
+  "status": "Disconnected",
+  "timestamp": 1695938104260
+},
+{
+  "device_id": 949,
+  "vcc": 460,
+  "temperature": 14899.3,
+  "humidity": 43179.5,
+  "status": "Disconnected",
+  "timestamp": 1697727068505
+},
+{
+  "device_id": 950,
+  "vcc": 460,
+  "temperature": 14915.0,
+  "humidity": 43225.0,
+  "status": "Disconnected",
+  "timestamp": 1699516032750
+},
+{
+  "device_id": 951,
+  "vcc": 460,
+  "temperature": 14930.699999999999,
+  "humidity": 43270.5,
+  "status": "Disconnected",
+  "timestamp": 1701304996995
+},
+{
+  "device_id": 952,
+  "vcc": 460,
+  "temperature": 14946.4,
+  "humidity": 43316.0,
+  "status": "Disconnected",
+  "timestamp": 1703093961240
+},
+{
+  "device_id": 953,
+  "vcc": 460,
+  "temperature": 14962.099999999999,
+  "humidity": 43361.5,
+  "status": "Disconnected",
+  "timestamp": 1704882925485
+},
+{
+  "device_id": 954,
+  "vcc": 460,
+  "temperature": 14977.8,
+  "humidity": 43407.0,
+  "status": "Disconnected",
+  "timestamp": 1706671889730
+},
+{
+  "device_id": 955,
+  "vcc": 460,
+  "temperature": 14993.5,
+  "humidity": 43452.5,
+  "status": "Disconnected",
+  "timestamp": 1708460853975
+},
+{
+  "device_id": 956,
+  "vcc": 460,
+  "temperature": 15009.199999999999,
+  "humidity": 43498.0,
+  "status": "Disconnected",
+  "timestamp": 1710249818220
+},
+{
+  "device_id": 957,
+  "vcc": 460,
+  "temperature": 15024.9,
+  "humidity": 43543.5,
+  "status": "Disconnected",
+  "timestamp": 1712038782465
+},
+{
+  "device_id": 958,
+  "vcc": 460,
+  "temperature": 15040.599999999999,
+  "humidity": 43589.0,
+  "status": "Disconnected",
+  "timestamp": 1713827746710
+},
+{
+  "device_id": 959,
+  "vcc": 460,
+  "temperature": 15056.3,
+  "humidity": 43634.5,
+  "status": "Disconnected",
+  "timestamp": 1715616710955
+},
+{
+  "device_id": 960,
+  "vcc": 460,
+  "temperature": 15072.0,
+  "humidity": 43680.0,
+  "status": "Disconnected",
+  "timestamp": 1717405675200
+},
+{
+  "device_id": 961,
+  "vcc": 460,
+  "temperature": 15087.699999999999,
+  "humidity": 43725.5,
+  "status": "Disconnected",
+  "timestamp": 1719194639445
+},
+{
+  "device_id": 962,
+  "vcc": 460,
+  "temperature": 15103.4,
+  "humidity": 43771.0,
+  "status": "Disconnected",
+  "timestamp": 1720983603690
+},
+{
+  "device_id": 963,
+  "vcc": 460,
+  "temperature": 15119.099999999999,
+  "humidity": 43816.5,
+  "status": "Disconnected",
+  "timestamp": 1722772567935
+},
+{
+  "device_id": 964,
+  "vcc": 460,
+  "temperature": 15134.8,
+  "humidity": 43862.0,
+  "status": "Disconnected",
+  "timestamp": 1724561532180
+},
+{
+  "device_id": 965,
+  "vcc": 460,
+  "temperature": 15150.5,
+  "humidity": 43907.5,
+  "status": "Disconnected",
+  "timestamp": 1726350496425
+},
+{
+  "device_id": 966,
+  "vcc": 460,
+  "temperature": 15166.199999999999,
+  "humidity": 43953.0,
+  "status": "Disconnected",
+  "timestamp": 1728139460670
+},
+{
+  "device_id": 967,
+  "vcc": 460,
+  "temperature": 15181.9,
+  "humidity": 43998.5,
+  "status": "Disconnected",
+  "timestamp": 1729928424915
+},
+{
+  "device_id": 968,
+  "vcc": 460,
+  "temperature": 15197.599999999999,
+  "humidity": 44044.0,
+  "status": "Disconnected",
+  "timestamp": 1731717389160
+},
+{
+  "device_id": 969,
+  "vcc": 460,
+  "temperature": 15213.3,
+  "humidity": 44089.5,
+  "status": "Disconnected",
+  "timestamp": 1733506353405
+},
+{
+  "device_id": 970,
+  "vcc": 460,
+  "temperature": 15229.0,
+  "humidity": 44135.0,
+  "status": "Disconnected",
+  "timestamp": 1735295317650
+},
+{
+  "device_id": 971,
+  "vcc": 460,
+  "temperature": 15244.699999999999,
+  "humidity": 44180.5,
+  "status": "Disconnected",
+  "timestamp": 1737084281895
+},
+{
+  "device_id": 972,
+  "vcc": 460,
+  "temperature": 15260.4,
+  "humidity": 44226.0,
+  "status": "Disconnected",
+  "timestamp": 1738873246140
+},
+{
+  "device_id": 973,
+  "vcc": 460,
+  "temperature": 15276.099999999999,
+  "humidity": 44271.5,
+  "status": "Disconnected",
+  "timestamp": 1740662210385
+},
+{
+  "device_id": 974,
+  "vcc": 460,
+  "temperature": 15291.8,
+  "humidity": 44317.0,
+  "status": "Disconnected",
+  "timestamp": 1742451174630
+},
+{
+  "device_id": 975,
+  "vcc": 460,
+  "temperature": 15307.5,
+  "humidity": 44362.5,
+  "status": "Disconnected",
+  "timestamp": 1744240138875
+},
+{
+  "device_id": 976,
+  "vcc": 460,
+  "temperature": 15323.199999999999,
+  "humidity": 44408.0,
+  "status": "Disconnected",
+  "timestamp": 1746029103120
+},
+{
+  "device_id": 977,
+  "vcc": 460,
+  "temperature": 15338.9,
+  "humidity": 44453.5,
+  "status": "Disconnected",
+  "timestamp": 1747818067365
+},
+{
+  "device_id": 978,
+  "vcc": 460,
+  "temperature": 15354.599999999999,
+  "humidity": 44499.0,
+  "status": "Disconnected",
+  "timestamp": 1749607031610
+},
+{
+  "device_id": 979,
+  "vcc": 460,
+  "temperature": 15370.3,
+  "humidity": 44544.5,
+  "status": "Disconnected",
+  "timestamp": 1751395995855
+},
+{
+  "device_id": 980,
+  "vcc": 460,
+  "temperature": 15386.0,
+  "humidity": 44590.0,
+  "status": "Disconnected",
+  "timestamp": 1753184960100
+},
+{
+  "device_id": 981,
+  "vcc": 460,
+  "temperature": 15401.699999999999,
+  "humidity": 44635.5,
+  "status": "Disconnected",
+  "timestamp": 1754973924345
+},
+{
+  "device_id": 982,
+  "vcc": 460,
+  "temperature": 15417.4,
+  "humidity": 44681.0,
+  "status": "Disconnected",
+  "timestamp": 1756762888590
+},
+{
+  "device_id": 983,
+  "vcc": 460,
+  "temperature": 15433.099999999999,
+  "humidity": 44726.5,
+  "status": "Disconnected",
+  "timestamp": 1758551852835
+},
+{
+  "device_id": 984,
+  "vcc": 460,
+  "temperature": 15448.8,
+  "humidity": 44772.0,
+  "status": "Disconnected",
+  "timestamp": 1760340817080
+},
+{
+  "device_id": 985,
+  "vcc": 460,
+  "temperature": 15464.5,
+  "humidity": 44817.5,
+  "status": "Disconnected",
+  "timestamp": 1762129781325
+},
+{
+  "device_id": 986,
+  "vcc": 460,
+  "temperature": 15480.199999999999,
+  "humidity": 44863.0,
+  "status": "Disconnected",
+  "timestamp": 1763918745570
+},
+{
+  "device_id": 987,
+  "vcc": 460,
+  "temperature": 15495.9,
+  "humidity": 44908.5,
+  "status": "Disconnected",
+  "timestamp": 1765707709815
+},
+{
+  "device_id": 988,
+  "vcc": 460,
+  "temperature": 15511.599999999999,
+  "humidity": 44954.0,
+  "status": "Disconnected",
+  "timestamp": 1767496674060
+},
+{
+  "device_id": 989,
+  "vcc": 460,
+  "temperature": 15527.3,
+  "humidity": 44999.5,
+  "status": "Disconnected",
+  "timestamp": 1769285638305
+},
+{
+  "device_id": 990,
+  "vcc": 460,
+  "temperature": 15543.0,
+  "humidity": 45045.0,
+  "status": "Disconnected",
+  "timestamp": 1771074602550
+},
+{
+  "device_id": 991,
+  "vcc": 460,
+  "temperature": 15558.699999999999,
+  "humidity": 45090.5,
+  "status": "Disconnected",
+  "timestamp": 1772863566795
+},
+{
+  "device_id": 992,
+  "vcc": 460,
+  "temperature": 15574.4,
+  "humidity": 45136.0,
+  "status": "Disconnected",
+  "timestamp": 1774652531040
+},
+{
+  "device_id": 993,
+  "vcc": 460,
+  "temperature": 15590.099999999999,
+  "humidity": 45181.5,
+  "status": "Disconnected",
+  "timestamp": 1776441495285
+},
+{
+  "device_id": 994,
+  "vcc": 460,
+  "temperature": 15605.8,
+  "humidity": 45227.0,
+  "status": "Disconnected",
+  "timestamp": 1778230459530
+},
+{
+  "device_id": 995,
+  "vcc": 460,
+  "temperature": 15621.5,
+  "humidity": 45272.5,
+  "status": "Disconnected",
+  "timestamp": 1780019423775
+},
+{
+  "device_id": 996,
+  "vcc": 460,
+  "temperature": 15637.199999999999,
+  "humidity": 45318.0,
+  "status": "Disconnected",
+  "timestamp": 1781808388020
+},
+{
+  "device_id": 997,
+  "vcc": 460,
+  "temperature": 15652.9,
+  "humidity": 45363.5,
+  "status": "Disconnected",
+  "timestamp": 1783597352265
+},
+{
+  "device_id": 998,
+  "vcc": 460,
+  "temperature": 15668.599999999999,
+  "humidity": 45409.0,
+  "status": "Disconnected",
+  "timestamp": 1785386316510
+},
+{
+  "device_id": 999,
+  "vcc": 460,
+  "temperature": 15684.3,
+  "humidity": 45454.5,
+  "status": "Disconnected",
+  "timestamp": 1787175280755
+},
+]
