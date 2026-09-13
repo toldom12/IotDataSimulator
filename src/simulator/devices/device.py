@@ -7,8 +7,8 @@ class MotionStatus(IntEnum):
     MovementOff = 0
 
 class StatusDevice(StrEnum):
-    Disconnected = 'ON'
-    Connected = 'OFF'
+    Disconnected = 'OFF'
+    Connected = 'ON'
 
 class Device(ABC):
     def __init__(self,

@@ -1,6 +1,6 @@
 import pytest
 
-from src.simulator.devices.device import Status
+from src.simulator.devices.device import StatusDevice
 from src.simulator.devices.smart_plug import SmartPlug
 
 
@@ -12,7 +12,7 @@ def plug():
                     device_id=2,
                     created_by='mg',
                     battery_level=100,
-                    status=Status.ON,
+                    status=StatusDevice.Connected,
                     gateway=['255.224.223.222'],
                     generate_data={
                         'device_id': 2,
